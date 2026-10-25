@@ -1,0 +1,900 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eru//Jadlospis//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jadłospis Eru
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2026-10-26-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261026T080000
+DTEND:20261026T082000
+SUMMARY:Śniadanie: Owsianka jabłkowo-cynamonowa (476 kcal)
+DESCRIPTION:50g płatków owsianych\, 200ml mleka 2%\, 1 jabłko duszone w 
+ kostkę\, 1 łyżka chia (10g)\, 10g pestek dyni\, cynamon\, szczypta imbi
+ ru\n\nDuszone jabłko + chia = błonnik rozpuszczalny\; pestki dają tłus
+ zcz na poślizg. Zacznij dzień od szklanki ciepłej wody.\n\nBiałko: 18 
+ g · Suma dnia: 1442 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Owsianka jabłkowo-cynamonowa
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261026T113000
+DTEND:20261026T115000
+SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
+DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 20g pestek dyni\n\nCiep
+ łe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g · Suma
+  dnia: 1442 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pieczone jabłko z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261026T160000
+DTEND:20261026T162000
+SUMMARY:Obiad (prep 1/2): Curry z ciecierzycy i dyni z ryżem basmati (569 
+ kcal)
+DESCRIPTION:70g ryżu basmati (sucha masa)\, 120g ciecierzycy z puszki\, 15
+ 0g dyni\, 100ml mleczka kokosowego light\, ½ cebuli\, czosnek\, imbir\, k
+ urkuma\, kmin rzymski\, garam masala\, 1 łyżeczka oliwy\n\nKurkuma + kmi
+ n + imbir to trio prokinetyczne. Ugotuj podwójną porcję na jutro.\n\nBi
+ ałko: 17 g · Suma dnia: 1442 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Curry z ciecierzycy i dyni z ryżem basmati
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261026T193000
+DTEND:20261026T195000
+SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
+DESCRIPTION:150g serka wiejskiego light\, 1 kromka chleba ziarnistego (35g)
+ \, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regeneruj
+ ą się w nocy.\n\nBiałko: 21 g · Suma dnia: 1442 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Serek wiejski z kromką ziarnistego
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261027T080000
+DTEND:20261027T082000
+SUMMARY:Śniadanie: Jajecznica sezamowa ze szpinakiem (435 kcal)
+DESCRIPTION:2 jajka\, 50g serka wiejskiego (wmieszany pod koniec)\, 1 łyż
+ eczka oleju sezamowego\, 50g szpinaku\, 1 pomidor podduszony\, 2 kromki ch
+ leba ziarnistego (70g)\, sezam\n\nOlej sezamowy w ajurwedzie 'nawilża' je
+ lita (vata). Pomidor podduś zamiast jeść na surowo.\n\nBiałko: 27 g ·
+  Suma dnia: 1426 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jajecznica sezamowa ze szpinakiem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261027T113000
+DTEND:20261027T115000
+SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
+DESCRIPTION:150g skyru naturalnego\, 80g mrożonych truskawek podgrzanych\,
+  1 łyżeczka chia\, 10g pestek słonecznika\n\nChia namocz 10 min przed j
+ edzeniem i popij szklanką wody.\n\nBiałko: 19 g · Suma dnia: 1426 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z ciepłymi truskawkami i chia
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261027T160000
+DTEND:20261027T162000
+SUMMARY:Obiad (prep 2/2): Curry z ciecierzycy i dyni z ryżem basmati (569 
+ kcal)
+DESCRIPTION:Porcja z dnia 1\n\nOdgrzewaj do gorąca. W ajurwedzie unika si
+ ę zimnych resztek z lodówki.\n\nBiałko: 17 g · Suma dnia: 1426 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Curry z ciecierzycy i dyni z ryżem basmati
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261027T193000
+DTEND:20261027T195000
+SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
+DESCRIPTION:15g chia\, 150ml mleka\, ½ jabłka startego i podduszonego\, c
+ ynamon\, 5g pestek dyni\n\nCiepła żelowa konsystencja to naturalny 'smar
+ ' na rano.\n\nBiałko: 10 g · Suma dnia: 1426 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261028T080000
+DTEND:20261028T082000
+SUMMARY:Śniadanie: Ciepła kasza jaglana z truskawkami i skyrem (424 kcal)
+DESCRIPTION:50g kaszy jaglanej\, 200ml mleka\, 80g mrożonych truskawek\, 1
+  łyżeczka chia\, 100g skyru\, 5g pestek słonecznika\, cynamon\n\nJaglan
+ ą przelej wrzątkiem\, żeby nie była gorzka. Rozgrzewa i jest lekkostra
+ wna.\n\nBiałko: 26 g · Suma dnia: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepła kasza jaglana z truskawkami i skyrem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261028T113000
+DTEND:20261028T115000
+SUMMARY:Przekąska: Banan z pastą z pestek słonecznika (190 kcal)
+DESCRIPTION:1 dojrzały banan\, 15g pasty ze słonecznika (bez orzechów!)\
+ n\nTylko dojrzały banan\, bo zielony zapiera.\n\nBiałko: 5 g · Suma dni
+ a: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Banan z pastą z pestek słonecznika
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261028T160000
+DTEND:20261028T162000
+SUMMARY:Obiad (prep 1/2): Tofu teriyaki z air fryera z ryżem i warzywami (
+ 575 kcal)
+DESCRIPTION:150g tofu naturalnego (kostka\, 1 łyżeczka skrobi\, 200°C 15
+  min)\, 70g ryżu basmati\, 1 marchewka i 100g brokuła na parze\, sos: 1 
+ łyżka sosu sojowego\, 1 łyżeczka miodu\, starty imbir\, czosnek\, 1 ł
+ yżeczka oleju sezamowego\n\nTofu chrupie w air fryerze bez panierki. Goto
+ wana marchew to łagodny błonnik.\n\nBiałko: 28 g · Suma dnia: 1432 kca
+ l
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tofu teriyaki z air fryera z ryżem i warzywami
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261028T193000
+DTEND:20261028T195000
+SUMMARY:Kolacja lekka: Twarożek z gotowaną marchewką i waflem (243 kcal)
+DESCRIPTION:100g twarogu półtłustego\, 1 gotowana marchewka w kostkę\, 
+ 1 łyżeczka oliwy\, kmin rzymski\, szczypiorek\, 1 wafel ryżowy\n\nOliwa
+  + gotowana marchew to klasyczne połączenie 'poślizgowe'.\n\nBiałko: 2
+ 0 g · Suma dnia: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Twarożek z gotowaną marchewką i waflem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261029T080000
+DTEND:20261029T082000
+SUMMARY:Śniadanie: Toast z serkiem wiejskim i jajkiem z air fryera (453 kc
+ al)
+DESCRIPTION:2 kromki chleba ziarnistego (70g)\, 100g serka wiejskiego\, 1 j
+ ajko (w kokilce\, 180°C 8 min)\, 50g szpinaku podduszonego na 1 łyżeczc
+ e oliwy\, szczypta kurkumy\, 10g pestek słonecznika\n\nBiałko + pełne z
+ iarno dają długą sytość przy pracy biurowej.\n\nBiałko: 26 g · Suma
+  dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Toast z serkiem wiejskim i jajkiem z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261029T113000
+DTEND:20261029T115000
+SUMMARY:Przekąska: Golden milk z waflami ryżowymi (192 kcal)
+DESCRIPTION:200ml mleka\, ½ łyżeczki ghee\, ½ łyżeczki kurkumy\, imbi
+ r\, cynamon\, szczypta pieprzu\, 2 wafle ryżowe\n\nCiepły napój rozpala
+  'agni' i pobudza perystaltykę.\n\nBiałko: 8 g · Suma dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Golden milk z waflami ryżowymi
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261029T160000
+DTEND:20261029T162000
+SUMMARY:Obiad (prep 2/2): Tofu teriyaki z air fryera z ryżem i warzywami (
+ 575 kcal)
+DESCRIPTION:Porcja z dnia 3\n\nTofu odśwież 3 min w air fryerze. Jedz pow
+ oli\, bez ekranu.\n\nBiałko: 28 g · Suma dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tofu teriyaki z air fryera z ryżem i warzywami
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261029T193000
+DTEND:20261029T195000
+SUMMARY:Kolacja lekka: Skyr z pieczonym bananem (211 kcal)
+DESCRIPTION:100g skyru\, 1 banan (air fryer 180°C 6 min)\, cynamon\, 1 ły
+ żeczka pestek dyni\n\nPieczony banan jest słodszy i łagodniejszy dla br
+ zucha.\n\nBiałko: 14 g · Suma dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z pieczonym bananem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261030T080000
+DTEND:20261030T082000
+SUMMARY:Śniadanie: Baked oats bananowe z air fryera (458 kcal)
+DESCRIPTION:50g płatków owsianych\, 1 jajko\, ½ banana\, 100g skyru\, 50
+ ml mleka\, cynamon\, 10g pestek słonecznika (kokilka\, 180°C 15 min)\n\n
+ TikTokowe 'ciasto na śniadanie'. Owies + banan = beta-glukan.\n\nBiałko:
+  28 g · Suma dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Baked oats bananowe z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261030T113000
+DTEND:20261030T115000
+SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
+DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 20g pestek dyni\n\nCiep
+ łe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g · Suma
+  dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pieczone jabłko z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261030T160000
+DTEND:20261030T162000
+SUMMARY:Obiad (prep 1/2): Dorsz miso-imbir z ziemniakami i marchewką (555 
+ kcal)
+DESCRIPTION:150g dorsza (mrożony\, rozmrożony\; air fryer 190°C 10 min)\
+ , glazura: 1 łyżeczka pasty miso\, 1 łyżeczka miodu\, 1 łyżeczka ole
+ ju sezamowego\, imbir\, sos sojowy\; 300g ziemniaków w kostce (air fryer 
+ 200°C 20 min\, 1 łyżeczka oliwy)\, 1 marchewka duszona z kminem na 1 ł
+ yżeczce oliwy\n\nMiso to fermentowany produkt\, który wspiera mikrobiom.
+  Ostudzone i odgrzane ziemniaki mają skrobię oporną.\n\nBiałko: 35 g 
+ · Suma dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dorsz miso-imbir z ziemniakami i marchewką
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261030T193000
+DTEND:20261030T195000
+SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
+DESCRIPTION:150g serka wiejskiego light\, 1 kromka chleba ziarnistego (35g)
+ \, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regeneruj
+ ą się w nocy.\n\nBiałko: 21 g · Suma dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Serek wiejski z kromką ziarnistego
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261031T080000
+DTEND:20261031T082000
+SUMMARY:Śniadanie: Placuszki bananowo-owsiane (455 kcal)
+DESCRIPTION:1 banan\, 1 jajko\, 40g płatków owsianych (zmiksować)\, sma
+ żone na 1 łyżeczce oleju\; 100g skyru\, 80g ciepłych truskawek\n\n3 sk
+ ładniki\, 10 minut. Truskawki zamiast borówek.\n\nBiałko: 24 g · Suma 
+ dnia: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placuszki bananowo-owsiane
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261031T113000
+DTEND:20261031T115000
+SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
+DESCRIPTION:150g skyru naturalnego\, 80g mrożonych truskawek podgrzanych\,
+  1 łyżeczka chia\, 10g pestek słonecznika\n\nChia namocz 10 min przed j
+ edzeniem i popij szklanką wody.\n\nBiałko: 19 g · Suma dnia: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z ciepłymi truskawkami i chia
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261031T160000
+DTEND:20261031T162000
+SUMMARY:Obiad (prep 2/2): Dorsz miso-imbir z ziemniakami i marchewką (555 
+ kcal)
+DESCRIPTION:Porcja z dnia 5\n\nOdgrzej w air fryerze 160°C 6 min. Rybę kr
+ ótko\, żeby nie wyschła.\n\nBiałko: 35 g · Suma dnia: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dorsz miso-imbir z ziemniakami i marchewką
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261031T193000
+DTEND:20261031T195000
+SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
+DESCRIPTION:15g chia\, 150ml mleka\, ½ jabłka startego i podduszonego\, c
+ ynamon\, 5g pestek dyni\n\nCiepła żelowa konsystencja to naturalny 'smar
+ ' na rano.\n\nBiałko: 10 g · Suma dnia: 1432 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261101T080000
+DTEND:20261101T082000
+SUMMARY:Śniadanie: Congee imbirowe z jajkiem i tofu (412 kcal)
+DESCRIPTION:60g ryżu basmati gotowanego w 500ml bulionu warzywnego do klei
+ stości\, plaster imbiru\, 1 jajko na miękko\, 60g tofu w kostce\, dymka\
+ , 1 łyżeczka oleju sezamowego\, kropla sosu sojowego\n\nAzjatycki 'lek' 
+ na brzuch: kleik ryżowy z imbirem. Ugotuj wieczorem dzień wcześniej.\n\
+ nBiałko: 18 g · Suma dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Congee imbirowe z jajkiem i tofu
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261101T113000
+DTEND:20261101T115000
+SUMMARY:Przekąska: Banan z pastą z pestek słonecznika (190 kcal)
+DESCRIPTION:1 dojrzały banan\, 15g pasty ze słonecznika (bez orzechów!)\
+ n\nTylko dojrzały banan\, bo zielony zapiera.\n\nBiałko: 5 g · Suma dni
+ a: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Banan z pastą z pestek słonecznika
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261101T160000
+DTEND:20261101T162000
+SUMMARY:Obiad (prep 1/2): Dhal z czerwonej soczewicy z bulgurem (565 kcal)
+DESCRIPTION:70g czerwonej soczewicy\, 50g bulguru\, 200g pomidorów z puszk
+ i\, 50g szpinaku\, ½ cebuli\, czosnek\, imbir\, kurkuma\, kmin rzymski\, 
+ 1 łyżeczka oliwy\, 2 łyżki jogurtu naturalnego\n\nCzerwona soczewica j
+ est najłagodniejsza ze strączków i nie trzeba jej moczyć.\n\nBiałko: 
+ 28 g · Suma dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dhal z czerwonej soczewicy z bulgurem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261101T193000
+DTEND:20261101T195000
+SUMMARY:Kolacja lekka: Twarożek z gotowaną marchewką i waflem (243 kcal)
+DESCRIPTION:100g twarogu półtłustego\, 1 gotowana marchewka w kostkę\, 
+ 1 łyżeczka oliwy\, kmin rzymski\, szczypiorek\, 1 wafel ryżowy\n\nOliwa
+  + gotowana marchew to klasyczne połączenie 'poślizgowe'.\n\nBiałko: 2
+ 0 g · Suma dnia: 1410 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Twarożek z gotowaną marchewką i waflem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261102T080000
+DTEND:20261102T082000
+SUMMARY:Śniadanie: Owsianka jabłkowo-cynamonowa (476 kcal)
+DESCRIPTION:50g płatków owsianych\, 200ml mleka 2%\, 1 jabłko duszone w 
+ kostkę\, 1 łyżka chia (10g)\, 10g pestek dyni\, cynamon\, szczypta imbi
+ ru\n\nDuszone jabłko + chia = błonnik rozpuszczalny\; pestki dają tłus
+ zcz na poślizg. Zacznij dzień od szklanki ciepłej wody.\n\nBiałko: 18 
+ g · Suma dnia: 1444 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Owsianka jabłkowo-cynamonowa
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261102T113000
+DTEND:20261102T115000
+SUMMARY:Przekąska: Golden milk z waflami ryżowymi (192 kcal)
+DESCRIPTION:200ml mleka\, ½ łyżeczki ghee\, ½ łyżeczki kurkumy\, imbi
+ r\, cynamon\, szczypta pieprzu\, 2 wafle ryżowe\n\nCiepły napój rozpala
+  'agni' i pobudza perystaltykę.\n\nBiałko: 8 g · Suma dnia: 1444 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Golden milk z waflami ryżowymi
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261102T160000
+DTEND:20261102T162000
+SUMMARY:Obiad (prep 2/2): Dhal z czerwonej soczewicy z bulgurem (565 kcal)
+DESCRIPTION:Porcja z dnia 7\n\nDhal smakuje lepiej drugiego dnia. Dolej ły
+ żkę wody przy odgrzewaniu.\n\nBiałko: 28 g · Suma dnia: 1444 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dhal z czerwonej soczewicy z bulgurem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261102T193000
+DTEND:20261102T195000
+SUMMARY:Kolacja lekka: Skyr z pieczonym bananem (211 kcal)
+DESCRIPTION:100g skyru\, 1 banan (air fryer 180°C 6 min)\, cynamon\, 1 ły
+ żeczka pestek dyni\n\nPieczony banan jest słodszy i łagodniejszy dla br
+ zucha.\n\nBiałko: 14 g · Suma dnia: 1444 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z pieczonym bananem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261103T080000
+DTEND:20261103T082000
+SUMMARY:Śniadanie: Jajecznica sezamowa ze szpinakiem (435 kcal)
+DESCRIPTION:2 jajka\, 50g serka wiejskiego (wmieszany pod koniec)\, 1 łyż
+ eczka oleju sezamowego\, 50g szpinaku\, 1 pomidor podduszony\, 2 kromki ch
+ leba ziarnistego (70g)\, sezam\n\nOlej sezamowy w ajurwedzie 'nawilża' je
+ lita (vata). Pomidor podduś zamiast jeść na surowo.\n\nBiałko: 27 g ·
+  Suma dnia: 1409 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jajecznica sezamowa ze szpinakiem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261103T113000
+DTEND:20261103T115000
+SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
+DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 20g pestek dyni\n\nCiep
+ łe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g · Suma
+  dnia: 1409 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pieczone jabłko z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261103T160000
+DTEND:20261103T162000
+SUMMARY:Obiad (prep 1/2): Kurczak imbirowy stir-fry z pęczakiem (577 kcal)
+DESCRIPTION:120g piersi z kurczaka w paski\, 1 cukinia\, 1 marchewka w słu
+ pki\, dymka\, 2 łyżki sosu sojowego\, imbir\, czosnek\, 1 łyżeczka ole
+ ju sezamowego\, 85g pęczaku\, 1 łyżeczka sezamu\n\nPęczak ma dużo bł
+ onnika. Warzywa duś krótko pod przykryciem.\n\nBiałko: 39 g · Suma dni
+ a: 1409 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurczak imbirowy stir-fry z pęczakiem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261103T193000
+DTEND:20261103T195000
+SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
+DESCRIPTION:150g serka wiejskiego light\, 1 kromka chleba ziarnistego (35g)
+ \, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regeneruj
+ ą się w nocy.\n\nBiałko: 21 g · Suma dnia: 1409 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Serek wiejski z kromką ziarnistego
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261104T080000
+DTEND:20261104T082000
+SUMMARY:Śniadanie: Ciepła kasza jaglana z truskawkami i skyrem (424 kcal)
+DESCRIPTION:50g kaszy jaglanej\, 200ml mleka\, 80g mrożonych truskawek\, 1
+  łyżeczka chia\, 100g skyru\, 5g pestek słonecznika\, cynamon\n\nJaglan
+ ą przelej wrzątkiem\, żeby nie była gorzka. Rozgrzewa i jest lekkostra
+ wna.\n\nBiałko: 26 g · Suma dnia: 1423 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepła kasza jaglana z truskawkami i skyrem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261104T113000
+DTEND:20261104T115000
+SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
+DESCRIPTION:150g skyru naturalnego\, 80g mrożonych truskawek podgrzanych\,
+  1 łyżeczka chia\, 10g pestek słonecznika\n\nChia namocz 10 min przed j
+ edzeniem i popij szklanką wody.\n\nBiałko: 19 g · Suma dnia: 1423 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z ciepłymi truskawkami i chia
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261104T160000
+DTEND:20261104T162000
+SUMMARY:Obiad (prep 2/2): Kurczak imbirowy stir-fry z pęczakiem (577 kcal)
+DESCRIPTION:Porcja z dnia 9\n\nOdgrzej na patelni z łyżką wody.\n\nBiał
+ ko: 39 g · Suma dnia: 1423 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurczak imbirowy stir-fry z pęczakiem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261104T193000
+DTEND:20261104T195000
+SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
+DESCRIPTION:15g chia\, 150ml mleka\, ½ jabłka startego i podduszonego\, c
+ ynamon\, 5g pestek dyni\n\nCiepła żelowa konsystencja to naturalny 'smar
+ ' na rano.\n\nBiałko: 10 g · Suma dnia: 1423 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261105T080000
+DTEND:20261105T082000
+SUMMARY:Śniadanie: Toast z serkiem wiejskim i jajkiem z air fryera (453 kc
+ al)
+DESCRIPTION:2 kromki chleba ziarnistego (70g)\, 100g serka wiejskiego\, 1 j
+ ajko (w kokilce\, 180°C 8 min)\, 50g szpinaku podduszonego na 1 łyżeczc
+ e oliwy\, szczypta kurkumy\, 10g pestek słonecznika\n\nBiałko + pełne z
+ iarno dają długą sytość przy pracy biurowej.\n\nBiałko: 26 g · Suma
+  dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Toast z serkiem wiejskim i jajkiem z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261105T113000
+DTEND:20261105T115000
+SUMMARY:Przekąska: Banan z pastą z pestek słonecznika (190 kcal)
+DESCRIPTION:1 dojrzały banan\, 15g pasty ze słonecznika (bez orzechów!)\
+ n\nTylko dojrzały banan\, bo zielony zapiera.\n\nBiałko: 5 g · Suma dni
+ a: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Banan z pastą z pestek słonecznika
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261105T160000
+DTEND:20261105T162000
+SUMMARY:Obiad (prep 1/2): Ciepły bowl z tuńczykiem po japońsku (545 kcal
+ )
+DESCRIPTION:70g ryżu basmati\, 1 puszka tuńczyka w sosie własnym (80g ne
+ tto)\, 1 łyżka jogurtu + odrobina srirachy (łagodnie)\, 1 cukinia duszo
+ na z sosem sojowym\, 1 marchewka gotowana\, 1 jajko na twardo\, 1 łyżecz
+ ka oleju sezamowego\, sezam\, nori (opcjonalnie)\n\nTikTokowy 'tuna rice b
+ owl' w wersji ciepłej: warzywa duszone zamiast surowego ogórka.\n\nBiał
+ ko: 35 g · Suma dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepły bowl z tuńczykiem po japońsku
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261105T193000
+DTEND:20261105T195000
+SUMMARY:Kolacja lekka: Twarożek z gotowaną marchewką i waflem (243 kcal)
+DESCRIPTION:100g twarogu półtłustego\, 1 gotowana marchewka w kostkę\, 
+ 1 łyżeczka oliwy\, kmin rzymski\, szczypiorek\, 1 wafel ryżowy\n\nOliwa
+  + gotowana marchew to klasyczne połączenie 'poślizgowe'.\n\nBiałko: 2
+ 0 g · Suma dnia: 1431 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Twarożek z gotowaną marchewką i waflem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261106T080000
+DTEND:20261106T082000
+SUMMARY:Śniadanie: Baked oats bananowe z air fryera (458 kcal)
+DESCRIPTION:50g płatków owsianych\, 1 jajko\, ½ banana\, 100g skyru\, 50
+ ml mleka\, cynamon\, 10g pestek słonecznika (kokilka\, 180°C 15 min)\n\n
+ TikTokowe 'ciasto na śniadanie'. Owies + banan = beta-glukan.\n\nBiałko:
+  28 g · Suma dnia: 1406 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Baked oats bananowe z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261106T113000
+DTEND:20261106T115000
+SUMMARY:Przekąska: Golden milk z waflami ryżowymi (192 kcal)
+DESCRIPTION:200ml mleka\, ½ łyżeczki ghee\, ½ łyżeczki kurkumy\, imbi
+ r\, cynamon\, szczypta pieprzu\, 2 wafle ryżowe\n\nCiepły napój rozpala
+  'agni' i pobudza perystaltykę.\n\nBiałko: 8 g · Suma dnia: 1406 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Golden milk z waflami ryżowymi
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261106T160000
+DTEND:20261106T162000
+SUMMARY:Obiad (prep 2/2): Ciepły bowl z tuńczykiem po japońsku (545 kcal
+ )
+DESCRIPTION:Porcja z dnia 11\n\nSos jogurtowy trzymaj osobno i dodaj po odg
+ rzaniu. Jogurtu nie podgrzewaj.\n\nBiałko: 35 g · Suma dnia: 1406 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepły bowl z tuńczykiem po japońsku
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261106T193000
+DTEND:20261106T195000
+SUMMARY:Kolacja lekka: Skyr z pieczonym bananem (211 kcal)
+DESCRIPTION:100g skyru\, 1 banan (air fryer 180°C 6 min)\, cynamon\, 1 ły
+ żeczka pestek dyni\n\nPieczony banan jest słodszy i łagodniejszy dla br
+ zucha.\n\nBiałko: 14 g · Suma dnia: 1406 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z pieczonym bananem
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261107T080000
+DTEND:20261107T082000
+SUMMARY:Śniadanie: Placuszki bananowo-owsiane (455 kcal)
+DESCRIPTION:1 banan\, 1 jajko\, 40g płatków owsianych (zmiksować)\, sma
+ żone na 1 łyżeczce oleju\; 100g skyru\, 80g ciepłych truskawek\n\n3 sk
+ ładniki\, 10 minut. Truskawki zamiast borówek.\n\nBiałko: 24 g · Suma 
+ dnia: 1446 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Placuszki bananowo-owsiane
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261107T113000
+DTEND:20261107T115000
+SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
+DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 20g pestek dyni\n\nCiep
+ łe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g · Suma
+  dnia: 1446 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pieczone jabłko z air fryera
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261107T160000
+DTEND:20261107T162000
+SUMMARY:Obiad (prep 1/2): Krem z dyni i marchwi z imbirem + pieczona ciecie
+ rzyca (594 kcal)
+DESCRIPTION:300g dyni\, 2 marchewki\, 1 ziemniak\, ½ cebuli\, 500ml bulion
+ u\, imbir\, kurkuma\, 1 łyżeczka oliwy\, 50ml mleczka kokosowego light\;
+  topping: 100g ciecierzycy z air fryera (200°C 12 min\, kmin\, papryka)\,
+  10g pestek dyni\, 1 kromka chleba ziarnistego jako grzanka\n\nDynia + mar
+ chew to królowe błonnika rozpuszczalnego. Ciepła zupa idealna na listop
+ ad.\n\nBiałko: 20 g · Suma dnia: 1446 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Krem z dyni i marchwi z imbirem + pieczona ciecierzyca
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261107T193000
+DTEND:20261107T195000
+SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
+DESCRIPTION:150g serka wiejskiego light\, 1 kromka chleba ziarnistego (35g)
+ \, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regeneruj
+ ą się w nocy.\n\nBiałko: 21 g · Suma dnia: 1446 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Serek wiejski z kromką ziarnistego
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-0800@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261108T080000
+DTEND:20261108T082000
+SUMMARY:Śniadanie: Congee imbirowe z jajkiem i tofu (412 kcal)
+DESCRIPTION:60g ryżu basmati gotowanego w 500ml bulionu warzywnego do klei
+ stości\, plaster imbiru\, 1 jajko na miękko\, 60g tofu w kostce\, dymka\
+ , 1 łyżeczka oleju sezamowego\, kropla sosu sojowego\n\nAzjatycki 'lek' 
+ na brzuch: kleik ryżowy z imbirem. Ugotuj wieczorem dzień wcześniej.\n\
+ nBiałko: 18 g · Suma dnia: 1428 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Congee imbirowe z jajkiem i tofu
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-1130@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261108T113000
+DTEND:20261108T115000
+SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
+DESCRIPTION:150g skyru naturalnego\, 80g mrożonych truskawek podgrzanych\,
+  1 łyżeczka chia\, 10g pestek słonecznika\n\nChia namocz 10 min przed j
+ edzeniem i popij szklanką wody.\n\nBiałko: 19 g · Suma dnia: 1428 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skyr z ciepłymi truskawkami i chia
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-1600@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261108T160000
+DTEND:20261108T162000
+SUMMARY:Obiad (prep 2/2): Krem z dyni i marchwi z imbirem + pieczona ciecie
+ rzyca (594 kcal)
+DESCRIPTION:Porcja z dnia 13\n\nZupę podgrzej\, nie gotuj długo. Ciecierz
+ ycę odśwież 3 min w air fryerze.\n\nBiałko: 20 g · Suma dnia: 1428 kc
+ al
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Krem z dyni i marchwi z imbirem + pieczona ciecierzyca
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-1930@jadlospis-eru
+DTSTAMP:20261025T113441Z
+DTSTART:20261108T193000
+DTEND:20261108T195000
+SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
+DESCRIPTION:15g chia\, 150ml mleka\, ½ jabłka startego i podduszonego\, c
+ ynamon\, 5g pestek dyni\n\nCiepła żelowa konsystencja to naturalny 'smar
+ ' na rano.\n\nBiałko: 10 g · Suma dnia: 1428 kcal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
