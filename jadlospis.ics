@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-10-25-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261025T173000
 DTEND:20261025T181500
 SUMMARY:Kuchnia: na jutro: Owsianka nocna z jabłkiem (na ciepło)
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261026T173000
 DTEND:20261026T181500
 SUMMARY:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 porc
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261026T070000
 DTEND:20261026T071000
 SUMMARY:Weź do pracy: Owsianka nocna z jabłkiem (na ciepło) + Ciepłe ja
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261027T173000
 DTEND:20261027T181500
 SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261027T070000
 DTEND:20261027T071000
 SUMMARY:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Skyr z 
@@ -120,31 +120,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261028T173000
 DTEND:20261028T181500
-SUMMARY:Kuchnia: ugotuj Tofu teriyaki z patelni z ryżem i warzywami (2 por
- cje)\; na jutro: Kanapki z serkiem\, jajkiem i duszonym szpinakiem
-DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Tofu teriyaki z patelni z ryżem
-  i warzywami\nPatelnia\, ok. 25 min. Tofu pokrój w kostkę\, obtocz w skr
- obi\, smaż na oleju sezamowym 8–10 min\, aż się zarumieni. Wlej sos s
- ojowy z miodem\, imbirem i czosnkiem\, smaż 1 min. Marchew i brokuł ugot
- uj na parze albo w odrobinie wody 6 min. Ryż osobno.\n\nNA JUTRO DO PRACY
- :\n• Kanapki z serkiem\, jajkiem i duszonym szpinakiem: Wieczorem: jajko
-  na twardo (9 min)\, szpinak podduś 2 min na patelni na oliwie z kurkumą
- . Rano: posmaruj chleb serkiem\, połóż szpinak\, plasterki jajka i pest
- ki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
+ rzywami (2 porcje)\; na jutro: Kanapki z serkiem\, jajkiem i duszonym szpi
+ nakiem
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Chrupiące tofu teriyaki z air f
+ ryera z ryżem i warzywami\nAir fryer + garnek\, ok. 25 min. Tofu pokrój 
+ w kostkę\, obtocz w skrobi\, air fryer 200°C 15 min (potrząśnij w poł
+ owie) – wychodzi chrupkie prawie bez tłuszczu. W tym czasie ugotuj ryż
+ \, a marchew i brokuł na parze albo w odrobinie wody 6 min. Na koniec wrz
+ uć tofu na patelnię z sosem (sos sojowy\, miód\, imbir\, czosnek\, olej
+  sezamowy) na 1 min.\n\nNA JUTRO DO PRACY:\n• Kanapki z serkiem\, jajkie
+ m i duszonym szpinakiem: Wieczorem: jajko na twardo (9 min)\, szpinak podd
+ uś 2 min na patelni na oliwie z kurkumą. Rano: posmaruj chleb serkiem\, 
+ połóż szpinak\, plasterki jajka i pestki.\n\nApka: https://claude.ai/ar
+ tifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Tofu teriyaki z patelni z ryżem i warzywami (2
-  porcje)\; na jutro: Kanapki z serkiem\, jajkiem i duszonym szpinakiem
+DESCRIPTION:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem 
+ i warzywami (2 porcje)\; na jutro: Kanapki z serkiem\, jajkiem i duszonym 
+ szpinakiem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261028T070000
 DTEND:20261028T071000
 SUMMARY:Weź do pracy: Jaglanka z truskawkami i skyrem + Wafle ryżowe z tw
@@ -166,29 +170,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261029T173000
 DTEND:20261029T181500
-SUMMARY:Kuchnia: odgrzej Tofu teriyaki z patelni z ryżem i warzywami\; na 
- jutro: Owsiany mug cake bananowy z mikrofali
-DESCRIPTION:OBIAD – ODGRZEWASZ: Tofu teriyaki z patelni z ryżem i warzyw
- ami\nOdgrzej na patelni 3 min albo w mikrofali 2 min.\n\nNA JUTRO DO PRACY
- :\n• Owsiany mug cake bananowy z mikrofali: Wieczorem: w dużym kubku al
- bo słoiku rozgnieć banana\, wymieszaj z jajkiem\, płatkami\, 2 łyżkam
- i skyru\, mlekiem i cynamonem. W pracy: mikrofala 2–2\,5 min\, na wierzc
- h resztę skyru i pestki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKz
- gj5wN3XYnq
+SUMMARY:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem i w
+ arzywami\; na jutro: Owsiany mug cake bananowy z mikrofali
+DESCRIPTION:OBIAD – ODGRZEWASZ: Chrupiące tofu teriyaki z air fryera z r
+ yżem i warzywami\nTofu odśwież 3 min w air fryerze (będzie znów chrup
+ kie)\, ryż i warzywa w mikrofali.\n\nNA JUTRO DO PRACY:\n• Owsiany mug 
+ cake bananowy z mikrofali: Wieczorem: w dużym kubku albo słoiku rozgnie
+ ć banana\, wymieszaj z jajkiem\, płatkami\, 2 łyżkami skyru\, mlekiem 
+ i cynamonem. W pracy: mikrofala 2–2\,5 min\, na wierzch resztę skyru i 
+ pestki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Tofu teriyaki z patelni z ryżem i warzywami\;
-  na jutro: Owsiany mug cake bananowy z mikrofali
+DESCRIPTION:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem
+  i warzywami\; na jutro: Owsiany mug cake bananowy z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261029T070000
 DTEND:20261029T071000
 SUMMARY:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakiem + 
@@ -211,36 +215,37 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261030T173000
 DTEND:20261030T181500
-SUMMARY:Kuchnia: ugotuj Dorsz miso-imbir z patelni z ziemniakami i marchewk
- ą (2 porcje)\; na jutro: Placuszki bananowo-owsiane z patelni + Skyr z ci
- epłymi truskawkami i chia
-DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dorsz miso-imbir z patelni z zie
- mniakami i marchewką\nPatelnia i garnek\, ok. 30 min. Ziemniaki ugotuj w 
- osolonej wodzie 20 min. Marchew w plasterkach podduś na oliwie z kminem p
- od przykryciem 8 min. Dorsza osusz\, smaż na oleju sezamowym 3–4 min z 
- każdej strony\, na koniec posmaruj glazurą z miso\, miodu i imbiru.\n\nN
- A JUTRO DO PRACY:\n• Placuszki bananowo-owsiane z patelni: Wieczorem: zm
- iksuj banana\, jajko i płatki\, usmaż 6 małych placuszków na patelni (
- 2 min z każdej strony). Skyr z truskawkami do osobnego słoika. W pracy: 
- placuszki mikrofala 40 s.\n• Skyr z ciepłymi truskawkami i chia: Wieczo
- rem: do słoika skyr\, mrożone truskawki\, chia i pestki. Do rana truskaw
- ki się rozmrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR
- 4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Dorsz miso-imbir z patelni\, ziemniaki z air fryera
+  i marchewka (2 porcje)\; na jutro: Placuszki bananowo-owsiane z patelni +
+  Skyr z ciepłymi truskawkami i chia
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dorsz miso-imbir z patelni\, zie
+ mniaki z air fryera i marchewka\nAir fryer + patelnia\, ok. 30 min. Ziemni
+ aki pokrój w kostkę\, wymieszaj z ½ łyżeczki oliwy\, air fryer 200°C
+  20 min. W tym czasie marchew w plasterkach podduś na reszcie oliwy z kmi
+ nem pod przykryciem 8 min. Dorsza osusz\, smaż na oleju sezamowym 3–4 m
+ in z każdej strony\, na koniec posmaruj glazurą z miso\, miodu i imbiru.
+ \n\nNA JUTRO DO PRACY:\n• Placuszki bananowo-owsiane z patelni: Wieczore
+ m: zmiksuj banana\, jajko i płatki\, usmaż 6 małych placuszków na pate
+ lni (2 min z każdej strony). Skyr z truskawkami do osobnego słoika. W pr
+ acy: placuszki mikrofala 40 s.\n• Skyr z ciepłymi truskawkami i chia: W
+ ieczorem: do słoika skyr\, mrożone truskawki\, chia i pestki. Do rana tr
+ uskawki się rozmrożą i puszczą sok.\n\nApka: https://claude.ai/artifac
+ t/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Dorsz miso-imbir z patelni z ziemniakami i marc
- hewką (2 porcje)\; na jutro: Placuszki bananowo-owsiane z patelni + Skyr 
- z ciepłymi truskawkami i chia
+DESCRIPTION:Kuchnia: ugotuj Dorsz miso-imbir z patelni\, ziemniaki z air fr
+ yera i marchewka (2 porcje)\; na jutro: Placuszki bananowo-owsiane z patel
+ ni + Skyr z ciepłymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261030T070000
 DTEND:20261030T071000
 SUMMARY:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Ciepłe jab
@@ -262,29 +267,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261031T173000
 DTEND:20261031T181500
-SUMMARY:Kuchnia: odgrzej Dorsz miso-imbir z patelni z ziemniakami i marchew
- ką\; na jutro: Congee imbirowe z jajkiem i tofu
-DESCRIPTION:OBIAD – ODGRZEWASZ: Dorsz miso-imbir z patelni z ziemniakami 
- i marchewką\nMikrofala 1\,5–2 min pod przykryciem. Rybę krótko\, żeb
- y nie wyschła.\n\nNA JUTRO DO PRACY:\n• Congee imbirowe z jajkiem i tof
- u: Wieczorem: gotuj ryż w bulionie z imbirem 25 min\, aż zrobi się klei
- sty\, dodaj tofu. Jajko ugotuj na twardo. Do słoika. W pracy: mikrofala 2
-  min\, dymka\, olej sezamowy\, sos sojowy.\n\nApka: https://claude.ai/arti
- fact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: odgrzej Dorsz miso-imbir z patelni\, ziemniaki z air fryer
+ a i marchewka\; na jutro: Congee imbirowe z jajkiem i tofu
+DESCRIPTION:OBIAD – ODGRZEWASZ: Dorsz miso-imbir z patelni\, ziemniaki z 
+ air fryera i marchewka\nZiemniaki odśwież 4 min w air fryerze\, rybę kr
+ ótko w mikrofali (1 min)\, żeby nie wyschła.\n\nNA JUTRO DO PRACY:\n•
+  Congee imbirowe z jajkiem i tofu: Wieczorem: gotuj ryż w bulionie z imbi
+ rem 25 min\, aż zrobi się kleisty\, dodaj tofu. Jajko ugotuj na twardo. 
+ Do słoika. W pracy: mikrofala 2 min\, dymka\, olej sezamowy\, sos sojowy.
+ \n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Dorsz miso-imbir z patelni z ziemniakami i mar
- chewką\; na jutro: Congee imbirowe z jajkiem i tofu
+DESCRIPTION:Kuchnia: odgrzej Dorsz miso-imbir z patelni\, ziemniaki z air f
+ ryera i marchewka\; na jutro: Congee imbirowe z jajkiem i tofu
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261031T070000
 DTEND:20261031T071000
 SUMMARY:Weź do pracy: Placuszki bananowo-owsiane z patelni + Skyr z ciepł
@@ -306,7 +311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261101T173000
 DTEND:20261101T181500
 SUMMARY:Kuchnia: ugotuj Dhal z czerwonej soczewicy z bulgurem (2 porcje)\; 
@@ -330,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261101T070000
 DTEND:20261101T071000
 SUMMARY:Weź do pracy: Congee imbirowe z jajkiem i tofu + Wafle ryżowe z t
@@ -352,7 +357,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261102T173000
 DTEND:20261102T181500
 SUMMARY:Kuchnia: odgrzej Dhal z czerwonej soczewicy z bulgurem\; na jutro: 
@@ -374,7 +379,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261102T070000
 DTEND:20261102T071000
 SUMMARY:Weź do pracy: Owsianka nocna z jabłkiem (na ciepło) + Golden mil
@@ -396,7 +401,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261103T173000
 DTEND:20261103T181500
 SUMMARY:Kuchnia: ugotuj Kurczak imbirowy stir-fry z pęczakiem (2 porcje)\;
@@ -424,7 +429,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261103T070000
 DTEND:20261103T071000
 SUMMARY:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Ciepłe
@@ -446,7 +451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261104T173000
 DTEND:20261104T181500
 SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z pęczakiem\; na jutro:
@@ -467,7 +472,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261104T070000
 DTEND:20261104T071000
 SUMMARY:Weź do pracy: Jaglanka z truskawkami i skyrem + Skyr z ciepłymi t
@@ -489,7 +494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261105T173000
 DTEND:20261105T181500
 SUMMARY:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porcje)\
@@ -513,7 +518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261105T070000
 DTEND:20261105T071000
 SUMMARY:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakiem + 
@@ -535,7 +540,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261106T173000
 DTEND:20261106T181500
 SUMMARY:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na jutro
@@ -557,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261106T070000
 DTEND:20261106T071000
 SUMMARY:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Golden milk 
@@ -580,24 +585,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261107T173000
 DTEND:20261107T181500
 SUMMARY:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciecierz
  yca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z ciep
  łymi truskawkami i chia
 DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Krem z dyni i marchwi z imbirem 
- + pieczona ciecierzyca\nGarnek i patelnia\, ok. 35 min. Cebulę zeszklij n
- a oliwie\, dodaj dynię\, marchew\, ziemniak i bulion\, gotuj 20 min\, zmi
- ksuj z mleczkiem i imbirem. Ciecierzycę osusz i praż na suchej patelni z
-  kminem i papryką 6–8 min. Chleb podpiecz na patelni.\n\nNA JUTRO DO PR
- ACY:\n• Congee imbirowe z jajkiem i tofu: Wieczorem: gotuj ryż w bulion
- ie z imbirem 25 min\, aż zrobi się kleisty\, dodaj tofu. Jajko ugotuj na
-  twardo. Do słoika. W pracy: mikrofala 2 min\, dymka\, olej sezamowy\, so
- s sojowy.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do słoika 
- skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się rozmroż
- ą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3X
- Ynq
+ + pieczona ciecierzyca\nGarnek + air fryer\, ok. 35 min. Cebulę zeszklij 
+ na oliwie\, dodaj dynię\, marchew\, ziemniak i bulion\, gotuj 20 min\, zm
+ iksuj z mleczkiem i imbirem. Ciecierzycę osusz\, posyp kminem i papryką\
+ , air fryer 200°C 12 min – będzie chrupiąca jak chipsy. Chleb na grza
+ nkę: air fryer 180°C 3 min.\n\nNA JUTRO DO PRACY:\n• Congee imbirowe z
+  jajkiem i tofu: Wieczorem: gotuj ryż w bulionie z imbirem 25 min\, aż z
+ robi się kleisty\, dodaj tofu. Jajko ugotuj na twardo. Do słoika. W prac
+ y: mikrofala 2 min\, dymka\, olej sezamowy\, sos sojowy.\n• Skyr z ciep
+ łymi truskawkami i chia: Wieczorem: do słoika skyr\, mrożone truskawki\
+ , chia i pestki. Do rana truskawki się rozmrożą i puszczą sok.\n\nApka
+ : https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -609,7 +614,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261107T070000
 DTEND:20261107T071000
 SUMMARY:Weź do pracy: Placuszki bananowo-owsiane z patelni + Ciepłe jabł
@@ -631,7 +636,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-kuchnia@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261108T173000
 DTEND:20261108T181500
 SUMMARY:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona ciecier
@@ -650,7 +655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-rano@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261108T070000
 DTEND:20261108T071000
 SUMMARY:Weź do pracy: Congee imbirowe z jajkiem i tofu + Skyr z ciepłymi 
@@ -672,7 +677,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-zakupy@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261025T110000
 DTEND:20261025T120000
 SUMMARY:Zakupy na tydzień 1 (39 produktów)
@@ -702,7 +707,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-zakupy@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261101T110000
 DTEND:20261101T120000
 SUMMARY:Zakupy na tydzień 2 (37 produktów)
@@ -731,7 +736,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ochota@jadlospis-eru
-DTSTAMP:20261025T132338Z
+DTSTAMP:20261025T133014Z
 DTSTART:20261106T180000
 DTEND:20261106T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
