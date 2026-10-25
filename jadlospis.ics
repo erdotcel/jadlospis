@@ -8,917 +8,675 @@ X-WR-TIMEZONE:Europe/Warsaw
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:2026-10-26-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261026T080000
-DTEND:20261026T082000
-SUMMARY:Śniadanie: Owsianka jabłkowo-cynamonowa (476 kcal)
-DESCRIPTION:5 łyżek płatków owsianych\, ¾ szklanki mleka 2%\, 1 jabłk
- o duszone w kostkę\, 1 łyżka chia\, 1 łyżka pestek dyni\, cynamon\, s
- zczypta imbiru\n\nDuszone jabłko + chia = błonnik rozpuszczalny\; pestki
-  dają tłuszcz na poślizg. Zacznij dzień od szklanki ciepłej wody.\n\n
- Białko: 18 g · Suma dnia: 1442 kcal
+UID:2026-10-25-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261025T173000
+DTEND:20261025T181500
+SUMMARY:Kuchnia: na jutro: Owsianka nocna z jabłkiem (na ciepło)
+DESCRIPTION:NA JUTRO DO PRACY:\n• Owsianka nocna z jabłkiem (na ciepło)
+ : Wieczorem: wymieszaj w słoiku płatki\, mleko\, chia\, starte jabłko i
+  przyprawy\, wstaw do lodówki. W pracy: mikrofala 1\,5–2 min\, wymiesza
+ j i posyp pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3
+ XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Owsianka jabłkowo-cynamonowa
+DESCRIPTION:Kuchnia: na jutro: Owsianka nocna z jabłkiem (na ciepło)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-26-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261026T113000
-DTEND:20261026T115000
-SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
-DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 2 łyżki pestek dyni\n
- \nCiepłe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g 
- · Suma dnia: 1442 kcal
+UID:2026-10-26-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261026T173000
+DTEND:20261026T181500
+SUMMARY:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 porc
+ je)\; na jutro: Frittata ze szpinakiem i pomidorem + chleb + Skyr z ciepł
+ ymi truskawkami i chia
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Curry z ciecierzycy i dyni z ry
+ żem basmati\nGarnek\, ok. 30 min. Zeszklij cebulę na oliwie\, dodaj czos
+ nek\, imbir i przyprawy na 1 min\, potem dynię\, ciecierzycę i mleczko k
+ okosowe z ½ szklanki wody. Duś 15–20 min. Ryż ugotuj osobno. Druga po
+ rcja do pudełka.\n\nNA JUTRO DO PRACY:\n• Frittata ze szpinakiem i pomi
+ dorem + chleb: Wieczorem: na patelni na oleju podduś szpinak i pomidor 2 
+ min\, wlej roztrzepane jajka z serkiem\, przykryj i smaż na małym ogniu 
+ 6–8 min. Pokrój\, do pudełka. W pracy: mikrofala 1 min\, jedz z chlebe
+ m.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do słoika skyr\, 
+ mrożone truskawki\, chia i pestki. Do rana truskawki się rozmrożą i pu
+ szczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pieczone jabłko z air fryera
+DESCRIPTION:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 
+ porcje)\; na jutro: Frittata ze szpinakiem i pomidorem + chleb + Skyr z ci
+ epłymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-26-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261026T160000
-DTEND:20261026T162000
-SUMMARY:Obiad (prep 1/2): Curry z ciecierzycy i dyni z ryżem basmati (569 
- kcal)
-DESCRIPTION:⅓ szklanki ryżu basmati + 1 łyżka (suchego)\, ½ puszki ci
- ecierzycy (odsączonej)\, 1 szklanka dyni w kostkę\, ¼ puszki mleczka ko
- kosowego light\, ½ cebuli\, czosnek\, imbir\, kurkuma\, kmin rzymski\, ga
- ram masala\, 1 łyżeczka oliwy\n\nKurkuma + kmin + imbir to trio prokinet
- yczne. Ugotuj podwójną porcję na jutro.\n\nBiałko: 17 g · Suma dnia: 
- 1442 kcal
+UID:2026-10-26-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261026T070000
+DTEND:20261026T071000
+SUMMARY:Weź do pracy: Owsianka nocna z jabłkiem (na ciepło) + Ciepłe ja
+ błko z mikrofali
+DESCRIPTION:• Owsianka nocna z jabłkiem (na ciepło): Wieczorem: wymiesz
+ aj w słoiku płatki\, mleko\, chia\, starte jabłko i przyprawy\, wstaw d
+ o lodówki. W pracy: mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami.\
+ n• Ciepłe jabłko z mikrofali: W pracy: pokrój jabłko w kostkę do mi
+ seczki\, posyp cynamonem\, mikrofala 2–3 min pod przykryciem\, posyp pes
+ tkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Curry z ciecierzycy i dyni z ryżem basmati
+DESCRIPTION:Weź do pracy: Owsianka nocna z jabłkiem (na ciepło) + Ciepł
+ e jabłko z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-26-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261026T193000
-DTEND:20261026T195000
-SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
-DESCRIPTION:¾ opakowania serka wiejskiego light\, 1 kromka chleba ziarnist
- ego\, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regene
- rują się w nocy.\n\nBiałko: 21 g · Suma dnia: 1442 kcal
+UID:2026-10-27-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261027T173000
+DTEND:20261027T181500
+SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
+ utro: Jaglanka z truskawkami i skyrem
+DESCRIPTION:OBIAD – ODGRZEWASZ: Curry z ciecierzycy i dyni z ryżem basma
+ ti\nOdgrzewaj do gorąca. W ajurwedzie unika się zimnych resztek z lodów
+ ki.\n\nNA JUTRO DO PRACY:\n• Jaglanka z truskawkami i skyrem: Wieczorem:
+  kaszę przelej wrzątkiem\, gotuj na mleku 15 min\, przełóż do słoika
+ \, na wierzch mrożone truskawki (rozmrożą się do rana). Skyr i pestki 
+ osobno. W pracy: mikrofala 1\,5 min\, potem skyr i pestki.\n\nApka: https:
+ //claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Serek wiejski z kromką ziarnistego
+DESCRIPTION:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; 
+ na jutro: Jaglanka z truskawkami i skyrem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-27-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261027T080000
-DTEND:20261027T082000
-SUMMARY:Śniadanie: Jajecznica sezamowa ze szpinakiem (435 kcal)
-DESCRIPTION:2 jajka\, 2 łyżki serka wiejskiego (wmieszaj pod koniec)\, 1 
- łyżeczka oleju sezamowego\, 2 garści szpinaku\, 1 pomidor podduszony\, 
- 2 kromki chleba ziarnistego\, sezam\n\nOlej sezamowy w ajurwedzie 'nawilż
- a' jelita (vata). Pomidor podduś zamiast jeść na surowo.\n\nBiałko: 27
-  g · Suma dnia: 1426 kcal
+UID:2026-10-27-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261027T070000
+DTEND:20261027T071000
+SUMMARY:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Skyr z 
+ ciepłymi truskawkami i chia
+DESCRIPTION:• Frittata ze szpinakiem i pomidorem + chleb: Wieczorem: na p
+ atelni na oleju podduś szpinak i pomidor 2 min\, wlej roztrzepane jajka z
+  serkiem\, przykryj i smaż na małym ogniu 6–8 min. Pokrój\, do pudeł
+ ka. W pracy: mikrofala 1 min\, jedz z chlebem.\n• Skyr z ciepłymi trusk
+ awkami i chia: Wieczorem: do słoika skyr\, mrożone truskawki\, chia i pe
+ stki. Do rana truskawki się rozmrożą i puszczą sok.\n\nApka: https://c
+ laude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Jajecznica sezamowa ze szpinakiem
+DESCRIPTION:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Sky
+ r z ciepłymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-27-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261027T113000
-DTEND:20261027T115000
-SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
-DESCRIPTION:1 kubeczek skyru naturalnego (150 g)\, ½ szklanki mrożonych t
- ruskawek podgrzanych\, 1 łyżeczka chia\, 1 łyżka pestek słonecznika\n
- \nChia namocz 10 min przed jedzeniem i popij szklanką wody.\n\nBiałko: 1
- 9 g · Suma dnia: 1426 kcal
+UID:2026-10-28-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261028T173000
+DTEND:20261028T181500
+SUMMARY:Kuchnia: ugotuj Tofu teriyaki z patelni z ryżem i warzywami (2 por
+ cje)\; na jutro: Kanapki z serkiem\, jajkiem i duszonym szpinakiem
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Tofu teriyaki z patelni z ryżem
+  i warzywami\nPatelnia\, ok. 25 min. Tofu pokrój w kostkę\, obtocz w skr
+ obi\, smaż na oleju sezamowym 8–10 min\, aż się zarumieni. Wlej sos s
+ ojowy z miodem\, imbirem i czosnkiem\, smaż 1 min. Marchew i brokuł ugot
+ uj na parze albo w odrobinie wody 6 min. Ryż osobno.\n\nNA JUTRO DO PRACY
+ :\n• Kanapki z serkiem\, jajkiem i duszonym szpinakiem: Wieczorem: jajko
+  na twardo (9 min)\, szpinak podduś 2 min na patelni na oliwie z kurkumą
+ . Rano: posmaruj chleb serkiem\, połóż szpinak\, plasterki jajka i pest
+ ki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Skyr z ciepłymi truskawkami i chia
+DESCRIPTION:Kuchnia: ugotuj Tofu teriyaki z patelni z ryżem i warzywami (2
+  porcje)\; na jutro: Kanapki z serkiem\, jajkiem i duszonym szpinakiem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-27-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261027T160000
-DTEND:20261027T162000
-SUMMARY:Obiad (prep 2/2): Curry z ciecierzycy i dyni z ryżem basmati (569 
- kcal)
-DESCRIPTION:Porcja z dnia 1\n\nOdgrzewaj do gorąca. W ajurwedzie unika si
- ę zimnych resztek z lodówki.\n\nBiałko: 17 g · Suma dnia: 1426 kcal
+UID:2026-10-28-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261028T070000
+DTEND:20261028T071000
+SUMMARY:Weź do pracy: Jaglanka z truskawkami i skyrem + Wafle ryżowe z tw
+ arożkiem i bananem
+DESCRIPTION:• Jaglanka z truskawkami i skyrem: Wieczorem: kaszę przelej 
+ wrzątkiem\, gotuj na mleku 15 min\, przełóż do słoika\, na wierzch mr
+ ożone truskawki (rozmrożą się do rana). Skyr i pestki osobno. W pracy:
+  mikrofala 1\,5 min\, potem skyr i pestki.\n• Wafle ryżowe z twarożkie
+ m i bananem: Rano: twarożek do małego pudełka\, wafle i banana do torby
+ . W pracy: posmaruj wafle\, połóż plasterki banana\, posyp cynamonem.\n
+ \nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Curry z ciecierzycy i dyni z ryżem basmati
+DESCRIPTION:Weź do pracy: Jaglanka z truskawkami i skyrem + Wafle ryżowe 
+ z twarożkiem i bananem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-27-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261027T193000
-DTEND:20261027T195000
-SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
-DESCRIPTION:1\,5 łyżki chia\, ⅔ szklanki mleka\, ½ jabłka startego i 
- podduszonego\, cynamon\, 1 łyżeczka pestek dyni\n\nCiepła żelowa konsy
- stencja to naturalny 'smar' na rano.\n\nBiałko: 10 g · Suma dnia: 1426 k
- cal
+UID:2026-10-29-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261029T173000
+DTEND:20261029T181500
+SUMMARY:Kuchnia: odgrzej Tofu teriyaki z patelni z ryżem i warzywami\; na 
+ jutro: Owsiany mug cake bananowy z mikrofali
+DESCRIPTION:OBIAD – ODGRZEWASZ: Tofu teriyaki z patelni z ryżem i warzyw
+ ami\nOdgrzej na patelni 3 min albo w mikrofali 2 min.\n\nNA JUTRO DO PRACY
+ :\n• Owsiany mug cake bananowy z mikrofali: Wieczorem: w dużym kubku al
+ bo słoiku rozgnieć banana\, wymieszaj z jajkiem\, płatkami\, 2 łyżkam
+ i skyru\, mlekiem i cynamonem. W pracy: mikrofala 2–2\,5 min\, na wierzc
+ h resztę skyru i pestki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKz
+ gj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+DESCRIPTION:Kuchnia: odgrzej Tofu teriyaki z patelni z ryżem i warzywami\;
+  na jutro: Owsiany mug cake bananowy z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-28-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261028T080000
-DTEND:20261028T082000
-SUMMARY:Śniadanie: Ciepła kasza jaglana z truskawkami i skyrem (424 kcal)
-DESCRIPTION:¼ szklanki kaszy jaglanej\, ¾ szklanki mleka\, ½ szklanki mr
- ożonych truskawek\, 1 łyżeczka chia\, ⅔ kubeczka skyru (ok. 4 łyżki
- )\, 1 łyżeczka pestek słonecznika\, cynamon\n\nJaglaną przelej wrzątk
- iem\, żeby nie była gorzka. Rozgrzewa i jest lekkostrawna.\n\nBiałko: 2
- 6 g · Suma dnia: 1432 kcal
+UID:2026-10-29-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261029T070000
+DTEND:20261029T071000
+SUMMARY:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakiem + 
+ Golden milk z waflami ryżowymi
+DESCRIPTION:• Kanapki z serkiem\, jajkiem i duszonym szpinakiem: Wieczore
+ m: jajko na twardo (9 min)\, szpinak podduś 2 min na patelni na oliwie z 
+ kurkumą. Rano: posmaruj chleb serkiem\, połóż szpinak\, plasterki jajk
+ a i pestki.\n• Golden milk z waflami ryżowymi: Rano: kurkumę\, imbir\,
+  cynamon i pieprz wsyp do małego słoiczka (możesz zrobić mieszankę na
+  cały tydzień). W pracy: mleko do kubka\, przyprawy\, ghee\, mikrofala 1
+ \,5 min\, wymieszaj.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN
+ 3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ciepła kasza jaglana z truskawkami i skyrem
+DESCRIPTION:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakie
+ m + Golden milk z waflami ryżowymi
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-28-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261028T113000
-DTEND:20261028T115000
-SUMMARY:Przekąska: Banan z pastą z pestek słonecznika (190 kcal)
-DESCRIPTION:1 dojrzały banan\, 1 łyżka pasty ze słonecznika (bez orzech
- ów!)\n\nTylko dojrzały banan\, bo zielony zapiera.\n\nBiałko: 5 g · Su
- ma dnia: 1432 kcal
+UID:2026-10-30-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261030T173000
+DTEND:20261030T181500
+SUMMARY:Kuchnia: ugotuj Dorsz miso-imbir z patelni z ziemniakami i marchewk
+ ą (2 porcje)\; na jutro: Placuszki bananowo-owsiane z patelni + Skyr z ci
+ epłymi truskawkami i chia
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dorsz miso-imbir z patelni z zie
+ mniakami i marchewką\nPatelnia i garnek\, ok. 30 min. Ziemniaki ugotuj w 
+ osolonej wodzie 20 min. Marchew w plasterkach podduś na oliwie z kminem p
+ od przykryciem 8 min. Dorsza osusz\, smaż na oleju sezamowym 3–4 min z 
+ każdej strony\, na koniec posmaruj glazurą z miso\, miodu i imbiru.\n\nN
+ A JUTRO DO PRACY:\n• Placuszki bananowo-owsiane z patelni: Wieczorem: zm
+ iksuj banana\, jajko i płatki\, usmaż 6 małych placuszków na patelni (
+ 2 min z każdej strony). Skyr z truskawkami do osobnego słoika. W pracy: 
+ placuszki mikrofala 40 s.\n• Skyr z ciepłymi truskawkami i chia: Wieczo
+ rem: do słoika skyr\, mrożone truskawki\, chia i pestki. Do rana truskaw
+ ki się rozmrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR
+ 4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Banan z pastą z pestek słonecznika
+DESCRIPTION:Kuchnia: ugotuj Dorsz miso-imbir z patelni z ziemniakami i marc
+ hewką (2 porcje)\; na jutro: Placuszki bananowo-owsiane z patelni + Skyr 
+ z ciepłymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-28-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261028T160000
-DTEND:20261028T162000
-SUMMARY:Obiad (prep 1/2): Tofu teriyaki z air fryera z ryżem i warzywami (
- 575 kcal)
-DESCRIPTION:¾ kostki tofu naturalnego (w kostkę\, 1 łyżeczka skrobi\, 2
- 00°C 15 min)\, ⅓ szklanki ryżu basmati + 1 łyżka\, 1 marchewka i 1 s
- zklanka różyczek brokuła na parze\, sos: 1 łyżka sosu sojowego\, 1 ł
- yżeczka miodu\, starty imbir\, czosnek\, 1 łyżeczka oleju sezamowego\n\
- nTofu chrupie w air fryerze bez panierki. Gotowana marchew to łagodny bł
- onnik.\n\nBiałko: 28 g · Suma dnia: 1432 kcal
+UID:2026-10-30-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261030T070000
+DTEND:20261030T071000
+SUMMARY:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Ciepłe jab
+ łko z mikrofali
+DESCRIPTION:• Owsiany mug cake bananowy z mikrofali: Wieczorem: w dużym 
+ kubku albo słoiku rozgnieć banana\, wymieszaj z jajkiem\, płatkami\, 2 
+ łyżkami skyru\, mlekiem i cynamonem. W pracy: mikrofala 2–2\,5 min\, n
+ a wierzch resztę skyru i pestki.\n• Ciepłe jabłko z mikrofali: W prac
+ y: pokrój jabłko w kostkę do miseczki\, posyp cynamonem\, mikrofala 2
+ –3 min pod przykryciem\, posyp pestkami.\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tofu teriyaki z air fryera z ryżem i warzywami
+DESCRIPTION:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Ciepłe 
+ jabłko z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-28-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261028T193000
-DTEND:20261028T195000
-SUMMARY:Kolacja lekka: Twarożek z gotowaną marchewką i waflem (243 kcal)
-DESCRIPTION:4 czubate łyżki twarogu półtłustego\, 1 gotowana marchewka
-  w kostkę\, 1 łyżeczka oliwy\, kmin rzymski\, szczypiorek\, 1 wafel ry
- żowy\n\nOliwa + gotowana marchew to klasyczne połączenie 'poślizgowe'.
- \n\nBiałko: 20 g · Suma dnia: 1432 kcal
+UID:2026-10-31-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261031T173000
+DTEND:20261031T181500
+SUMMARY:Kuchnia: odgrzej Dorsz miso-imbir z patelni z ziemniakami i marchew
+ ką\; na jutro: Congee imbirowe z jajkiem i tofu
+DESCRIPTION:OBIAD – ODGRZEWASZ: Dorsz miso-imbir z patelni z ziemniakami 
+ i marchewką\nMikrofala 1\,5–2 min pod przykryciem. Rybę krótko\, żeb
+ y nie wyschła.\n\nNA JUTRO DO PRACY:\n• Congee imbirowe z jajkiem i tof
+ u: Wieczorem: gotuj ryż w bulionie z imbirem 25 min\, aż zrobi się klei
+ sty\, dodaj tofu. Jajko ugotuj na twardo. Do słoika. W pracy: mikrofala 2
+  min\, dymka\, olej sezamowy\, sos sojowy.\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twarożek z gotowaną marchewką i waflem
+DESCRIPTION:Kuchnia: odgrzej Dorsz miso-imbir z patelni z ziemniakami i mar
+ chewką\; na jutro: Congee imbirowe z jajkiem i tofu
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261029T080000
-DTEND:20261029T082000
-SUMMARY:Śniadanie: Toast z serkiem wiejskim i jajkiem z air fryera (453 kc
- al)
-DESCRIPTION:2 kromki chleba ziarnistego\, ½ opakowania serka wiejskiego\, 
- 1 jajko (w kokilce\, 180°C 8 min)\, 2 garści szpinaku podduszonego na 1 
- łyżeczce oliwy\, szczypta kurkumy\, 1 łyżka pestek słonecznika\n\nBia
- łko + pełne ziarno dają długą sytość przy pracy biurowej.\n\nBiałk
- o: 26 g · Suma dnia: 1431 kcal
+UID:2026-10-31-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261031T070000
+DTEND:20261031T071000
+SUMMARY:Weź do pracy: Placuszki bananowo-owsiane z patelni + Skyr z ciepł
+ ymi truskawkami i chia
+DESCRIPTION:• Placuszki bananowo-owsiane z patelni: Wieczorem: zmiksuj ba
+ nana\, jajko i płatki\, usmaż 6 małych placuszków na patelni (2 min z 
+ każdej strony). Skyr z truskawkami do osobnego słoika. W pracy: placuszk
+ i mikrofala 40 s.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do 
+ słoika skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się 
+ rozmrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmK
+ zgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Toast z serkiem wiejskim i jajkiem z air fryera
+DESCRIPTION:Weź do pracy: Placuszki bananowo-owsiane z patelni + Skyr z ci
+ epłymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261029T113000
-DTEND:20261029T115000
-SUMMARY:Przekąska: Golden milk z waflami ryżowymi (192 kcal)
-DESCRIPTION:¾ szklanki mleka\, ½ łyżeczki ghee\, ½ łyżeczki kurkumy\
- , imbir\, cynamon\, szczypta pieprzu\, 2 wafle ryżowe\n\nCiepły napój r
- ozpala 'agni' i pobudza perystaltykę.\n\nBiałko: 8 g · Suma dnia: 1431 
- kcal
+UID:2026-11-01-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261101T173000
+DTEND:20261101T181500
+SUMMARY:Kuchnia: ugotuj Dhal z czerwonej soczewicy z bulgurem (2 porcje)\; 
+ na jutro: Owsianka nocna z jabłkiem (na ciepło)
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dhal z czerwonej soczewicy z bul
+ gurem\nGarnek\, ok. 25 min. Zeszklij cebulę na oliwie\, dodaj czosnek\, i
+ mbir\, kurkumę i kmin. Wsyp przepłukaną soczewicę\, pomidory i 1\,5 sz
+ klanki wody\, gotuj 15 min\, na koniec szpinak. Bulgur zalej wrzątkiem (2
+ × tyle wody) i przykryj na 10 min. Jogurt na wierzch.\n\nNA JUTRO DO PRAC
+ Y:\n• Owsianka nocna z jabłkiem (na ciepło): Wieczorem: wymieszaj w s
+ łoiku płatki\, mleko\, chia\, starte jabłko i przyprawy\, wstaw do lod
+ ówki. W pracy: mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami.\n\nAp
+ ka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Golden milk z waflami ryżowymi
+DESCRIPTION:Kuchnia: ugotuj Dhal z czerwonej soczewicy z bulgurem (2 porcje
+ )\; na jutro: Owsianka nocna z jabłkiem (na ciepło)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261029T160000
-DTEND:20261029T162000
-SUMMARY:Obiad (prep 2/2): Tofu teriyaki z air fryera z ryżem i warzywami (
- 575 kcal)
-DESCRIPTION:Porcja z dnia 3\n\nTofu odśwież 3 min w air fryerze. Jedz pow
- oli\, bez ekranu.\n\nBiałko: 28 g · Suma dnia: 1431 kcal
+UID:2026-11-01-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261101T070000
+DTEND:20261101T071000
+SUMMARY:Weź do pracy: Congee imbirowe z jajkiem i tofu + Wafle ryżowe z t
+ warożkiem i bananem
+DESCRIPTION:• Congee imbirowe z jajkiem i tofu: Wieczorem: gotuj ryż w b
+ ulionie z imbirem 25 min\, aż zrobi się kleisty\, dodaj tofu. Jajko ugot
+ uj na twardo. Do słoika. W pracy: mikrofala 2 min\, dymka\, olej sezamowy
+ \, sos sojowy.\n• Wafle ryżowe z twarożkiem i bananem: Rano: twarożek
+  do małego pudełka\, wafle i banana do torby. W pracy: posmaruj wafle\, 
+ połóż plasterki banana\, posyp cynamonem.\n\nApka: https://claude.ai/ar
+ tifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tofu teriyaki z air fryera z ryżem i warzywami
+DESCRIPTION:Weź do pracy: Congee imbirowe z jajkiem i tofu + Wafle ryżowe
+  z twarożkiem i bananem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261029T193000
-DTEND:20261029T195000
-SUMMARY:Kolacja lekka: Skyr z pieczonym bananem (211 kcal)
-DESCRIPTION:⅔ kubeczka skyru (ok. 4 łyżki)\, 1 banan (air fryer 180°C 
- 6 min)\, cynamon\, 1 łyżeczka pestek dyni\n\nPieczony banan jest słodsz
- y i łagodniejszy dla brzucha.\n\nBiałko: 14 g · Suma dnia: 1431 kcal
+UID:2026-11-02-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261102T173000
+DTEND:20261102T181500
+SUMMARY:Kuchnia: odgrzej Dhal z czerwonej soczewicy z bulgurem\; na jutro: 
+ Frittata ze szpinakiem i pomidorem + chleb
+DESCRIPTION:OBIAD – ODGRZEWASZ: Dhal z czerwonej soczewicy z bulgurem\nDh
+ al smakuje lepiej drugiego dnia. Dolej łyżkę wody przy odgrzewaniu.\n\n
+ NA JUTRO DO PRACY:\n• Frittata ze szpinakiem i pomidorem + chleb: Wieczo
+ rem: na patelni na oleju podduś szpinak i pomidor 2 min\, wlej roztrzepan
+ e jajka z serkiem\, przykryj i smaż na małym ogniu 6–8 min. Pokrój\, 
+ do pudełka. W pracy: mikrofala 1 min\, jedz z chlebem.\n\nApka: https://c
+ laude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Skyr z pieczonym bananem
+DESCRIPTION:Kuchnia: odgrzej Dhal z czerwonej soczewicy z bulgurem\; na jut
+ ro: Frittata ze szpinakiem i pomidorem + chleb
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-30-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261030T080000
-DTEND:20261030T082000
-SUMMARY:Śniadanie: Baked oats bananowe z air fryera (458 kcal)
-DESCRIPTION:5 łyżek płatków owsianych\, 1 jajko\, ½ banana\, ⅔ kubec
- zka skyru (ok. 4 łyżki)\, 3 łyżki mleka\, cynamon\, 1 łyżka pestek s
- łonecznika (kokilka\, 180°C 15 min)\n\nTikTokowe 'ciasto na śniadanie'.
-  Owies + banan = beta-glukan.\n\nBiałko: 28 g · Suma dnia: 1410 kcal
+UID:2026-11-02-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261102T070000
+DTEND:20261102T071000
+SUMMARY:Weź do pracy: Owsianka nocna z jabłkiem (na ciepło) + Golden mil
+ k z waflami ryżowymi
+DESCRIPTION:• Owsianka nocna z jabłkiem (na ciepło): Wieczorem: wymiesz
+ aj w słoiku płatki\, mleko\, chia\, starte jabłko i przyprawy\, wstaw d
+ o lodówki. W pracy: mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami.\
+ n• Golden milk z waflami ryżowymi: Rano: kurkumę\, imbir\, cynamon i p
+ ieprz wsyp do małego słoiczka (możesz zrobić mieszankę na cały tydzi
+ eń). W pracy: mleko do kubka\, przyprawy\, ghee\, mikrofala 1\,5 min\, wy
+ mieszaj.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Baked oats bananowe z air fryera
+DESCRIPTION:Weź do pracy: Owsianka nocna z jabłkiem (na ciepło) + Golden
+  milk z waflami ryżowymi
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-30-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261030T113000
-DTEND:20261030T115000
-SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
-DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 2 łyżki pestek dyni\n
- \nCiepłe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g 
- · Suma dnia: 1410 kcal
+UID:2026-11-03-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261103T173000
+DTEND:20261103T181500
+SUMMARY:Kuchnia: ugotuj Kurczak imbirowy stir-fry z pęczakiem (2 porcje)\;
+  na jutro: Jaglanka z truskawkami i skyrem + Skyr z ciepłymi truskawkami 
+ i chia
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Kurczak imbirowy stir-fry z pęc
+ zakiem\nPatelnia\, ok. 20 min. Pęczak ugotuj wcześniej (20 min). Kurczak
+ a smaż na oleju sezamowym 5 min\, dodaj marchew i cukinię\, smaż 5 min\
+ , na koniec sos sojowy\, imbir\, czosnek\, dymka i sezam.\n\nNA JUTRO DO P
+ RACY:\n• Jaglanka z truskawkami i skyrem: Wieczorem: kaszę przelej wrz
+ ątkiem\, gotuj na mleku 15 min\, przełóż do słoika\, na wierzch mroż
+ one truskawki (rozmrożą się do rana). Skyr i pestki osobno. W pracy: mi
+ krofala 1\,5 min\, potem skyr i pestki.\n• Skyr z ciepłymi truskawkami 
+ i chia: Wieczorem: do słoika skyr\, mrożone truskawki\, chia i pestki. D
+ o rana truskawki się rozmrożą i puszczą sok.\n\nApka: https://claude.a
+ i/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pieczone jabłko z air fryera
+DESCRIPTION:Kuchnia: ugotuj Kurczak imbirowy stir-fry z pęczakiem (2 porcj
+ e)\; na jutro: Jaglanka z truskawkami i skyrem + Skyr z ciepłymi truskawk
+ ami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-30-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261030T160000
-DTEND:20261030T162000
-SUMMARY:Obiad (prep 1/2): Dorsz miso-imbir z ziemniakami i marchewką (555 
- kcal)
-DESCRIPTION:1 filet dorsza (mrożony\, rozmrożony\; air fryer 190°C 10 mi
- n)\, glazura: 1 łyżeczka pasty miso\, 1 łyżeczka miodu\, 1 łyżeczka 
- oleju sezamowego\, imbir\, sos sojowy\; 3 średnie ziemniaki w kostce (air
-  fryer 200°C 20 min\, 1 łyżeczka oliwy)\, 1 marchewka duszona z kminem 
- na 1 łyżeczce oliwy\n\nMiso to fermentowany produkt\, który wspiera mik
- robiom. Ostudzone i odgrzane ziemniaki mają skrobię oporną.\n\nBiałko:
-  35 g · Suma dnia: 1410 kcal
+UID:2026-11-03-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261103T070000
+DTEND:20261103T071000
+SUMMARY:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Ciepłe
+  jabłko z mikrofali
+DESCRIPTION:• Frittata ze szpinakiem i pomidorem + chleb: Wieczorem: na p
+ atelni na oleju podduś szpinak i pomidor 2 min\, wlej roztrzepane jajka z
+  serkiem\, przykryj i smaż na małym ogniu 6–8 min. Pokrój\, do pudeł
+ ka. W pracy: mikrofala 1 min\, jedz z chlebem.\n• Ciepłe jabłko z mikr
+ ofali: W pracy: pokrój jabłko w kostkę do miseczki\, posyp cynamonem\, 
+ mikrofala 2–3 min pod przykryciem\, posyp pestkami.\n\nApka: https://cla
+ ude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dorsz miso-imbir z ziemniakami i marchewką
+DESCRIPTION:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Cie
+ płe jabłko z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-30-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261030T193000
-DTEND:20261030T195000
-SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
-DESCRIPTION:¾ opakowania serka wiejskiego light\, 1 kromka chleba ziarnist
- ego\, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regene
- rują się w nocy.\n\nBiałko: 21 g · Suma dnia: 1410 kcal
+UID:2026-11-04-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261104T173000
+DTEND:20261104T181500
+SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z pęczakiem\; na jutro:
+  Kanapki z serkiem\, jajkiem i duszonym szpinakiem
+DESCRIPTION:OBIAD – ODGRZEWASZ: Kurczak imbirowy stir-fry z pęczakiem\nO
+ dgrzej na patelni z łyżką wody.\n\nNA JUTRO DO PRACY:\n• Kanapki z se
+ rkiem\, jajkiem i duszonym szpinakiem: Wieczorem: jajko na twardo (9 min)\
+ , szpinak podduś 2 min na patelni na oliwie z kurkumą. Rano: posmaruj ch
+ leb serkiem\, połóż szpinak\, plasterki jajka i pestki.\n\nApka: https:
+ //claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Serek wiejski z kromką ziarnistego
+DESCRIPTION:Kuchnia: odgrzej Kurczak imbirowy stir-fry z pęczakiem\; na ju
+ tro: Kanapki z serkiem\, jajkiem i duszonym szpinakiem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-31-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261031T080000
-DTEND:20261031T082000
-SUMMARY:Śniadanie: Placuszki bananowo-owsiane (455 kcal)
-DESCRIPTION:1 banan\, 1 jajko\, 4 łyżki płatków owsianych (zmiksować)\
- , smażone na 1 łyżeczce oleju\; ⅔ kubeczka skyru (ok. 4 łyżki)\, ½
-  szklanki ciepłych truskawek\n\n3 składniki\, 10 minut. Truskawki zamias
- t borówek.\n\nBiałko: 24 g · Suma dnia: 1432 kcal
+UID:2026-11-04-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261104T070000
+DTEND:20261104T071000
+SUMMARY:Weź do pracy: Jaglanka z truskawkami i skyrem + Skyr z ciepłymi t
+ ruskawkami i chia
+DESCRIPTION:• Jaglanka z truskawkami i skyrem: Wieczorem: kaszę przelej 
+ wrzątkiem\, gotuj na mleku 15 min\, przełóż do słoika\, na wierzch mr
+ ożone truskawki (rozmrożą się do rana). Skyr i pestki osobno. W pracy:
+  mikrofala 1\,5 min\, potem skyr i pestki.\n• Skyr z ciepłymi truskawka
+ mi i chia: Wieczorem: do słoika skyr\, mrożone truskawki\, chia i pestki
+ . Do rana truskawki się rozmrożą i puszczą sok.\n\nApka: https://claud
+ e.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Placuszki bananowo-owsiane
+DESCRIPTION:Weź do pracy: Jaglanka z truskawkami i skyrem + Skyr z ciepły
+ mi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-31-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261031T113000
-DTEND:20261031T115000
-SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
-DESCRIPTION:1 kubeczek skyru naturalnego (150 g)\, ½ szklanki mrożonych t
- ruskawek podgrzanych\, 1 łyżeczka chia\, 1 łyżka pestek słonecznika\n
- \nChia namocz 10 min przed jedzeniem i popij szklanką wody.\n\nBiałko: 1
- 9 g · Suma dnia: 1432 kcal
+UID:2026-11-05-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261105T173000
+DTEND:20261105T181500
+SUMMARY:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porcje)\
+ ; na jutro: Owsiany mug cake bananowy z mikrofali
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Ciepły bowl z tuńczykiem po ja
+ pońsku\nGarnek i patelnia\, ok. 20 min. Ugotuj ryż\, jajko na twardo i m
+ archewkę. Cukinię w plasterkach podduś na patelni z sosem sojowym 5 min
+ . Ułóż w misce ryż\, tuńczyka\, warzywa i jajko\, polej jogurtem ze s
+ rirachą i olejem sezamowym.\n\nNA JUTRO DO PRACY:\n• Owsiany mug cake b
+ ananowy z mikrofali: Wieczorem: w dużym kubku albo słoiku rozgnieć bana
+ na\, wymieszaj z jajkiem\, płatkami\, 2 łyżkami skyru\, mlekiem i cynam
+ onem. W pracy: mikrofala 2–2\,5 min\, na wierzch resztę skyru i pestki.
+ \n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Skyr z ciepłymi truskawkami i chia
+DESCRIPTION:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porc
+ je)\; na jutro: Owsiany mug cake bananowy z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-31-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261031T160000
-DTEND:20261031T162000
-SUMMARY:Obiad (prep 2/2): Dorsz miso-imbir z ziemniakami i marchewką (555 
- kcal)
-DESCRIPTION:Porcja z dnia 5\n\nOdgrzej w air fryerze 160°C 6 min. Rybę kr
- ótko\, żeby nie wyschła.\n\nBiałko: 35 g · Suma dnia: 1432 kcal
+UID:2026-11-05-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261105T070000
+DTEND:20261105T071000
+SUMMARY:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakiem + 
+ Wafle ryżowe z twarożkiem i bananem
+DESCRIPTION:• Kanapki z serkiem\, jajkiem i duszonym szpinakiem: Wieczore
+ m: jajko na twardo (9 min)\, szpinak podduś 2 min na patelni na oliwie z 
+ kurkumą. Rano: posmaruj chleb serkiem\, połóż szpinak\, plasterki jajk
+ a i pestki.\n• Wafle ryżowe z twarożkiem i bananem: Rano: twarożek do
+  małego pudełka\, wafle i banana do torby. W pracy: posmaruj wafle\, po
+ łóż plasterki banana\, posyp cynamonem.\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dorsz miso-imbir z ziemniakami i marchewką
+DESCRIPTION:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakie
+ m + Wafle ryżowe z twarożkiem i bananem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-31-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261031T193000
-DTEND:20261031T195000
-SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
-DESCRIPTION:1\,5 łyżki chia\, ⅔ szklanki mleka\, ½ jabłka startego i 
- podduszonego\, cynamon\, 1 łyżeczka pestek dyni\n\nCiepła żelowa konsy
- stencja to naturalny 'smar' na rano.\n\nBiałko: 10 g · Suma dnia: 1432 k
- cal
+UID:2026-11-06-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261106T173000
+DTEND:20261106T181500
+SUMMARY:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na jutro
+ : Placuszki bananowo-owsiane z patelni
+DESCRIPTION:OBIAD – ODGRZEWASZ: Ciepły bowl z tuńczykiem po japońsku\n
+ Sos jogurtowy trzymaj osobno i dodaj po odgrzaniu. Jogurtu nie podgrzewaj.
+ \n\nNA JUTRO DO PRACY:\n• Placuszki bananowo-owsiane z patelni: Wieczore
+ m: zmiksuj banana\, jajko i płatki\, usmaż 6 małych placuszków na pate
+ lni (2 min z każdej strony). Skyr z truskawkami do osobnego słoika. W pr
+ acy: placuszki mikrofala 40 s.\n\nApka: https://claude.ai/artifact/CSR4sfU
+ NkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+DESCRIPTION:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na j
+ utro: Placuszki bananowo-owsiane z patelni
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-01-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261101T080000
-DTEND:20261101T082000
-SUMMARY:Śniadanie: Congee imbirowe z jajkiem i tofu (412 kcal)
-DESCRIPTION:⅓ szklanki ryżu basmati gotowanego w 2 szklankach bulionu wa
- rzywnego do kleistości\, plaster imbiru\, 1 jajko na miękko\, ⅓ kostki
-  tofu w kostkę\, dymka\, 1 łyżeczka oleju sezamowego\, kropla sosu sojo
- wego\n\nAzjatycki 'lek' na brzuch: kleik ryżowy z imbirem. Ugotuj wieczor
- em dzień wcześniej.\n\nBiałko: 18 g · Suma dnia: 1410 kcal
+UID:2026-11-06-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261106T070000
+DTEND:20261106T071000
+SUMMARY:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Golden milk 
+ z waflami ryżowymi
+DESCRIPTION:• Owsiany mug cake bananowy z mikrofali: Wieczorem: w dużym 
+ kubku albo słoiku rozgnieć banana\, wymieszaj z jajkiem\, płatkami\, 2 
+ łyżkami skyru\, mlekiem i cynamonem. W pracy: mikrofala 2–2\,5 min\, n
+ a wierzch resztę skyru i pestki.\n• Golden milk z waflami ryżowymi: Ra
+ no: kurkumę\, imbir\, cynamon i pieprz wsyp do małego słoiczka (możesz
+  zrobić mieszankę na cały tydzień). W pracy: mleko do kubka\, przypraw
+ y\, ghee\, mikrofala 1\,5 min\, wymieszaj.\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Congee imbirowe z jajkiem i tofu
+DESCRIPTION:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Golden m
+ ilk z waflami ryżowymi
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-01-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261101T113000
-DTEND:20261101T115000
-SUMMARY:Przekąska: Banan z pastą z pestek słonecznika (190 kcal)
-DESCRIPTION:1 dojrzały banan\, 1 łyżka pasty ze słonecznika (bez orzech
- ów!)\n\nTylko dojrzały banan\, bo zielony zapiera.\n\nBiałko: 5 g · Su
- ma dnia: 1410 kcal
+UID:2026-11-07-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261107T173000
+DTEND:20261107T181500
+SUMMARY:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciecierz
+ yca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z ciep
+ łymi truskawkami i chia
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Krem z dyni i marchwi z imbirem 
+ + pieczona ciecierzyca\nGarnek i patelnia\, ok. 35 min. Cebulę zeszklij n
+ a oliwie\, dodaj dynię\, marchew\, ziemniak i bulion\, gotuj 20 min\, zmi
+ ksuj z mleczkiem i imbirem. Ciecierzycę osusz i praż na suchej patelni z
+  kminem i papryką 6–8 min. Chleb podpiecz na patelni.\n\nNA JUTRO DO PR
+ ACY:\n• Congee imbirowe z jajkiem i tofu: Wieczorem: gotuj ryż w bulion
+ ie z imbirem 25 min\, aż zrobi się kleisty\, dodaj tofu. Jajko ugotuj na
+  twardo. Do słoika. W pracy: mikrofala 2 min\, dymka\, olej sezamowy\, so
+ s sojowy.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do słoika 
+ skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się rozmroż
+ ą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3X
+ Ynq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Banan z pastą z pestek słonecznika
+DESCRIPTION:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciec
+ ierzyca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z c
+ iepłymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-01-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261101T160000
-DTEND:20261101T162000
-SUMMARY:Obiad (prep 1/2): Dhal z czerwonej soczewicy z bulgurem (565 kcal)
-DESCRIPTION:⅓ szklanki czerwonej soczewicy\, ¼ szklanki bulguru\, ½ pus
- zki pomidorów krojonych\, 2 garści szpinaku\, ½ cebuli\, czosnek\, imbi
- r\, kurkuma\, kmin rzymski\, 1 łyżeczka oliwy\, 2 łyżki jogurtu natura
- lnego\n\nCzerwona soczewica jest najłagodniejsza ze strączków i nie trz
- eba jej moczyć.\n\nBiałko: 28 g · Suma dnia: 1410 kcal
+UID:2026-11-07-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261107T070000
+DTEND:20261107T071000
+SUMMARY:Weź do pracy: Placuszki bananowo-owsiane z patelni + Ciepłe jabł
+ ko z mikrofali
+DESCRIPTION:• Placuszki bananowo-owsiane z patelni: Wieczorem: zmiksuj ba
+ nana\, jajko i płatki\, usmaż 6 małych placuszków na patelni (2 min z 
+ każdej strony). Skyr z truskawkami do osobnego słoika. W pracy: placuszk
+ i mikrofala 40 s.\n• Ciepłe jabłko z mikrofali: W pracy: pokrój jabł
+ ko w kostkę do miseczki\, posyp cynamonem\, mikrofala 2–3 min pod przyk
+ ryciem\, posyp pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzg
+ j5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dhal z czerwonej soczewicy z bulgurem
+DESCRIPTION:Weź do pracy: Placuszki bananowo-owsiane z patelni + Ciepłe j
+ abłko z mikrofali
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-01-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261101T193000
-DTEND:20261101T195000
-SUMMARY:Kolacja lekka: Twarożek z gotowaną marchewką i waflem (243 kcal)
-DESCRIPTION:4 czubate łyżki twarogu półtłustego\, 1 gotowana marchewka
-  w kostkę\, 1 łyżeczka oliwy\, kmin rzymski\, szczypiorek\, 1 wafel ry
- żowy\n\nOliwa + gotowana marchew to klasyczne połączenie 'poślizgowe'.
- \n\nBiałko: 20 g · Suma dnia: 1410 kcal
+UID:2026-11-08-kuchnia@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261108T173000
+DTEND:20261108T181500
+SUMMARY:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona ciecier
+ zyca
+DESCRIPTION:OBIAD – ODGRZEWASZ: Krem z dyni i marchwi z imbirem + pieczon
+ a ciecierzyca\nZupę podgrzej w garnku albo w mikrofali 2–3 min. Ciecier
+ zycę przechowuj osobno\, żeby była chrupka.\n\nApka: https://claude.ai/
+ artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twarożek z gotowaną marchewką i waflem
+DESCRIPTION:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona cie
+ cierzyca
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-02-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261102T080000
-DTEND:20261102T082000
-SUMMARY:Śniadanie: Owsianka jabłkowo-cynamonowa (476 kcal)
-DESCRIPTION:5 łyżek płatków owsianych\, ¾ szklanki mleka 2%\, 1 jabłk
- o duszone w kostkę\, 1 łyżka chia\, 1 łyżka pestek dyni\, cynamon\, s
- zczypta imbiru\n\nDuszone jabłko + chia = błonnik rozpuszczalny\; pestki
-  dają tłuszcz na poślizg. Zacznij dzień od szklanki ciepłej wody.\n\n
- Białko: 18 g · Suma dnia: 1444 kcal
+UID:2026-11-08-rano@jadlospis-eru
+DTSTAMP:20261025T132338Z
+DTSTART:20261108T070000
+DTEND:20261108T071000
+SUMMARY:Weź do pracy: Congee imbirowe z jajkiem i tofu + Skyr z ciepłymi 
+ truskawkami i chia
+DESCRIPTION:• Congee imbirowe z jajkiem i tofu: Wieczorem: gotuj ryż w b
+ ulionie z imbirem 25 min\, aż zrobi się kleisty\, dodaj tofu. Jajko ugot
+ uj na twardo. Do słoika. W pracy: mikrofala 2 min\, dymka\, olej sezamowy
+ \, sos sojowy.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do sł
+ oika skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się roz
+ mrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj
+ 5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Owsianka jabłkowo-cynamonowa
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-02-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261102T113000
-DTEND:20261102T115000
-SUMMARY:Przekąska: Golden milk z waflami ryżowymi (192 kcal)
-DESCRIPTION:¾ szklanki mleka\, ½ łyżeczki ghee\, ½ łyżeczki kurkumy\
- , imbir\, cynamon\, szczypta pieprzu\, 2 wafle ryżowe\n\nCiepły napój r
- ozpala 'agni' i pobudza perystaltykę.\n\nBiałko: 8 g · Suma dnia: 1444 
- kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Golden milk z waflami ryżowymi
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-02-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261102T160000
-DTEND:20261102T162000
-SUMMARY:Obiad (prep 2/2): Dhal z czerwonej soczewicy z bulgurem (565 kcal)
-DESCRIPTION:Porcja z dnia 7\n\nDhal smakuje lepiej drugiego dnia. Dolej ły
- żkę wody przy odgrzewaniu.\n\nBiałko: 28 g · Suma dnia: 1444 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dhal z czerwonej soczewicy z bulgurem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-02-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261102T193000
-DTEND:20261102T195000
-SUMMARY:Kolacja lekka: Skyr z pieczonym bananem (211 kcal)
-DESCRIPTION:⅔ kubeczka skyru (ok. 4 łyżki)\, 1 banan (air fryer 180°C 
- 6 min)\, cynamon\, 1 łyżeczka pestek dyni\n\nPieczony banan jest słodsz
- y i łagodniejszy dla brzucha.\n\nBiałko: 14 g · Suma dnia: 1444 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Skyr z pieczonym bananem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-03-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261103T080000
-DTEND:20261103T082000
-SUMMARY:Śniadanie: Jajecznica sezamowa ze szpinakiem (435 kcal)
-DESCRIPTION:2 jajka\, 2 łyżki serka wiejskiego (wmieszaj pod koniec)\, 1 
- łyżeczka oleju sezamowego\, 2 garści szpinaku\, 1 pomidor podduszony\, 
- 2 kromki chleba ziarnistego\, sezam\n\nOlej sezamowy w ajurwedzie 'nawilż
- a' jelita (vata). Pomidor podduś zamiast jeść na surowo.\n\nBiałko: 27
-  g · Suma dnia: 1409 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Jajecznica sezamowa ze szpinakiem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-03-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261103T113000
-DTEND:20261103T115000
-SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
-DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 2 łyżki pestek dyni\n
- \nCiepłe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g 
- · Suma dnia: 1409 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pieczone jabłko z air fryera
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-03-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261103T160000
-DTEND:20261103T162000
-SUMMARY:Obiad (prep 1/2): Kurczak imbirowy stir-fry z pęczakiem (577 kcal)
-DESCRIPTION:½ podwójnej piersi z kurczaka (1 mała pojedyncza) w paski\, 
- 1 cukinia\, 1 marchewka w słupki\, dymka\, 2 łyżki sosu sojowego\, imbi
- r\, czosnek\, 1 łyżeczka oleju sezamowego\, ⅓ szklanki pęczaku + 1 ł
- yżka\, 1 łyżeczka sezamu\n\nPęczak ma dużo błonnika. Warzywa duś kr
- ótko pod przykryciem.\n\nBiałko: 39 g · Suma dnia: 1409 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kurczak imbirowy stir-fry z pęczakiem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-03-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261103T193000
-DTEND:20261103T195000
-SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
-DESCRIPTION:¾ opakowania serka wiejskiego light\, 1 kromka chleba ziarnist
- ego\, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regene
- rują się w nocy.\n\nBiałko: 21 g · Suma dnia: 1409 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Serek wiejski z kromką ziarnistego
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261104T080000
-DTEND:20261104T082000
-SUMMARY:Śniadanie: Ciepła kasza jaglana z truskawkami i skyrem (424 kcal)
-DESCRIPTION:¼ szklanki kaszy jaglanej\, ¾ szklanki mleka\, ½ szklanki mr
- ożonych truskawek\, 1 łyżeczka chia\, ⅔ kubeczka skyru (ok. 4 łyżki
- )\, 1 łyżeczka pestek słonecznika\, cynamon\n\nJaglaną przelej wrzątk
- iem\, żeby nie była gorzka. Rozgrzewa i jest lekkostrawna.\n\nBiałko: 2
- 6 g · Suma dnia: 1423 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ciepła kasza jaglana z truskawkami i skyrem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261104T113000
-DTEND:20261104T115000
-SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
-DESCRIPTION:1 kubeczek skyru naturalnego (150 g)\, ½ szklanki mrożonych t
- ruskawek podgrzanych\, 1 łyżeczka chia\, 1 łyżka pestek słonecznika\n
- \nChia namocz 10 min przed jedzeniem i popij szklanką wody.\n\nBiałko: 1
- 9 g · Suma dnia: 1423 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Skyr z ciepłymi truskawkami i chia
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261104T160000
-DTEND:20261104T162000
-SUMMARY:Obiad (prep 2/2): Kurczak imbirowy stir-fry z pęczakiem (577 kcal)
-DESCRIPTION:Porcja z dnia 9\n\nOdgrzej na patelni z łyżką wody.\n\nBiał
- ko: 39 g · Suma dnia: 1423 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kurczak imbirowy stir-fry z pęczakiem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261104T193000
-DTEND:20261104T195000
-SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
-DESCRIPTION:1\,5 łyżki chia\, ⅔ szklanki mleka\, ½ jabłka startego i 
- podduszonego\, cynamon\, 1 łyżeczka pestek dyni\n\nCiepła żelowa konsy
- stencja to naturalny 'smar' na rano.\n\nBiałko: 10 g · Suma dnia: 1423 k
- cal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261105T080000
-DTEND:20261105T082000
-SUMMARY:Śniadanie: Toast z serkiem wiejskim i jajkiem z air fryera (453 kc
- al)
-DESCRIPTION:2 kromki chleba ziarnistego\, ½ opakowania serka wiejskiego\, 
- 1 jajko (w kokilce\, 180°C 8 min)\, 2 garści szpinaku podduszonego na 1 
- łyżeczce oliwy\, szczypta kurkumy\, 1 łyżka pestek słonecznika\n\nBia
- łko + pełne ziarno dają długą sytość przy pracy biurowej.\n\nBiałk
- o: 26 g · Suma dnia: 1431 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Toast z serkiem wiejskim i jajkiem z air fryera
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261105T113000
-DTEND:20261105T115000
-SUMMARY:Przekąska: Banan z pastą z pestek słonecznika (190 kcal)
-DESCRIPTION:1 dojrzały banan\, 1 łyżka pasty ze słonecznika (bez orzech
- ów!)\n\nTylko dojrzały banan\, bo zielony zapiera.\n\nBiałko: 5 g · Su
- ma dnia: 1431 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Banan z pastą z pestek słonecznika
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261105T160000
-DTEND:20261105T162000
-SUMMARY:Obiad (prep 1/2): Ciepły bowl z tuńczykiem po japońsku (545 kcal
- )
-DESCRIPTION:⅓ szklanki ryżu basmati + 1 łyżka\, 1 puszka tuńczyka w s
- osie własnym\, 1 łyżka jogurtu + odrobina srirachy (łagodnie)\, 1 cuki
- nia duszona z sosem sojowym\, 1 marchewka gotowana\, 1 jajko na twardo\, 1
-  łyżeczka oleju sezamowego\, sezam\, nori (opcjonalnie)\n\nTikTokowy 'tu
- na rice bowl' w wersji ciepłej: warzywa duszone zamiast surowego ogórka.
- \n\nBiałko: 35 g · Suma dnia: 1431 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ciepły bowl z tuńczykiem po japońsku
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261105T193000
-DTEND:20261105T195000
-SUMMARY:Kolacja lekka: Twarożek z gotowaną marchewką i waflem (243 kcal)
-DESCRIPTION:4 czubate łyżki twarogu półtłustego\, 1 gotowana marchewka
-  w kostkę\, 1 łyżeczka oliwy\, kmin rzymski\, szczypiorek\, 1 wafel ry
- żowy\n\nOliwa + gotowana marchew to klasyczne połączenie 'poślizgowe'.
- \n\nBiałko: 20 g · Suma dnia: 1431 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Twarożek z gotowaną marchewką i waflem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261106T080000
-DTEND:20261106T082000
-SUMMARY:Śniadanie: Baked oats bananowe z air fryera (458 kcal)
-DESCRIPTION:5 łyżek płatków owsianych\, 1 jajko\, ½ banana\, ⅔ kubec
- zka skyru (ok. 4 łyżki)\, 3 łyżki mleka\, cynamon\, 1 łyżka pestek s
- łonecznika (kokilka\, 180°C 15 min)\n\nTikTokowe 'ciasto na śniadanie'.
-  Owies + banan = beta-glukan.\n\nBiałko: 28 g · Suma dnia: 1406 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Baked oats bananowe z air fryera
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261106T113000
-DTEND:20261106T115000
-SUMMARY:Przekąska: Golden milk z waflami ryżowymi (192 kcal)
-DESCRIPTION:¾ szklanki mleka\, ½ łyżeczki ghee\, ½ łyżeczki kurkumy\
- , imbir\, cynamon\, szczypta pieprzu\, 2 wafle ryżowe\n\nCiepły napój r
- ozpala 'agni' i pobudza perystaltykę.\n\nBiałko: 8 g · Suma dnia: 1406 
- kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Golden milk z waflami ryżowymi
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261106T160000
-DTEND:20261106T162000
-SUMMARY:Obiad (prep 2/2): Ciepły bowl z tuńczykiem po japońsku (545 kcal
- )
-DESCRIPTION:Porcja z dnia 11\n\nSos jogurtowy trzymaj osobno i dodaj po odg
- rzaniu. Jogurtu nie podgrzewaj.\n\nBiałko: 35 g · Suma dnia: 1406 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ciepły bowl z tuńczykiem po japońsku
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261106T193000
-DTEND:20261106T195000
-SUMMARY:Kolacja lekka: Skyr z pieczonym bananem (211 kcal)
-DESCRIPTION:⅔ kubeczka skyru (ok. 4 łyżki)\, 1 banan (air fryer 180°C 
- 6 min)\, cynamon\, 1 łyżeczka pestek dyni\n\nPieczony banan jest słodsz
- y i łagodniejszy dla brzucha.\n\nBiałko: 14 g · Suma dnia: 1406 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Skyr z pieczonym bananem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-07-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261107T080000
-DTEND:20261107T082000
-SUMMARY:Śniadanie: Placuszki bananowo-owsiane (455 kcal)
-DESCRIPTION:1 banan\, 1 jajko\, 4 łyżki płatków owsianych (zmiksować)\
- , smażone na 1 łyżeczce oleju\; ⅔ kubeczka skyru (ok. 4 łyżki)\, ½
-  szklanki ciepłych truskawek\n\n3 składniki\, 10 minut. Truskawki zamias
- t borówek.\n\nBiałko: 24 g · Suma dnia: 1446 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Placuszki bananowo-owsiane
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-07-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261107T113000
-DTEND:20261107T115000
-SUMMARY:Przekąska: Pieczone jabłko z air fryera (192 kcal)
-DESCRIPTION:1 jabłko (180°C\, 12 min)\, cynamon\, 2 łyżki pestek dyni\n
- \nCiepłe jabłko to pektyna w najłagodniejszej formie.\n\nBiałko: 6 g 
- · Suma dnia: 1446 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pieczone jabłko z air fryera
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-07-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261107T160000
-DTEND:20261107T162000
-SUMMARY:Obiad (prep 1/2): Krem z dyni i marchwi z imbirem + pieczona ciecie
- rzyca (594 kcal)
-DESCRIPTION:2 szklanki dyni w kostkę\, 2 marchewki\, 1 ziemniak\, ½ cebul
- i\, 2 szklanki bulionu\, imbir\, kurkuma\, 1 łyżeczka oliwy\, 3 łyżki 
- mleczka kokosowego light\; topping: 6 łyżek ciecierzycy z air fryera (20
- 0°C 12 min\, kmin\, papryka)\, 1 łyżka pestek dyni\, 1 kromka chleba zi
- arnistego jako grzanka\n\nDynia + marchew to królowe błonnika rozpuszcza
- lnego. Ciepła zupa idealna na listopad.\n\nBiałko: 20 g · Suma dnia: 14
- 46 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Krem z dyni i marchwi z imbirem + pieczona ciecierzyca
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-07-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261107T193000
-DTEND:20261107T195000
-SUMMARY:Kolacja lekka: Serek wiejski z kromką ziarnistego (205 kcal)
-DESCRIPTION:¾ opakowania serka wiejskiego light\, 1 kromka chleba ziarnist
- ego\, szczypiorek\, szczypta kminu\n\nLekko i wcześnie\, bo jelita regene
- rują się w nocy.\n\nBiałko: 21 g · Suma dnia: 1446 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Serek wiejski z kromką ziarnistego
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-08-0800@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261108T080000
-DTEND:20261108T082000
-SUMMARY:Śniadanie: Congee imbirowe z jajkiem i tofu (412 kcal)
-DESCRIPTION:⅓ szklanki ryżu basmati gotowanego w 2 szklankach bulionu wa
- rzywnego do kleistości\, plaster imbiru\, 1 jajko na miękko\, ⅓ kostki
-  tofu w kostkę\, dymka\, 1 łyżeczka oleju sezamowego\, kropla sosu sojo
- wego\n\nAzjatycki 'lek' na brzuch: kleik ryżowy z imbirem. Ugotuj wieczor
- em dzień wcześniej.\n\nBiałko: 18 g · Suma dnia: 1428 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Congee imbirowe z jajkiem i tofu
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-08-1130@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261108T113000
-DTEND:20261108T115000
-SUMMARY:Przekąska: Skyr z ciepłymi truskawkami i chia (206 kcal)
-DESCRIPTION:1 kubeczek skyru naturalnego (150 g)\, ½ szklanki mrożonych t
- ruskawek podgrzanych\, 1 łyżeczka chia\, 1 łyżka pestek słonecznika\n
- \nChia namocz 10 min przed jedzeniem i popij szklanką wody.\n\nBiałko: 1
- 9 g · Suma dnia: 1428 kcal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Skyr z ciepłymi truskawkami i chia
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-08-1600@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261108T160000
-DTEND:20261108T162000
-SUMMARY:Obiad (prep 2/2): Krem z dyni i marchwi z imbirem + pieczona ciecie
- rzyca (594 kcal)
-DESCRIPTION:Porcja z dnia 13\n\nZupę podgrzej\, nie gotuj długo. Ciecierz
- ycę odśwież 3 min w air fryerze.\n\nBiałko: 20 g · Suma dnia: 1428 kc
- al
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Krem z dyni i marchwi z imbirem + pieczona ciecierzyca
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-08-1930@jadlospis-eru
-DTSTAMP:20261025T115629Z
-DTSTART:20261108T193000
-DTEND:20261108T195000
-SUMMARY:Kolacja lekka: Ciepły pudding chia-jabłko z pestkami (216 kcal)
-DESCRIPTION:1\,5 łyżki chia\, ⅔ szklanki mleka\, ½ jabłka startego i 
- podduszonego\, cynamon\, 1 łyżeczka pestek dyni\n\nCiepła żelowa konsy
- stencja to naturalny 'smar' na rano.\n\nBiałko: 10 g · Suma dnia: 1428 k
- cal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ciepły pudding chia-jabłko z pestkami
+DESCRIPTION:Weź do pracy: Congee imbirowe z jajkiem i tofu + Skyr z ciepł
+ ymi truskawkami i chia
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-zakupy@jadlospis-eru
-DTSTAMP:20261025T115629Z
+DTSTAMP:20261025T132338Z
 DTSTART:20261025T110000
 DTEND:20261025T120000
-SUMMARY:Zakupy na tydzień 1 (40 produktów)
-DESCRIPTION:☐ Banan – 5 szt\n☐ Brokuł (mrożony) – 200 g\n☐ Bulg
+SUMMARY:Zakupy na tydzień 1 (39 produktów)
+DESCRIPTION:☐ Banan – 4 szt\n☐ Brokuł (mrożony) – 200 g\n☐ Bulg
  ur – 100 g\n☐ Bulion warzywny – 500 ml\n☐ Cebula – 2 szt\n☐ Ch
  ia – 60 g\n☐ Chleb ziarnisty – 210 g\n☐ Ciecierzyca (puszka) – 2
  40 g\n☐ Dorsz mrożony – 300 g\n☐ Dymka (pęczek) – 1 szt\n☐ Dyn
@@ -927,14 +685,14 @@ DESCRIPTION:☐ Banan – 5 szt\n☐ Brokuł (mrożony) – 200 g\n☐ Bulg
  – 80 g\n☐ Kasza jaglana – 50 g\n☐ Marchew – 6 szt\n☐ Mleczko k
  okosowe light – 200 ml\n☐ Mleko 2% – 950 ml\n☐ Olej rzepakowy – 
  10 ml\n☐ Olej sezamowy – 30 ml\n☐ Oliwa – 60 ml\n☐ Pasta miso 
- – 10 g\n☐ Pasta ze słonecznika – 30 g\n☐ Pestki dyni – 70 g\n
- ☐ Pestki słonecznika – 50 g\n☐ Płatki owsiane – 140 g\n☐ Pomid
- or – 1 szt\n☐ Pomidory krojone (puszka) – 400 g\n☐ Ryż basmati 
- – 340 g\n☐ Serek wiejski light – 450 g\n☐ Skyr naturalny – 700 g
- \n☐ Soczewica czerwona – 140 g\n☐ Szpinak – 200 g\n☐ Tofu natura
- lne – 360 g\n☐ Truskawki mrożone – 320 g\n☐ Twaróg półtłusty 
- – 200 g\n☐ Wafle ryżowe – 4 szt\n☐ Ziemniaki – 600 g\n\nOdhacza
- j w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ – 10 g\n☐ Pestki dyni – 70 g\n☐ Pestki słonecznika – 50 g\n☐ 
+ Płatki owsiane – 140 g\n☐ Pomidor – 1 szt\n☐ Pomidory krojone (pu
+ szka) – 400 g\n☐ Ryż basmati – 340 g\n☐ Serek wiejski light – 4
+ 50 g\n☐ Skyr naturalny – 700 g\n☐ Soczewica czerwona – 140 g\n☐ 
+ Szpinak – 200 g\n☐ Tofu naturalne – 360 g\n☐ Truskawki mrożone 
+ – 320 g\n☐ Twaróg półtłusty – 300 g\n☐ Wafle ryżowe – 8 szt
+ \n☐ Ziemniaki – 600 g\n\nOdhaczaj w apce: https://claude.ai/artifact/C
+ SR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -944,11 +702,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-zakupy@jadlospis-eru
-DTSTAMP:20261025T115629Z
+DTSTAMP:20261025T132338Z
 DTSTART:20261101T110000
 DTEND:20261101T120000
-SUMMARY:Zakupy na tydzień 2 (38 produktów)
-DESCRIPTION:☐ Banan – 5 szt\n☐ Bulion warzywny – 1500 ml\n☐ Cebul
+SUMMARY:Zakupy na tydzień 2 (37 produktów)
+DESCRIPTION:☐ Banan – 4 szt\n☐ Bulion warzywny – 1500 ml\n☐ Cebul
  a – 1 szt\n☐ Chia – 60 g\n☐ Chleb ziarnisty – 280 g\n☐ Ciecier
  zyca (puszka) – 200 g\n☐ Cukinia – 4 szt\n☐ Dymka (pęczek) – 1 
  szt\n☐ Dynia – 600 g\n☐ Ghee (masło klarowane) – 10 g\n☐ Imbir 
@@ -956,15 +714,14 @@ DESCRIPTION:☐ Banan – 5 szt\n☐ Bulion warzywny – 1500 ml\n☐ Cebul
  naturalny – 40 g\n☐ Kasza jaglana – 50 g\n☐ Kasza pęczak – 170 
  g\n☐ Marchew – 9 szt\n☐ Mleczko kokosowe light – 100 ml\n☐ Mleko
   2% – 1150 ml\n☐ Olej rzepakowy – 10 ml\n☐ Olej sezamowy – 30 ml
- \n☐ Oliwa – 20 ml\n☐ Pasta ze słonecznika – 20 g\n☐ Pestki dyni
-  – 90 g\n☐ Pestki słonecznika – 50 g\n☐ Pierś z kurczaka – 240
-  g\n☐ Płatki owsiane – 140 g\n☐ Pomidor – 1 szt\n☐ Ryż basmati
-  – 200 g\n☐ Serek wiejski light – 450 g\n☐ Skyr naturalny – 800 
- g\n☐ Szpinak – 100 g\n☐ Tofu naturalne – 60 g\n☐ Truskawki mroż
- one – 320 g\n☐ Tuńczyk w sosie własnym (puszka) – 2 szt\n☐ Twar
- óg półtłusty – 100 g\n☐ Wafle ryżowe – 5 szt\n☐ Ziemniaki –
-  200 g\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XY
- nq
+ \n☐ Oliwa – 20 ml\n☐ Pestki dyni – 90 g\n☐ Pestki słonecznika 
+ – 50 g\n☐ Pierś z kurczaka – 240 g\n☐ Płatki owsiane – 140 g\n
+ ☐ Pomidor – 1 szt\n☐ Ryż basmati – 200 g\n☐ Serek wiejski light
+  – 450 g\n☐ Skyr naturalny – 800 g\n☐ Szpinak – 100 g\n☐ Tofu 
+ naturalne – 60 g\n☐ Truskawki mrożone – 320 g\n☐ Tuńczyk w sosie
+  własnym (puszka) – 2 szt\n☐ Twaróg półtłusty – 150 g\n☐ Wafl
+ e ryżowe – 7 szt\n☐ Ziemniaki – 200 g\n\nOdhaczaj w apce: https://c
+ laude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -974,7 +731,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ochota@jadlospis-eru
-DTSTAMP:20261025T115629Z
+DTSTAMP:20261025T132338Z
 DTSTART:20261106T180000
 DTEND:20261106T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
