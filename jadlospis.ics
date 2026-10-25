@@ -9,15 +9,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-10-25-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261025T173000
 DTEND:20261025T181500
 SUMMARY:Kuchnia: na jutro: Owsianka szarlotkowa (nocna\, na ciepło)
 DESCRIPTION:NA JUTRO DO PRACY:\n• Owsianka szarlotkowa (nocna\, na ciepł
- o): Wieczorem: wymieszaj w słoiku płatki\, mleko\, chia\, starte jabłko
-  i przyprawy\, wstaw do lodówki. W pracy: mikrofala 1\,5–2 min\, wymies
- zaj i posyp pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5w
- N3XYnq
+ o): wymieszaj w słoiku płatki\, mleko\, chia\, starte jabłko i przypraw
+ y\, wstaw do lodówki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5
+ wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -27,57 +26,56 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261026T173000
 DTEND:20261026T181500
 SUMMARY:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 porc
- je)\; na jutro: Frittata ze szpinakiem i pomidorem + chleb + Skyr z ciepł
- ymi truskawkami i chia
+ je)\; na jutro: Frittata ze szpinakiem i pomidorem + chleb + Skyr z truska
+ wkami i chia w słoiku
 DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Curry z ciecierzycy i dyni z ry
  żem basmati\nGarnek\, ok. 30 min. Zeszklij cebulę na oliwie\, dodaj czos
  nek\, imbir i przyprawy na 1 min\, potem dynię\, ciecierzycę i mleczko k
  okosowe z ½ szklanki wody. Duś 15–20 min. Ryż ugotuj osobno. Druga po
  rcja do pudełka.\n\nNA JUTRO DO PRACY:\n• Frittata ze szpinakiem i pomi
- dorem + chleb: Wieczorem: na patelni na oleju podduś szpinak i pomidor 2 
- min\, wlej roztrzepane jajka z serkiem\, przykryj i smaż na małym ogniu 
- 6–8 min. Pokrój\, do pudełka. W pracy: mikrofala 1 min\, jedz z chlebe
- m.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do słoika skyr\, 
- mrożone truskawki\, chia i pestki. Do rana truskawki się rozmrożą i pu
- szczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ dorem + chleb: na patelni na oleju podduś szpinak i pomidor 2 min\, wlej 
+ roztrzepane jajka z serkiem\, przykryj i smaż na małym ogniu 6–8 min. 
+ Pokrój\, do pudełka.\n• Skyr z truskawkami i chia w słoiku: do słoik
+ a skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się rozmro
+ żą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN
+ 3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 
- porcje)\; na jutro: Frittata ze szpinakiem i pomidorem + chleb + Skyr z ci
- epłymi truskawkami i chia
+ porcje)\; na jutro: Frittata ze szpinakiem i pomidorem + chleb + Skyr z tr
+ uskawkami i chia w słoiku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261026T070000
 DTEND:20261026T071000
-SUMMARY:Weź do pracy: Owsianka szarlotkowa (nocna\, na ciepło) + Ciepłe 
- jabłko z cynamonem z mikrofali
-DESCRIPTION:• Owsianka szarlotkowa (nocna\, na ciepło): Wieczorem: wymie
- szaj w słoiku płatki\, mleko\, chia\, starte jabłko i przyprawy\, wstaw
-  do lodówki. W pracy: mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami
- .\n• Ciepłe jabłko z cynamonem z mikrofali: W pracy: pokrój jabłko w
-  kostkę do miseczki\, posyp cynamonem\, mikrofala 2–3 min pod przykryci
- em\, posyp pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN
- 3XYnq
+SUMMARY:Spakuj do pracy: słoik z owsianką + 1 jabłko\, cynamon i pestki 
+ w woreczku
+DESCRIPTION:• słoik z owsianką\n  W pracy (Owsianka szarlotkowa (nocna\
+ , na ciepło)): mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami.\n• 
+ 1 jabłko\, cynamon i pestki w woreczku\n  W pracy (Ciepłe jabłko z cyna
+ monem z mikrofali): pokrój jabłko w kostkę do miseczki\, posyp cynamone
+ m\, mikrofala 2–3 min pod przykryciem\, posyp pestkami.\n\nApka: https:/
+ /claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Owsianka szarlotkowa (nocna\, na ciepło) + Ciep
- łe jabłko z cynamonem z mikrofali
+DESCRIPTION:Spakuj do pracy: słoik z owsianką + 1 jabłko\, cynamon i pes
+ tki w woreczku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261027T173000
 DTEND:20261027T181500
 SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
@@ -85,11 +83,10 @@ SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
 DESCRIPTION:OBIAD – ODGRZEWASZ: Curry z ciecierzycy i dyni z ryżem basma
  ti\nOdgrzewaj do gorąca. W ajurwedzie unika się zimnych resztek z lodów
  ki.\n\nNA JUTRO DO PRACY:\n• Jaglanka z pieczoną gruszką i cynamonem: 
- Wieczorem: kaszę przelej wrzątkiem\, gotuj na mleku z cynamonem 15 min\,
-  przełóż do słoika. Gruszkę w kostce podduś na suchej patelni z cyna
- monem 3 min i połóż na wierzch. Skyr i pestki osobno. W pracy: mikrofal
- a 1\,5 min\, potem skyr i pestki.\n\nApka: https://claude.ai/artifact/CSR4
- sfUNkmKzgj5wN3XYnq
+ kaszę przelej wrzątkiem\, gotuj na mleku z cynamonem 15 min\, przełóż
+  do słoika. Gruszkę w kostce podduś na suchej patelni z cynamonem 3 min
+  i połóż na wierzch. Skyr i pestki osobno.\n\nApka: https://claude.ai/a
+ rtifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -100,29 +97,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261027T070000
 DTEND:20261027T071000
-SUMMARY:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Skyr z 
- ciepłymi truskawkami i chia
-DESCRIPTION:• Frittata ze szpinakiem i pomidorem + chleb: Wieczorem: na p
- atelni na oleju podduś szpinak i pomidor 2 min\, wlej roztrzepane jajka z
-  serkiem\, przykryj i smaż na małym ogniu 6–8 min. Pokrój\, do pudeł
- ka. W pracy: mikrofala 1 min\, jedz z chlebem.\n• Skyr z ciepłymi trusk
- awkami i chia: Wieczorem: do słoika skyr\, mrożone truskawki\, chia i pe
- stki. Do rana truskawki się rozmrożą i puszczą sok.\n\nApka: https://c
- laude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: pudełko z frittatą + 2 kromki chleba + słoik ze
+  skyrem
+DESCRIPTION:• pudełko z frittatą + 2 kromki chleba\n  W pracy (Frittata
+  ze szpinakiem i pomidorem + chleb): mikrofala 1 min\, jedz z chlebem.\n
+ • słoik ze skyrem\n  W pracy (Skyr z truskawkami i chia w słoiku): wym
+ ieszaj i jedz.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Sky
- r z ciepłymi truskawkami i chia
+DESCRIPTION:Spakuj do pracy: pudełko z frittatą + 2 kromki chleba + słoi
+ k ze skyrem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261028T173000
 DTEND:20261028T181500
 SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
@@ -135,10 +129,9 @@ DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Chrupiące tofu teriyaki z air f
  \, a marchew i brokuł na parze albo w odrobinie wody 6 min. Na koniec wrz
  uć tofu na patelnię z sosem (sos sojowy\, miód\, imbir\, czosnek\, olej
   sezamowy) na 1 min.\n\nNA JUTRO DO PRACY:\n• Kanapki z serkiem\, jajkie
- m i duszonym szpinakiem: Wieczorem: jajko na twardo (9 min)\, szpinak podd
- uś 2 min na patelni na oliwie z kurkumą. Rano: posmaruj chleb serkiem\, 
- połóż szpinak\, plasterki jajka i pestki.\n\nApka: https://claude.ai/ar
- tifact/CSR4sfUNkmKzgj5wN3XYnq
+ m i duszonym szpinakiem: jajko na twardo (9 min)\, szpinak podduś 2 min n
+ a patelni na oliwie z kurkumą.\n\nApka: https://claude.ai/artifact/CSR4sf
+ UNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -150,30 +143,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261028T070000
 DTEND:20261028T071000
-SUMMARY:Weź do pracy: Jaglanka z pieczoną gruszką i cynamonem + Wafle ry
- żowe z twarożkiem i bananem
-DESCRIPTION:• Jaglanka z pieczoną gruszką i cynamonem: Wieczorem: kasz
- ę przelej wrzątkiem\, gotuj na mleku z cynamonem 15 min\, przełóż do 
- słoika. Gruszkę w kostce podduś na suchej patelni z cynamonem 3 min i p
- ołóż na wierzch. Skyr i pestki osobno. W pracy: mikrofala 1\,5 min\, po
- tem skyr i pestki.\n• Wafle ryżowe z twarożkiem i bananem: Rano: twaro
- żek do małego pudełka\, wafle i banana do torby. W pracy: posmaruj wafl
- e\, połóż plasterki banana\, posyp cynamonem.\n\nApka: https://claude.a
- i/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr z pestkami w małym pude
+ łku + 2 wafle\, twarożek w małym pudełku i ½ banana
+DESCRIPTION:• słoik z jaglanką + skyr z pestkami w małym pudełku\n  W
+  pracy (Jaglanka z pieczoną gruszką i cynamonem): mikrofala 1\,5 min\, p
+ otem skyr i pestki.\n• 2 wafle\, twarożek w małym pudełku i ½ banana
+  – twarożek do małego pudełka\, wafle i banana do torby.\n  W pracy (
+ Wafle ryżowe z twarożkiem i bananem): posmaruj wafle\, połóż plasterk
+ i banana\, posyp cynamonem.\n\nApka: https://claude.ai/artifact/CSR4sfUNkm
+ Kzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Jaglanka z pieczoną gruszką i cynamonem + Wafl
- e ryżowe z twarożkiem i bananem
+DESCRIPTION:Spakuj do pracy: słoik z jaglanką + skyr z pestkami w małym 
+ pudełku + 2 wafle\, twarożek w małym pudełku i ½ banana
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261029T173000
 DTEND:20261029T181500
 SUMMARY:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem i w
@@ -181,10 +173,9 @@ SUMMARY:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem i w
 DESCRIPTION:OBIAD – ODGRZEWASZ: Chrupiące tofu teriyaki z air fryera z r
  yżem i warzywami\nTofu odśwież 3 min w air fryerze (będzie znów chrup
  kie)\, ryż i warzywa w mikrofali.\n\nNA JUTRO DO PRACY:\n• Owsiany mug 
- cake bananowy z mikrofali: Wieczorem: w dużym kubku albo słoiku rozgnie
- ć banana\, wymieszaj z jajkiem\, płatkami\, 2 łyżkami skyru\, mlekiem 
- i cynamonem. W pracy: mikrofala 2–2\,5 min\, na wierzch resztę skyru i 
- pestki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ cake bananowy z mikrofali: w dużym kubku albo słoiku rozgnieć banana\, 
+ wymieszaj z jajkiem\, płatkami\, 2 łyżkami skyru\, mlekiem i cynamonem.
+ \n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -195,30 +186,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261029T070000
 DTEND:20261029T071000
-SUMMARY:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakiem + 
- Pumpkin spice latte fit z waflami ryżowymi
-DESCRIPTION:• Kanapki z serkiem\, jajkiem i duszonym szpinakiem: Wieczore
- m: jajko na twardo (9 min)\, szpinak podduś 2 min na patelni na oliwie z 
- kurkumą. Rano: posmaruj chleb serkiem\, połóż szpinak\, plasterki jajk
- a i pestki.\n• Pumpkin spice latte fit z waflami ryżowymi: Rano: puree 
- z dyni do małego słoiczka\, przyprawy do drugiego (możesz zrobić miesz
- ankę na cały tydzień). W pracy: mleko z dynią\, ghee i przyprawami do 
- kubka\, mikrofala 1\,5 min\, mocno wymieszaj.\n\nApka: https://claude.ai/a
- rtifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: kanapki w pudełku + słoiczek z dynią + słoicze
+ k z przyprawami\, wafle (mleko kupisz albo trzymasz w pracy)
+DESCRIPTION:• kanapki w pudełku – posmaruj chleb serkiem\, połóż sz
+ pinak\, plasterki jajka i pestki.\n  W pracy (Kanapki z serkiem\, jajkiem 
+ i duszonym szpinakiem): \n• słoiczek z dynią + słoiczek z przyprawami
+ \, wafle (mleko kupisz albo trzymasz w pracy) – puree z dyni do małego 
+ słoiczka\, przyprawy do drugiego (możesz zrobić mieszankę na cały tyd
+ zień).\n  W pracy (Pumpkin spice latte fit z waflami ryżowymi): mleko z 
+ dynią\, ghee i przyprawami do kubka\, mikrofala 1\,5 min\, mocno wymiesza
+ j.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakie
- m + Pumpkin spice latte fit z waflami ryżowymi
+DESCRIPTION:Spakuj do pracy: kanapki w pudełku + słoiczek z dynią + sło
+ iczek z przyprawami\, wafle (mleko kupisz albo trzymasz w pracy)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261030T173000
 DTEND:20261030T181500
 SUMMARY:Kuchnia: ugotuj Pęczotto z pieczoną dynią\, szałwią i jajkiem 
@@ -249,29 +240,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261030T070000
 DTEND:20261030T071000
-SUMMARY:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Ciepłe jab
- łko z cynamonem z mikrofali
-DESCRIPTION:• Owsiany mug cake bananowy z mikrofali: Wieczorem: w dużym 
- kubku albo słoiku rozgnieć banana\, wymieszaj z jajkiem\, płatkami\, 2 
- łyżkami skyru\, mlekiem i cynamonem. W pracy: mikrofala 2–2\,5 min\, n
- a wierzch resztę skyru i pestki.\n• Ciepłe jabłko z cynamonem z mikro
- fali: W pracy: pokrój jabłko w kostkę do miseczki\, posyp cynamonem\, m
- ikrofala 2–3 min pod przykryciem\, posyp pestkami.\n\nApka: https://clau
- de.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr z pestkami + 1 ja
+ błko\, cynamon i pestki w woreczku
+DESCRIPTION:• kubek z masą na mug cake + skyr z pestkami\n  W pracy (Ows
+ iany mug cake bananowy z mikrofali): mikrofala 2–2\,5 min\, na wierzch r
+ esztę skyru i pestki.\n• 1 jabłko\, cynamon i pestki w woreczku\n  W p
+ racy (Ciepłe jabłko z cynamonem z mikrofali): pokrój jabłko w kostkę 
+ do miseczki\, posyp cynamonem\, mikrofala 2–3 min pod przykryciem\, posy
+ p pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Ciepłe 
- jabłko z cynamonem z mikrofali
+DESCRIPTION:Spakuj do pracy: kubek z masą na mug cake + skyr z pestkami + 
+ 1 jabłko\, cynamon i pestki w woreczku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-weekend-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261031T093000
 DTEND:20261031T100000
 SUMMARY:Śniadanie we dwoje: Śniadaniowe crumble jabłko-gruszka ze skyrem
@@ -295,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261031T173000
 DTEND:20261031T181500
 SUMMARY:Kuchnia: ugotuj Dyniowy ramen miso z jajkiem i chrupiącym tofu (2 
@@ -337,7 +327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-weekend-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261101T093000
 DTEND:20261101T100000
 SUMMARY:Śniadanie we dwoje: Dyniowe pancakes z cynamonem i karmelizowanym 
@@ -361,7 +351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261101T173000
 DTEND:20261101T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z kasztanami\, gruszką i tymiankiem + pure
@@ -385,10 +375,9 @@ DESCRIPTION:MENU NA DZIŚ (we dwoje):\n• Śniadanie (2 os.): Dyniowe panc
  cz z mlekiem i gałką. Kurczaka pokrój na kawałki\, smaż na oliwie 6
  –7 min\, aż się zarumieni. Dodaj gruszkę w łódeczkach\, kasztany\, 
  tymianek i bulion\, duś pod przykryciem 5 min\, aż sos zgęstnieje.\n\nN
- A JUTRO DO PRACY:\n• Owsianka szarlotkowa (nocna\, na ciepło): Wieczore
- m: wymieszaj w słoiku płatki\, mleko\, chia\, starte jabłko i przyprawy
- \, wstaw do lodówki. W pracy: mikrofala 1\,5–2 min\, wymieszaj i posyp 
- pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ A JUTRO DO PRACY:\n• Owsianka szarlotkowa (nocna\, na ciepło): wymiesza
+ j w słoiku płatki\, mleko\, chia\, starte jabłko i przyprawy\, wstaw do
+  lodówki.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -400,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261102T173000
 DTEND:20261102T181500
 SUMMARY:Kuchnia: ugotuj Dhal z czerwonej soczewicy z bulgurem (1 porcja)\; 
@@ -410,11 +399,10 @@ DESCRIPTION:OBIAD – GOTUJESZ (1 porcja): Dhal z czerwonej soczewicy z bul
  mbir\, kurkumę i kmin. Wsyp przepłukaną soczewicę\, pomidory i 1\,5 sz
  klanki wody\, gotuj 15 min\, na koniec szpinak. Bulgur zalej wrzątkiem (2
  × tyle wody) i przykryj na 10 min. Jogurt na wierzch.\n\nNA JUTRO DO PRAC
- Y:\n• Frittata ze szpinakiem i pomidorem + chleb: Wieczorem: na patelni 
- na oleju podduś szpinak i pomidor 2 min\, wlej roztrzepane jajka z serkie
- m\, przykryj i smaż na małym ogniu 6–8 min. Pokrój\, do pudełka. W p
- racy: mikrofala 1 min\, jedz z chlebem.\n\nApka: https://claude.ai/artifac
- t/CSR4sfUNkmKzgj5wN3XYnq
+ Y:\n• Frittata ze szpinakiem i pomidorem + chleb: na patelni na oleju po
+ dduś szpinak i pomidor 2 min\, wlej roztrzepane jajka z serkiem\, przykry
+ j i smaż na małym ogniu 6–8 min. Pokrój\, do pudełka.\n\nApka: https
+ ://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -425,91 +413,88 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261102T070000
 DTEND:20261102T071000
-SUMMARY:Weź do pracy: Owsianka szarlotkowa (nocna\, na ciepło) + Pumpkin 
- spice latte fit z waflami ryżowymi
-DESCRIPTION:• Owsianka szarlotkowa (nocna\, na ciepło): Wieczorem: wymie
- szaj w słoiku płatki\, mleko\, chia\, starte jabłko i przyprawy\, wstaw
-  do lodówki. W pracy: mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami
- .\n• Pumpkin spice latte fit z waflami ryżowymi: Rano: puree z dyni do 
- małego słoiczka\, przyprawy do drugiego (możesz zrobić mieszankę na c
- ały tydzień). W pracy: mleko z dynią\, ghee i przyprawami do kubka\, mi
- krofala 1\,5 min\, mocno wymieszaj.\n\nApka: https://claude.ai/artifact/CS
- R4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: słoik z owsianką + słoiczek z dynią + słoicze
+ k z przyprawami\, wafle (mleko kupisz albo trzymasz w pracy)
+DESCRIPTION:• słoik z owsianką\n  W pracy (Owsianka szarlotkowa (nocna\
+ , na ciepło)): mikrofala 1\,5–2 min\, wymieszaj i posyp pestkami.\n• 
+ słoiczek z dynią + słoiczek z przyprawami\, wafle (mleko kupisz albo tr
+ zymasz w pracy) – puree z dyni do małego słoiczka\, przyprawy do drugi
+ ego (możesz zrobić mieszankę na cały tydzień).\n  W pracy (Pumpkin sp
+ ice latte fit z waflami ryżowymi): mleko z dynią\, ghee i przyprawami do
+  kubka\, mikrofala 1\,5 min\, mocno wymieszaj.\n\nApka: https://claude.ai/
+ artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Owsianka szarlotkowa (nocna\, na ciepło) + Pump
- kin spice latte fit z waflami ryżowymi
+DESCRIPTION:Spakuj do pracy: słoik z owsianką + słoiczek z dynią + sło
+ iczek z przyprawami\, wafle (mleko kupisz albo trzymasz w pracy)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261103T173000
 DTEND:20261103T181500
 SUMMARY:Kuchnia: ugotuj Kurczak imbirowy stir-fry z pęczakiem (2 porcje)\;
-  na jutro: Jaglanka z pieczoną gruszką i cynamonem + Skyr z ciepłymi tr
- uskawkami i chia
+  na jutro: Jaglanka z pieczoną gruszką i cynamonem + Skyr z truskawkami 
+ i chia w słoiku
 DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Kurczak imbirowy stir-fry z pęc
  zakiem\nPatelnia\, ok. 20 min. Pęczak ugotuj wcześniej (20 min). Kurczak
  a smaż na oleju sezamowym 5 min\, dodaj marchew i cukinię\, smaż 5 min\
  , na koniec sos sojowy\, imbir\, czosnek\, dymka i sezam.\n\nNA JUTRO DO P
- RACY:\n• Jaglanka z pieczoną gruszką i cynamonem: Wieczorem: kaszę pr
- zelej wrzątkiem\, gotuj na mleku z cynamonem 15 min\, przełóż do słoi
- ka. Gruszkę w kostce podduś na suchej patelni z cynamonem 3 min i połó
- ż na wierzch. Skyr i pestki osobno. W pracy: mikrofala 1\,5 min\, potem s
- kyr i pestki.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do sło
- ika skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się rozm
- rożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5
- wN3XYnq
+ RACY:\n• Jaglanka z pieczoną gruszką i cynamonem: kaszę przelej wrzą
+ tkiem\, gotuj na mleku z cynamonem 15 min\, przełóż do słoika. Gruszk
+ ę w kostce podduś na suchej patelni z cynamonem 3 min i połóż na wier
+ zch. Skyr i pestki osobno.\n• Skyr z truskawkami i chia w słoiku: do s
+ łoika skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się r
+ ozmrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKz
+ gj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kuchnia: ugotuj Kurczak imbirowy stir-fry z pęczakiem (2 porcj
- e)\; na jutro: Jaglanka z pieczoną gruszką i cynamonem + Skyr z ciepłym
- i truskawkami i chia
+ e)\; na jutro: Jaglanka z pieczoną gruszką i cynamonem + Skyr z truskawk
+ ami i chia w słoiku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261103T070000
 DTEND:20261103T071000
-SUMMARY:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Ciepłe
-  jabłko z cynamonem z mikrofali
-DESCRIPTION:• Frittata ze szpinakiem i pomidorem + chleb: Wieczorem: na p
- atelni na oleju podduś szpinak i pomidor 2 min\, wlej roztrzepane jajka z
-  serkiem\, przykryj i smaż na małym ogniu 6–8 min. Pokrój\, do pudeł
- ka. W pracy: mikrofala 1 min\, jedz z chlebem.\n• Ciepłe jabłko z cyna
- monem z mikrofali: W pracy: pokrój jabłko w kostkę do miseczki\, posyp 
- cynamonem\, mikrofala 2–3 min pod przykryciem\, posyp pestkami.\n\nApka:
-  https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: pudełko z frittatą + 2 kromki chleba + 1 jabłko
+ \, cynamon i pestki w woreczku
+DESCRIPTION:• pudełko z frittatą + 2 kromki chleba\n  W pracy (Frittata
+  ze szpinakiem i pomidorem + chleb): mikrofala 1 min\, jedz z chlebem.\n
+ • 1 jabłko\, cynamon i pestki w woreczku\n  W pracy (Ciepłe jabłko z 
+ cynamonem z mikrofali): pokrój jabłko w kostkę do miseczki\, posyp cyna
+ monem\, mikrofala 2–3 min pod przykryciem\, posyp pestkami.\n\nApka: htt
+ ps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Frittata ze szpinakiem i pomidorem + chleb + Cie
- płe jabłko z cynamonem z mikrofali
+DESCRIPTION:Spakuj do pracy: pudełko z frittatą + 2 kromki chleba + 1 jab
+ łko\, cynamon i pestki w woreczku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261104T173000
 DTEND:20261104T181500
 SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z pęczakiem\; na jutro:
   Kanapki z serkiem\, jajkiem i duszonym szpinakiem
 DESCRIPTION:OBIAD – ODGRZEWASZ: Kurczak imbirowy stir-fry z pęczakiem\nO
  dgrzej na patelni z łyżką wody.\n\nNA JUTRO DO PRACY:\n• Kanapki z se
- rkiem\, jajkiem i duszonym szpinakiem: Wieczorem: jajko na twardo (9 min)\
- , szpinak podduś 2 min na patelni na oliwie z kurkumą. Rano: posmaruj ch
- leb serkiem\, połóż szpinak\, plasterki jajka i pestki.\n\nApka: https:
- //claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ rkiem\, jajkiem i duszonym szpinakiem: jajko na twardo (9 min)\, szpinak p
+ odduś 2 min na patelni na oliwie z kurkumą.\n\nApka: https://claude.ai/a
+ rtifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -520,30 +505,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261104T070000
 DTEND:20261104T071000
-SUMMARY:Weź do pracy: Jaglanka z pieczoną gruszką i cynamonem + Skyr z c
- iepłymi truskawkami i chia
-DESCRIPTION:• Jaglanka z pieczoną gruszką i cynamonem: Wieczorem: kasz
- ę przelej wrzątkiem\, gotuj na mleku z cynamonem 15 min\, przełóż do 
- słoika. Gruszkę w kostce podduś na suchej patelni z cynamonem 3 min i p
- ołóż na wierzch. Skyr i pestki osobno. W pracy: mikrofala 1\,5 min\, po
- tem skyr i pestki.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do
-  słoika skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się
-  rozmrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkm
- Kzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr z pestkami w małym pude
+ łku + słoik ze skyrem
+DESCRIPTION:• słoik z jaglanką + skyr z pestkami w małym pudełku\n  W
+  pracy (Jaglanka z pieczoną gruszką i cynamonem): mikrofala 1\,5 min\, p
+ otem skyr i pestki.\n• słoik ze skyrem\n  W pracy (Skyr z truskawkami i
+  chia w słoiku): wymieszaj i jedz.\n\nApka: https://claude.ai/artifact/CS
+ R4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Jaglanka z pieczoną gruszką i cynamonem + Skyr
-  z ciepłymi truskawkami i chia
+DESCRIPTION:Spakuj do pracy: słoik z jaglanką + skyr z pestkami w małym 
+ pudełku + słoik ze skyrem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261105T173000
 DTEND:20261105T181500
 SUMMARY:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porcje)\
@@ -553,10 +535,9 @@ DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Ciepły bowl z tuńczykiem po ja
  archewkę. Cukinię w plasterkach podduś na patelni z sosem sojowym 5 min
  . Ułóż w misce ryż\, tuńczyka\, warzywa i jajko\, polej jogurtem ze s
  rirachą i olejem sezamowym.\n\nNA JUTRO DO PRACY:\n• Owsiany mug cake b
- ananowy z mikrofali: Wieczorem: w dużym kubku albo słoiku rozgnieć bana
- na\, wymieszaj z jajkiem\, płatkami\, 2 łyżkami skyru\, mlekiem i cynam
- onem. W pracy: mikrofala 2–2\,5 min\, na wierzch resztę skyru i pestki.
- \n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ ananowy z mikrofali: w dużym kubku albo słoiku rozgnieć banana\, wymies
+ zaj z jajkiem\, płatkami\, 2 łyżkami skyru\, mlekiem i cynamonem.\n\nAp
+ ka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -567,40 +548,39 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261105T070000
 DTEND:20261105T071000
-SUMMARY:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakiem + 
- Wafle ryżowe z twarożkiem i bananem
-DESCRIPTION:• Kanapki z serkiem\, jajkiem i duszonym szpinakiem: Wieczore
- m: jajko na twardo (9 min)\, szpinak podduś 2 min na patelni na oliwie z 
- kurkumą. Rano: posmaruj chleb serkiem\, połóż szpinak\, plasterki jajk
- a i pestki.\n• Wafle ryżowe z twarożkiem i bananem: Rano: twarożek do
-  małego pudełka\, wafle i banana do torby. W pracy: posmaruj wafle\, po
- łóż plasterki banana\, posyp cynamonem.\n\nApka: https://claude.ai/arti
- fact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: kanapki w pudełku + 2 wafle\, twarożek w małym 
+ pudełku i ½ banana
+DESCRIPTION:• kanapki w pudełku – posmaruj chleb serkiem\, połóż sz
+ pinak\, plasterki jajka i pestki.\n  W pracy (Kanapki z serkiem\, jajkiem 
+ i duszonym szpinakiem): \n• 2 wafle\, twarożek w małym pudełku i ½ b
+ anana – twarożek do małego pudełka\, wafle i banana do torby.\n  W pr
+ acy (Wafle ryżowe z twarożkiem i bananem): posmaruj wafle\, połóż pla
+ sterki banana\, posyp cynamonem.\n\nApka: https://claude.ai/artifact/CSR4s
+ fUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Kanapki z serkiem\, jajkiem i duszonym szpinakie
- m + Wafle ryżowe z twarożkiem i bananem
+DESCRIPTION:Spakuj do pracy: kanapki w pudełku + 2 wafle\, twarożek w ma
+ łym pudełku i ½ banana
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261106T173000
 DTEND:20261106T181500
 SUMMARY:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na jutro
  : Cynamonowe placuszki bananowo-owsiane
 DESCRIPTION:OBIAD – ODGRZEWASZ: Ciepły bowl z tuńczykiem po japońsku\n
  Sos jogurtowy trzymaj osobno i dodaj po odgrzaniu. Jogurtu nie podgrzewaj.
- \n\nNA JUTRO DO PRACY:\n• Cynamonowe placuszki bananowo-owsiane: Wieczor
- em: zmiksuj banana\, jajko i płatki\, usmaż 6 małych placuszków na pat
- elni (2 min z każdej strony). Skyr z truskawkami do osobnego słoika. W p
- racy: placuszki mikrofala 40 s.\n\nApka: https://claude.ai/artifact/CSR4sf
- UNkmKzgj5wN3XYnq
+ \n\nNA JUTRO DO PRACY:\n• Cynamonowe placuszki bananowo-owsiane: zmiksuj
+  banana\, jajko i płatki\, usmaż 6 małych placuszków na patelni (2 min
+  z każdej strony). Skyr z truskawkami do osobnego słoika.\n\nApka: https
+ ://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -611,81 +591,81 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261106T070000
 DTEND:20261106T071000
-SUMMARY:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Pumpkin spic
- e latte fit z waflami ryżowymi
-DESCRIPTION:• Owsiany mug cake bananowy z mikrofali: Wieczorem: w dużym 
- kubku albo słoiku rozgnieć banana\, wymieszaj z jajkiem\, płatkami\, 2 
- łyżkami skyru\, mlekiem i cynamonem. W pracy: mikrofala 2–2\,5 min\, n
- a wierzch resztę skyru i pestki.\n• Pumpkin spice latte fit z waflami r
- yżowymi: Rano: puree z dyni do małego słoiczka\, przyprawy do drugiego 
- (możesz zrobić mieszankę na cały tydzień). W pracy: mleko z dynią\, 
- ghee i przyprawami do kubka\, mikrofala 1\,5 min\, mocno wymieszaj.\n\nApk
- a: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr z pestkami + sło
+ iczek z dynią + słoiczek z przyprawami\, wafle (mleko kupisz albo trzyma
+ sz w pracy)
+DESCRIPTION:• kubek z masą na mug cake + skyr z pestkami\n  W pracy (Ows
+ iany mug cake bananowy z mikrofali): mikrofala 2–2\,5 min\, na wierzch r
+ esztę skyru i pestki.\n• słoiczek z dynią + słoiczek z przyprawami\,
+  wafle (mleko kupisz albo trzymasz w pracy) – puree z dyni do małego s
+ łoiczka\, przyprawy do drugiego (możesz zrobić mieszankę na cały tydz
+ ień).\n  W pracy (Pumpkin spice latte fit z waflami ryżowymi): mleko z d
+ ynią\, ghee i przyprawami do kubka\, mikrofala 1\,5 min\, mocno wymieszaj
+ .\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Owsiany mug cake bananowy z mikrofali + Pumpkin 
- spice latte fit z waflami ryżowymi
+DESCRIPTION:Spakuj do pracy: kubek z masą na mug cake + skyr z pestkami + 
+ słoiczek z dynią + słoiczek z przyprawami\, wafle (mleko kupisz albo tr
+ zymasz w pracy)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261107T173000
 DTEND:20261107T181500
 SUMMARY:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciecierz
- yca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z ciep
- łymi truskawkami i chia
+ yca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z trusk
+ awkami i chia w słoiku
 DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Krem z dyni i marchwi z imbirem 
  + pieczona ciecierzyca\nGarnek + air fryer\, ok. 35 min. Cebulę zeszklij 
  na oliwie\, dodaj dynię\, marchew\, ziemniak i bulion\, gotuj 20 min\, zm
  iksuj z mleczkiem i imbirem. Ciecierzycę osusz\, posyp kminem i papryką\
  , air fryer 200°C 12 min – będzie chrupiąca jak chipsy. Chleb na grza
  nkę: air fryer 180°C 3 min.\n\nNA JUTRO DO PRACY:\n• Congee imbirowe z
-  jajkiem i tofu: Wieczorem: gotuj ryż w bulionie z imbirem 25 min\, aż z
- robi się kleisty\, dodaj tofu. Jajko ugotuj na twardo. Do słoika. W prac
- y: mikrofala 2 min\, dymka\, olej sezamowy\, sos sojowy.\n• Skyr z ciep
- łymi truskawkami i chia: Wieczorem: do słoika skyr\, mrożone truskawki\
- , chia i pestki. Do rana truskawki się rozmrożą i puszczą sok.\n\nApka
- : https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+  jajkiem i tofu: gotuj ryż w bulionie z imbirem 25 min\, aż zrobi się k
+ leisty\, dodaj tofu. Jajko ugotuj na twardo. Do słoika.\n• Skyr z trusk
+ awkami i chia w słoiku: do słoika skyr\, mrożone truskawki\, chia i pes
+ tki. Do rana truskawki się rozmrożą i puszczą sok.\n\nApka: https://cl
+ aude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciec
- ierzyca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z c
- iepłymi truskawkami i chia
+ ierzyca (2 porcje)\; na jutro: Congee imbirowe z jajkiem i tofu + Skyr z t
+ ruskawkami i chia w słoiku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261107T070000
 DTEND:20261107T071000
-SUMMARY:Weź do pracy: Cynamonowe placuszki bananowo-owsiane + Ciepłe jab
- łko z cynamonem z mikrofali
-DESCRIPTION:• Cynamonowe placuszki bananowo-owsiane: Wieczorem: zmiksuj b
- anana\, jajko i płatki\, usmaż 6 małych placuszków na patelni (2 min z
-  każdej strony). Skyr z truskawkami do osobnego słoika. W pracy: placusz
- ki mikrofala 40 s.\n• Ciepłe jabłko z cynamonem z mikrofali: W pracy: 
- pokrój jabłko w kostkę do miseczki\, posyp cynamonem\, mikrofala 2–3 
- min pod przykryciem\, posyp pestkami.\n\nApka: https://claude.ai/artifact/
- CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Spakuj do pracy: pudełko z placuszkami + słoik ze skyrem i truska
+ wkami + 1 jabłko\, cynamon i pestki w woreczku
+DESCRIPTION:• pudełko z placuszkami + słoik ze skyrem i truskawkami\n  
+ W pracy (Cynamonowe placuszki bananowo-owsiane): placuszki mikrofala 40 s.
+ \n• 1 jabłko\, cynamon i pestki w woreczku\n  W pracy (Ciepłe jabłko 
+ z cynamonem z mikrofali): pokrój jabłko w kostkę do miseczki\, posyp cy
+ namonem\, mikrofala 2–3 min pod przykryciem\, posyp pestkami.\n\nApka: h
+ ttps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Cynamonowe placuszki bananowo-owsiane + Ciepłe 
- jabłko z cynamonem z mikrofali
+DESCRIPTION:Spakuj do pracy: pudełko z placuszkami + słoik ze skyrem i tr
+ uskawkami + 1 jabłko\, cynamon i pestki w woreczku
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-kuchnia@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261108T173000
 DTEND:20261108T181500
 SUMMARY:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona ciecier
@@ -704,29 +684,25 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-rano@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261108T070000
 DTEND:20261108T071000
-SUMMARY:Weź do pracy: Congee imbirowe z jajkiem i tofu + Skyr z ciepłymi 
- truskawkami i chia
-DESCRIPTION:• Congee imbirowe z jajkiem i tofu: Wieczorem: gotuj ryż w b
- ulionie z imbirem 25 min\, aż zrobi się kleisty\, dodaj tofu. Jajko ugot
- uj na twardo. Do słoika. W pracy: mikrofala 2 min\, dymka\, olej sezamowy
- \, sos sojowy.\n• Skyr z ciepłymi truskawkami i chia: Wieczorem: do sł
- oika skyr\, mrożone truskawki\, chia i pestki. Do rana truskawki się roz
- mrożą i puszczą sok.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj
- 5wN3XYnq
+SUMMARY:Spakuj do pracy: słoik z congee + jajko + dymka + słoik ze skyrem
+DESCRIPTION:• słoik z congee + jajko + dymka\n  W pracy (Congee imbirowe
+  z jajkiem i tofu): mikrofala 2 min\, dymka\, olej sezamowy\, sos sojowy.\
+ n• słoik ze skyrem\n  W pracy (Skyr z truskawkami i chia w słoiku): wy
+ mieszaj i jedz.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weź do pracy: Congee imbirowe z jajkiem i tofu + Skyr z ciepł
- ymi truskawkami i chia
+DESCRIPTION:Spakuj do pracy: słoik z congee + jajko + dymka + słoik ze sk
+ yrem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-zakupy@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261025T110000
 DTEND:20261025T120000
 SUMMARY:Zakupy na tydzień 1 (lista w notatce)
@@ -754,7 +730,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-zakupy@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261029T110000
 DTEND:20261029T120000
 SUMMARY:Zakupy na weekend we dwoje (lista w notatce)
@@ -781,7 +757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-zakupy@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261101T110000
 DTEND:20261101T120000
 SUMMARY:Zakupy na tydzień 2 (lista w notatce)
@@ -810,7 +786,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ochota@jadlospis-eru
-DTSTAMP:20261025T134030Z
+DTSTAMP:20261025T135241Z
 DTSTART:20261106T180000
 DTEND:20261106T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
