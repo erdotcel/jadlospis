@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-10-25-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261025T173000
 DTEND:20261025T181500
 SUMMARY:Kuchnia: na jutro: Owsianka szarlotkowa (nocna\, na ciepło)
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261026T173000
 DTEND:20261026T181500
 SUMMARY:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 porc
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261026T070000
 DTEND:20261026T071000
 SUMMARY:Spakuj do pracy: słoik z owsianką + 1 jabłko\, cynamon i pestki 
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261027T173000
 DTEND:20261027T181500
 SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261027T070000
 DTEND:20261027T071000
 SUMMARY:Spakuj do pracy: pudełko z frittatą + 1 kromka chleba + słoik ze
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261028T173000
 DTEND:20261028T181500
 SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
@@ -137,11 +137,13 @@ DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Chrupiące tofu teriyaki z air f
  \, a marchew i brokuł na parze albo w odrobinie wody 6 min. Na koniec wrz
  uć tofu na patelnię z sosem (sos sojowy\, miód\, imbir\, czosnek\, olej
   sezamowy) na 1 min.\n\nNA JUTRO DO PRACY:\n• Kanapki z serkiem\, jajkie
- m i duszonym szpinakiem\n  Składniki: 2 kromki chleba ziarnistego\, ½ op
- akowania serka wiejskiego\, 1 jajko\, 2 garści szpinaku\, 1 łyżeczka ol
- iwy\, szczypta kurkumy\n  Jak: jajko na twardo (9 min)\, szpinak podduś 2
-  min na patelni na oliwie z kurkumą.\n\nApka: https://claude.ai/artifact/
- CSR4sfUNkmKzgj5wN3XYnq
+ m i duszonym szpinakiem\n  Składniki: 2 kromki chleba ziarnistego ALBO 3 
+ wafle ciecierzycowe (wtedy 2 jajka)\, ½ opakowania serka wiejskiego\, 1 j
+ ajko\, 2 garści szpinaku\, 1 łyżeczka oliwy\, szczypta kurkumy\n  Jak: 
+ (bez chleba: 3 wafle w osobnej torebce\, żeby nie zmiękły\, i 2 jajka z
+ amiast 1) jajko na twardo (9 min)\, szpinak podduś 2 min na patelni na ol
+ iwie z kurkumą.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYn
+ q
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -153,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261028T070000
 DTEND:20261028T071000
 SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr w małym pudełku + 1 wa
@@ -174,7 +176,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261029T173000
 DTEND:20261029T181500
 SUMMARY:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem i w
@@ -197,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261029T070000
 DTEND:20261029T071000
 SUMMARY:Spakuj do pracy: kanapki w pudełku + słoiczek z dynią + słoicze
@@ -220,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261030T173000
 DTEND:20261030T181500
 SUMMARY:Kuchnia: ugotuj Pęczotto z pieczoną dynią\, szałwią i jajkiem 
@@ -251,7 +253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261030T070000
 DTEND:20261030T071000
 SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr w małym pudełku
@@ -272,7 +274,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-weekend-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261031T093000
 DTEND:20261031T100000
 SUMMARY:Śniadanie we dwoje: Śniadaniowe crumble jabłko-gruszka ze skyrem
@@ -296,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261031T173000
 DTEND:20261031T181500
 SUMMARY:Kuchnia: ugotuj Dyniowy ramen miso z jajkiem i chrupiącym tofu (2 
@@ -338,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-weekend-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261101T093000
 DTEND:20261101T100000
 SUMMARY:Śniadanie we dwoje: Dyniowe pancakes z cynamonem i karmelizowanym 
@@ -362,7 +364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261101T173000
 DTEND:20261101T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z kasztanami\, gruszką i tymiankiem + pure
@@ -403,7 +405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261102T173000
 DTEND:20261102T181500
 SUMMARY:Kuchnia: ugotuj Dhal z czerwonej soczewicy z bulgurem (1 porcja)\; 
@@ -430,7 +432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261102T070000
 DTEND:20261102T071000
 SUMMARY:Spakuj do pracy: słoik z owsianką + słoiczek z dynią + słoicze
@@ -453,7 +455,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261103T173000
 DTEND:20261103T181500
 SUMMARY:Kuchnia: ugotuj Kurczak imbirowy stir-fry z pęczakiem (2 porcje)\;
@@ -484,7 +486,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261103T070000
 DTEND:20261103T071000
 SUMMARY:Spakuj do pracy: pudełko z frittatą + 1 kromka chleba + 1 jabłko
@@ -505,7 +507,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261104T173000
 DTEND:20261104T181500
 SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z pęczakiem\; na jutro:
@@ -513,10 +515,12 @@ SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z pęczakiem\; na jutro:
 DESCRIPTION:OBIAD – ODGRZEWASZ: Kurczak imbirowy stir-fry z pęczakiem\nO
  dgrzej na patelni z łyżką wody.\n\nNA JUTRO DO PRACY:\n• Kanapki z se
  rkiem\, jajkiem i duszonym szpinakiem\n  Składniki: 2 kromki chleba ziarn
- istego\, ½ opakowania serka wiejskiego\, 1 jajko\, 2 garści szpinaku\, 1
-  łyżeczka oliwy\, szczypta kurkumy\n  Jak: jajko na twardo (9 min)\, szp
- inak podduś 2 min na patelni na oliwie z kurkumą.\n\nApka: https://claud
- e.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ istego ALBO 3 wafle ciecierzycowe (wtedy 2 jajka)\, ½ opakowania serka wi
+ ejskiego\, 1 jajko\, 2 garści szpinaku\, 1 łyżeczka oliwy\, szczypta ku
+ rkumy\n  Jak: (bez chleba: 3 wafle w osobnej torebce\, żeby nie zmiękły
+ \, i 2 jajka zamiast 1) jajko na twardo (9 min)\, szpinak podduś 2 min na
+  patelni na oliwie z kurkumą.\n\nApka: https://claude.ai/artifact/CSR4sfU
+ NkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -527,7 +531,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261104T070000
 DTEND:20261104T071000
 SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr w małym pudełku + sło
@@ -546,7 +550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261105T173000
 DTEND:20261105T181500
 SUMMARY:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porcje)\
@@ -571,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261105T070000
 DTEND:20261105T071000
 SUMMARY:Spakuj do pracy: kanapki w pudełku + 1 wafel\, twarożek w małym 
@@ -593,7 +597,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261106T173000
 DTEND:20261106T181500
 SUMMARY:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na jutro
@@ -617,7 +621,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261106T070000
 DTEND:20261106T071000
 SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr w małym pudełku
@@ -642,7 +646,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261107T173000
 DTEND:20261107T181500
 SUMMARY:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciecierz
@@ -674,7 +678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261107T070000
 DTEND:20261107T071000
 SUMMARY:Spakuj do pracy: pudełko z placuszkami + słoik ze skyrem i truska
@@ -695,7 +699,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-kuchnia@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261108T173000
 DTEND:20261108T181500
 SUMMARY:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona ciecier
@@ -714,7 +718,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-rano@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261108T070000
 DTEND:20261108T071000
 SUMMARY:Spakuj do pracy: słoik z congee + jajko + dymka + słoik ze skyrem
@@ -732,7 +736,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-zakupy@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261025T110000
 DTEND:20261025T120000
 SUMMARY:Zakupy na tydzień 1 (lista w notatce)
@@ -759,7 +763,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-zakupy@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261029T110000
 DTEND:20261029T120000
 SUMMARY:Zakupy na weekend we dwoje (lista w notatce)
@@ -786,7 +790,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-zakupy@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261101T110000
 DTEND:20261101T120000
 SUMMARY:Zakupy na tydzień 2 (lista w notatce)
@@ -815,7 +819,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ochota@jadlospis-eru
-DTSTAMP:20261027T060302Z
+DTSTAMP:20261028T210140Z
 DTSTART:20261106T180000
 DTEND:20261106T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
