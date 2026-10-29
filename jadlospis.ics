@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-10-25-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261025T173000
 DTEND:20261025T181500
 SUMMARY:Kuchnia: na jutro: Owsianka szarlotkowa (nocna\, na ciepło)
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261026T173000
 DTEND:20261026T181500
 SUMMARY:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 porc
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261026T070000
 DTEND:20261026T071000
 SUMMARY:Spakuj do pracy: słoik z owsianką + 1 jabłko\, cynamon i pestki 
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261027T173000
 DTEND:20261027T181500
 SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261027T070000
 DTEND:20261027T071000
 SUMMARY:Spakuj do pracy: pudełko z frittatą + 1 kromka chleba + słoik ze
@@ -126,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261028T173000
 DTEND:20261028T181500
 SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
@@ -156,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261028T070000
 DTEND:20261028T071000
 SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr w małym pudełku + 1 wa
@@ -177,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261029T173000
 DTEND:20261029T181500
 SUMMARY:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem i w
@@ -200,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261029T070000
 DTEND:20261029T071000
 SUMMARY:Spakuj do pracy: pudełko (serek\, szpinak\, jajko) + chleb albo 3 
@@ -228,7 +228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261030T173000
 DTEND:20261030T181500
 SUMMARY:Kuchnia: ugotuj Urodziny Itsuki Shu: poulet à la moutarde (kurczak
@@ -260,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261030T070000
 DTEND:20261030T071000
 SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr w małym pudełku
@@ -281,70 +281,71 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-weekend-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261031T093000
 DTEND:20261031T100000
-SUMMARY:Śniadanie we dwoje: Śniadaniowe crumble jabłko-gruszka ze skyrem
-DESCRIPTION:• Śniadanie (2 os.): Śniadaniowe crumble jabłko-gruszka ze
-  skyrem\n  Air fryer\, ok. 20 min. Owoce pokrój w kostkę\, wymieszaj z c
- ynamonem i miodem\, włóż do żaroodpornej miseczki albo foremki z folii
- . Płatki rozetrzyj palcami z masłem\, posyp owoce. Air fryer 180°C 12
- –15 min\, aż kruszonka się zarumieni. Podawaj ciepłe z zimnym skyrem.
- \n• Przekąska (2 os.): Bez przekąski – tylko ciepła herbata z imbir
- em i cynamonem\n  1 min: zalej i pij\, kiedy masz chwilę.\n\nApka: https:
- //claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Śniadanie we dwoje: Brunch: bataty i ciecierzyca z air fryera z ja
+ jkiem sadzonym\, szpinakiem i dipem
+DESCRIPTION:• Śniadanie (2 os.): Brunch: bataty i ciecierzyca z air frye
+ ra z jajkiem sadzonym\, szpinakiem i dipem\n  Air fryer + patelnia\, ok. 2
+ 0 min (sama robota 5 min). Bataty bez obierania pokrój w kostkę\, razem 
+ z osuszoną ciecierzycą wymieszaj z oliwą i przyprawami\, air fryer 200
+ °C 15–18 min\, potrząśnij w połowie. Pod koniec na patelni podduś s
+ zpinak 1 min i usmaż jajka sadzone. Dip: jogurt z czosnkiem i szczyptą s
+ oli. Na talerz bataty\, szpinak\, jajka\, dip i pestki.\n• Przekąska (2
+  os.): Bez przekąski – tylko ciepła herbata z imbirem i cynamonem\n  1
+  min: zalej i pij\, kiedy masz chwilę.\n\nApka: https://claude.ai/artifac
+ t/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Śniadanie we dwoje: Śniadaniowe crumble jabłko-gruszka ze sk
- yrem
+DESCRIPTION:Śniadanie we dwoje: Brunch: bataty i ciecierzyca z air fryera 
+ z jajkiem sadzonym\, szpinakiem i dipem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261031T173000
 DTEND:20261031T181500
-SUMMARY:Kuchnia: ugotuj Szybkie bataty z air fryera z jajkiem sadzonym\, sz
- pinakiem i dipem jogurtowym (2 porcje)\; kolacja: Halloween: duszki pigs i
- n blankets\, pieczone warzywa i dip
-DESCRIPTION:MENU NA DZIŚ (we dwoje):\n• Śniadanie (2 os.): Śniadaniowe
-  crumble jabłko-gruszka ze skyrem\n  Air fryer\, ok. 20 min. Owoce pokró
- j w kostkę\, wymieszaj z cynamonem i miodem\, włóż do żaroodpornej mi
- seczki albo foremki z folii. Płatki rozetrzyj palcami z masłem\, posyp o
- woce. Air fryer 180°C 12–15 min\, aż kruszonka się zarumieni. Podawaj
-  ciepłe z zimnym skyrem.\n• Przekąska (2 os.): Bez przekąski – tylk
- o ciepła herbata z imbirem i cynamonem\n  1 min: zalej i pij\, kiedy masz
-  chwilę.\n• Kolacja (2 os.): Halloween: duszki pigs in blankets\, piecz
- one warzywa i dip\n  Air fryer\, ok. 35 min. Warzywa pokrój w słupki\, w
- ymieszaj z oliwą i rozmarynem\, air fryer 200°C 18 min\, odłóż. DUSZK
- I: z ciasta wytnij prostokąty ok. 7×9 cm. Połóż połówkę parówki n
- a środku\, przykryj ją ciastem jak prześcieradłem i dociśnij brzegi. 
- Górę zaokrąglij nożem jak głowę\, dół przytnij w ząbki jak falban
- kę ducha. Posmaruj jajkiem i wciśnij 2 ziarenka czarnego sezamu jako ocz
- y (albo dorysuj je ketchupem po upieczeniu). Air fryer 180°C 10–12 min 
- na papierze do pieczenia\, w dwóch turach. Dip: wymieszaj jogurt z czosnk
- iem i koperkiem.\n\nOBIAD – GOTUJESZ (2 porcje): Szybkie bataty z air fr
- yera z jajkiem sadzonym\, szpinakiem i dipem jogurtowym\nAir fryer + patel
- nia\, ok. 20 min (sama robota 5 min). Bataty bez obierania pokrój w kostk
- ę\, wymieszaj z oliwą i przyprawami\, air fryer 200°C 15–18 min\, pot
- rząśnij w połowie. Pod koniec na patelni podduś szpinak 1 min i usmaż
-  jajka sadzone. Dip: jogurt z czosnkiem i szczyptą soli. Na talerz bataty
- \, szpinak\, jajka\, dip i pestki.\n\nApka: https://claude.ai/artifact/CSR
- 4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Bez gotowania: skyr z jabłkiem\, cynamonem i płat
+ kami (albo resztki) (2 porcje)\; kolacja: Halloween: duszki pigs in blanke
+ ts\, pieczone warzywa i dip
+DESCRIPTION:MENU NA DZIŚ (we dwoje):\n• Śniadanie (2 os.): Brunch: bata
+ ty i ciecierzyca z air fryera z jajkiem sadzonym\, szpinakiem i dipem\n  A
+ ir fryer + patelnia\, ok. 20 min (sama robota 5 min). Bataty bez obierania
+  pokrój w kostkę\, razem z osuszoną ciecierzycą wymieszaj z oliwą i p
+ rzyprawami\, air fryer 200°C 15–18 min\, potrząśnij w połowie. Pod k
+ oniec na patelni podduś szpinak 1 min i usmaż jajka sadzone. Dip: jogurt
+  z czosnkiem i szczyptą soli. Na talerz bataty\, szpinak\, jajka\, dip i 
+ pestki.\n• Przekąska (2 os.): Bez przekąski – tylko ciepła herbata 
+ z imbirem i cynamonem\n  1 min: zalej i pij\, kiedy masz chwilę.\n• Kol
+ acja (2 os.): Halloween: duszki pigs in blankets\, pieczone warzywa i dip\
+ n  Air fryer\, ok. 35 min. Warzywa pokrój w słupki\, wymieszaj z oliwą 
+ i rozmarynem\, air fryer 200°C 18 min\, odłóż. DUSZKI: z ciasta wytnij
+  prostokąty ok. 7×9 cm. Połóż połówkę parówki na środku\, przykr
+ yj ją ciastem jak prześcieradłem i dociśnij brzegi. Górę zaokrąglij
+  nożem jak głowę\, dół przytnij w ząbki jak falbankę ducha. Posmaru
+ j jajkiem i wciśnij 2 ziarenka czarnego sezamu jako oczy (albo dorysuj je
+  ketchupem po upieczeniu). Air fryer 180°C 10–12 min na papierze do pie
+ czenia\, w dwóch turach. Dip: wymieszaj jogurt z czosnkiem i koperkiem.\n
+ \nOBIAD – GOTUJESZ (2 porcje): Bez gotowania: skyr z jabłkiem\, cynamon
+ em i płatkami (albo resztki)\nBez gotowania\, 2 min: wszystko do miseczki
+ . Możesz też dojeść resztki z poprzedniego posiłku.\n\nApka: https://
+ claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Szybkie bataty z air fryera z jajkiem sadzonym\
- , szpinakiem i dipem jogurtowym (2 porcje)\; kolacja: Halloween: duszki pi
- gs in blankets\, pieczone warzywa i dip
+DESCRIPTION:Kuchnia: ugotuj Bez gotowania: skyr z jabłkiem\, cynamonem i p
+ łatkami (albo resztki) (2 porcje)\; kolacja: Halloween: duszki pigs in bl
+ ankets\, pieczone warzywa i dip
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-weekend-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261101T093000
 DTEND:20261101T100000
 SUMMARY:Śniadanie we dwoje: Dyniowe pancakes z cynamonem i karmelizowanym 
@@ -354,12 +355,10 @@ DESCRIPTION:• Śniadanie (2 os.): Dyniowe pancakes z cynamonem i karmeliz
  i\, proszek i przyprawy. Smaż małe pancakes na odrobinie oleju 2 min z k
  ażdej strony. Jabłko w plasterkach podsmaż na suchej patelni z cynamone
  m 3 min. Podawaj ze skyrem\, jabłkiem\, miodem i pestkami.\n• Przekąsk
- a (2 os.): Pumpkin spice latte fit + chrupiąca ciecierzyca z air fryera\n
-   5 min. Podgrzej mleko z puree dyniowym\, przyprawami i miodem w garnuszk
- u albo w mikrofali\, spień trzepaczką. Dolej kawę\, jeśli chcesz. Posy
- p cynamonem. Ciecierzycę osusz ręcznikiem\, wymieszaj z oliwą i przypra
- wami\, air fryer 200°C 12–15 min\, potrząśnij w połowie.\n\nApka: ht
- tps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ a (2 os.): Pumpkin spice latte z mikrofali + resztki z weekendu\n  2 min: 
+ wszystko do kubka\, mikrofala 1\,5 min\, mocno wymieszaj. Do tego to\, co 
+ zostało (np. 1–2 duszki).\n\nApka: https://claude.ai/artifact/CSR4sfUNk
+ mKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -370,52 +369,48 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261101T173000
 DTEND:20261101T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z kasztanami\, gruszką i tymiankiem + pure
- e dyniowo-ziemniaczane (2 porcje)\; kolacja: Szarlotka w słoiczku z krusz
- onką i skyrem\; na jutro: Owsianka szarlotkowa (nocna\, na ciepło)
+ e dyniowo-ziemniaczane (2 porcje)\; kolacja: Bez gotowania: skyr z jabłki
+ em i cynamonem (albo resztki)\; na jutro: Owsianka szarlotkowa (nocna\, na
+  ciepło)
 DESCRIPTION:MENU NA DZIŚ (we dwoje):\n• Śniadanie (2 os.): Dyniowe panc
  akes z cynamonem i karmelizowanym jabłkiem\n  Patelnia\, ok. 20 min. Zmik
  suj dynię\, jajko\, płatki\, proszek i przyprawy. Smaż małe pancakes n
  a odrobinie oleju 2 min z każdej strony. Jabłko w plasterkach podsmaż n
  a suchej patelni z cynamonem 3 min. Podawaj ze skyrem\, jabłkiem\, miodem
-  i pestkami.\n• Przekąska (2 os.): Pumpkin spice latte fit + chrupiąca
-  ciecierzyca z air fryera\n  5 min. Podgrzej mleko z puree dyniowym\, przy
- prawami i miodem w garnuszku albo w mikrofali\, spień trzepaczką. Dolej 
- kawę\, jeśli chcesz. Posyp cynamonem. Ciecierzycę osusz ręcznikiem\, w
- ymieszaj z oliwą i przyprawami\, air fryer 200°C 12–15 min\, potrząś
- nij w połowie.\n• Kolacja (2 os.): Szarlotka w słoiczku z kruszonką i
-  skyrem\n  10 min. Jabłko w kostkę z cynamonem do miseczki\, mikrofala 3
-  min pod przykryciem albo duś na patelni 5 min. Płatki z masłem i miode
- m praż na suchej patelni 3 min\, aż się zarumienią. Do słoiczka: jab
- łko\, skyr\, kruszonka.\n\nOBIAD – GOTUJESZ (2 porcje): Kurczak z kaszt
- anami\, gruszką i tymiankiem + puree dyniowo-ziemniaczane\nAir fryer + pa
- telnia + garnek\, ok. 45 min. Kasztany: natnij krzyżyk po wypukłej stron
- ie\, namocz 15 min\, air fryer 200°C 15–18 min\, zawiń w ściereczkę 
- i obierz na ciepło. Ziemniaki i dynię gotuj razem 20 min\, odcedź\, ut
- łucz z mlekiem i gałką. Kurczaka pokrój na kawałki\, smaż na oliwie 
- 6–7 min\, aż się zarumieni. Dodaj gruszkę w łódeczkach\, kasztany\,
-  tymianek i bulion\, duś pod przykryciem 5 min\, aż sos zgęstnieje.\n\n
- NA JUTRO DO PRACY:\n• Owsianka szarlotkowa (nocna\, na ciepło)\n  Skła
- dniki: 4 łyżki płatków owsianych\, ¾ szklanki mleka 2%\, 1 jabłko st
- arte\, 1 łyżka chia\, 1 łyżeczka pestek dyni\, dużo cynamonu\, szczyp
- ta imbiru\n  Jak: wymieszaj w słoiku płatki\, mleko\, chia\, starte jab
- łko i przyprawy\, wstaw do lodówki.\n\nApka: https://claude.ai/artifact/
- CSR4sfUNkmKzgj5wN3XYnq
+  i pestkami.\n• Przekąska (2 os.): Pumpkin spice latte z mikrofali + re
+ sztki z weekendu\n  2 min: wszystko do kubka\, mikrofala 1\,5 min\, mocno 
+ wymieszaj. Do tego to\, co zostało (np. 1–2 duszki).\n• Kolacja (2 os
+ .): Bez gotowania: skyr z jabłkiem i cynamonem (albo resztki)\n  Bez goto
+ wania\, 2 min: wszystko do miseczki. Możesz też dojeść resztki z poprz
+ edniego posiłku.\n\nOBIAD – GOTUJESZ (2 porcje): Kurczak z kasztanami\,
+  gruszką i tymiankiem + puree dyniowo-ziemniaczane\nPatelnia + garnek\, o
+ k. 25 min. Ziemniaki i dynię gotuj razem 20 min\, odcedź\, utłucz z mle
+ kiem i gałką. W tym czasie kurczaka pokrój na kawałki\, smaż na oliwi
+ e 6–7 min\, aż się zarumieni. Dodaj gruszkę w łódeczkach\, gotowe k
+ asztany\, tymianek i bulion\, duś pod przykryciem 5 min\, aż sos zgęstn
+ ieje.\n\nNA JUTRO DO PRACY:\n• Owsianka szarlotkowa (nocna\, na ciepło)
+ \n  Składniki: 4 łyżki płatków owsianych\, ¾ szklanki mleka 2%\, 1 j
+ abłko starte\, 1 łyżka chia\, 1 łyżeczka pestek dyni\, dużo cynamonu
+ \, szczypta imbiru\n  Jak: wymieszaj w słoiku płatki\, mleko\, chia\, st
+ arte jabłko i przyprawy\, wstaw do lodówki.\n\nApka: https://claude.ai/a
+ rtifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kuchnia: ugotuj Kurczak z kasztanami\, gruszką i tymiankiem + 
- puree dyniowo-ziemniaczane (2 porcje)\; kolacja: Szarlotka w słoiczku z k
- ruszonką i skyrem\; na jutro: Owsianka szarlotkowa (nocna\, na ciepło)
+ puree dyniowo-ziemniaczane (2 porcje)\; kolacja: Bez gotowania: skyr z jab
+ łkiem i cynamonem (albo resztki)\; na jutro: Owsianka szarlotkowa (nocna\
+ , na ciepło)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261102T173000
 DTEND:20261102T181500
 SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
@@ -446,7 +441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261102T070000
 DTEND:20261102T071000
 SUMMARY:Spakuj do pracy: słoik z owsianką + słoiczek z przyprawami (+ dy
@@ -469,7 +464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261103T173000
 DTEND:20261103T181500
 SUMMARY:Kuchnia: ugotuj Kurczak imbirowy stir-fry z makaronem ryżowym i fa
@@ -502,7 +497,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261103T070000
 DTEND:20261103T071000
 SUMMARY:Spakuj do pracy: pudełko z frittatą + 1 kromka chleba + 1 jabłko
@@ -523,7 +518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261104T173000
 DTEND:20261104T181500
 SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z makaronem ryżowym i f
@@ -546,7 +541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261104T070000
 DTEND:20261104T071000
 SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr w małym pudełku + sło
@@ -565,7 +560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261105T173000
 DTEND:20261105T181500
 SUMMARY:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porcje)\
@@ -590,7 +585,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261105T070000
 DTEND:20261105T071000
 SUMMARY:Spakuj do pracy: pudełko (serek\, szpinak\, jajko) + chleb albo 3 
@@ -614,7 +609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261106T173000
 DTEND:20261106T181500
 SUMMARY:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na jutro
@@ -638,7 +633,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261106T070000
 DTEND:20261106T071000
 SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr w małym pudełku
@@ -661,7 +656,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261107T173000
 DTEND:20261107T181500
 SUMMARY:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciecierz
@@ -693,7 +688,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261107T070000
 DTEND:20261107T071000
 SUMMARY:Spakuj do pracy: pudełko z placuszkami + słoik ze skyrem i truska
@@ -714,7 +709,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261108T173000
 DTEND:20261108T181500
 SUMMARY:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona ciecier
@@ -733,7 +728,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-rano@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261108T070000
 DTEND:20261108T071000
 SUMMARY:Spakuj do pracy: słoik z congee + jajko + dymka + słoik ze skyrem
@@ -751,7 +746,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-zakupy@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261025T110000
 DTEND:20261025T120000
 SUMMARY:Zakupy na tydzień 1 (lista w notatce)
@@ -776,22 +771,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-zakupy@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261030T110000
 DTEND:20261030T120000
 SUMMARY:Zakupy na weekend we dwoje (lista w notatce)
 DESCRIPTION:☐ Batat – 2 szt\n☐ Bulion warzywny – 240 ml\n☐ Ciasto
   francuskie (rolka) – 1 szt\n☐ Croissant maślany (piekarnia) – 2 sz
  t\n☐ Dynia – 760 g\n☐ Fasolka szparagowa (mrożona) – 160 g\n☐ G
- ruszka – 3 szt\n☐ Jabłko – 5 szt\n☐ Jajka – 7 szt\n☐ Jogurt g
+ ruszka – 2 szt\n☐ Jabłko – 5 szt\n☐ Jajka – 7 szt\n☐ Jogurt g
  recki – 210 g\n☐ Kasztany jadalne – 200 g\n☐ Marchew – 2 szt\n
- ☐ Masło – 20 g\n☐ Mleko 2% – 500 ml\n☐ Musztarda Dijon – 30 g
- \n☐ Olej rzepakowy – 10 ml\n☐ Oliwa – 40 ml\n☐ Parówki wysokomi
- ęsne – 3 szt\n☐ Pestki dyni – 40 g\n☐ Pierś z kurczaka – 480 g
- \n☐ Pietruszka (korzeń) – 2 szt\n☐ Płatki owsiane – 180 g\n☐ S
- kyr naturalny – 600 g\n☐ Skyr waniliowy – 80 g\n☐ Szalotka – 1 s
- zt\n☐ Szpinak – 50 g\n☐ Ziemniaki – 800 g\n\nOdhaczaj w apce: http
- s://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ ☐ Mleko 2% – 500 ml\n☐ Musztarda Dijon – 30 g\n☐ Olej rzepakowy 
+ – 10 ml\n☐ Oliwa – 40 ml\n☐ Parówki wysokomięsne – 3 szt\n☐ 
+ Pestki dyni – 40 g\n☐ Pierś z kurczaka – 480 g\n☐ Pietruszka (kor
+ zeń) – 2 szt\n☐ Płatki owsiane – 120 g\n☐ Skyr naturalny – 800
+  g\n☐ Skyr waniliowy – 80 g\n☐ Szalotka – 1 szt\n☐ Szpinak – 5
+ 0 g\n☐ Ziemniaki – 800 g\n\nOdhaczaj w apce: https://claude.ai/artifac
+ t/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -801,7 +796,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-zakupy@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261101T110000
 DTEND:20261101T120000
 SUMMARY:Zakupy na tydzień 2 (lista w notatce)
@@ -829,7 +824,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ochota@jadlospis-eru
-DTSTAMP:20261029T165916Z
+DTSTAMP:20261029T171341Z
 DTSTART:20261106T180000
 DTEND:20261106T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
