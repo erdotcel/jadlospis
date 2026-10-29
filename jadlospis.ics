@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-10-25-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261025T173000
 DTEND:20261025T181500
 SUMMARY:Kuchnia: na jutro: Owsianka szarlotkowa (nocna\, na ciepło)
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261026T173000
 DTEND:20261026T181500
 SUMMARY:Kuchnia: ugotuj Curry z ciecierzycy i dyni z ryżem basmati (2 porc
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261026T070000
 DTEND:20261026T071000
 SUMMARY:Spakuj do pracy: słoik z owsianką + 1 jabłko\, cynamon i pestki 
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261027T173000
 DTEND:20261027T181500
 SUMMARY:Kuchnia: odgrzej Curry z ciecierzycy i dyni z ryżem basmati\; na j
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261027T070000
 DTEND:20261027T071000
 SUMMARY:Spakuj do pracy: pudełko z frittatą + 1 kromka chleba + słoik ze
@@ -126,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261028T173000
 DTEND:20261028T181500
 SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
@@ -156,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261028T070000
 DTEND:20261028T071000
 SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr w małym pudełku + 1 wa
@@ -177,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261029T173000
 DTEND:20261029T181500
 SUMMARY:Kuchnia: odgrzej Chrupiące tofu teriyaki z air fryera z ryżem i w
@@ -200,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261029T070000
 DTEND:20261029T071000
 SUMMARY:Spakuj do pracy: pudełko (serek\, szpinak\, jajko) + chleb albo 3 
@@ -228,7 +228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261030T173000
 DTEND:20261030T181500
 SUMMARY:Kuchnia: ugotuj Urodziny Itsuki Shu: poulet à la moutarde (kurczak
@@ -260,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261030T070000
 DTEND:20261030T071000
 SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr w małym pudełku
@@ -281,7 +281,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-weekend-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261031T093000
 DTEND:20261031T100000
 SUMMARY:Śniadanie we dwoje: Śniadaniowe crumble jabłko-gruszka ze skyrem
@@ -290,11 +290,9 @@ DESCRIPTION:• Śniadanie (2 os.): Śniadaniowe crumble jabłko-gruszka ze
  ynamonem i miodem\, włóż do żaroodpornej miseczki albo foremki z folii
  . Płatki rozetrzyj palcami z masłem\, posyp owoce. Air fryer 180°C 12
  –15 min\, aż kruszonka się zarumieni. Podawaj ciepłe z zimnym skyrem.
- \n• Przekąska (2 os.): Pieczona gruszka z cynamonem do skyru\n  Air fry
- er\, 15 min. Gruszkę przekrój na pół\, wydrąż gniazdo łyżeczką\, 
- posyp cynamonem i polej miodem. Air fryer 180°C 15 min. Połóż na skyrz
- e\, posyp pestkami.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3
- XYnq
+ \n• Przekąska (2 os.): Bez przekąski – tylko ciepła herbata z imbir
+ em i cynamonem\n  1 min: zalej i pij\, kiedy masz chwilę.\n\nApka: https:
+ //claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -305,49 +303,48 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261031T173000
 DTEND:20261031T181500
-SUMMARY:Kuchnia: ugotuj Dyniowy ramen miso z jajkiem i chrupiącym tofu (2 
- porcje)\; kolacja: Halloween: duszki pigs in blankets\, pieczone warzywa i
-  dip
+SUMMARY:Kuchnia: ugotuj Szybkie bataty z air fryera z jajkiem sadzonym\, sz
+ pinakiem i dipem jogurtowym (2 porcje)\; kolacja: Halloween: duszki pigs i
+ n blankets\, pieczone warzywa i dip
 DESCRIPTION:MENU NA DZIŚ (we dwoje):\n• Śniadanie (2 os.): Śniadaniowe
   crumble jabłko-gruszka ze skyrem\n  Air fryer\, ok. 20 min. Owoce pokró
  j w kostkę\, wymieszaj z cynamonem i miodem\, włóż do żaroodpornej mi
  seczki albo foremki z folii. Płatki rozetrzyj palcami z masłem\, posyp o
  woce. Air fryer 180°C 12–15 min\, aż kruszonka się zarumieni. Podawaj
-  ciepłe z zimnym skyrem.\n• Przekąska (2 os.): Pieczona gruszka z cyna
- monem do skyru\n  Air fryer\, 15 min. Gruszkę przekrój na pół\, wydrą
- ż gniazdo łyżeczką\, posyp cynamonem i polej miodem. Air fryer 180°C 
- 15 min. Połóż na skyrze\, posyp pestkami.\n• Kolacja (2 os.): Hallowe
- en: duszki pigs in blankets\, pieczone warzywa i dip\n  Air fryer\, ok. 35
-  min. Warzywa pokrój w słupki\, wymieszaj z oliwą i rozmarynem\, air fr
- yer 200°C 18 min\, odłóż. DUSZKI: z ciasta wytnij prostokąty ok. 7×9
-  cm. Połóż połówkę parówki na środku\, przykryj ją ciastem jak pr
- ześcieradłem i dociśnij brzegi. Górę zaokrąglij nożem jak głowę\,
-  dół przytnij w ząbki jak falbankę ducha. Posmaruj jajkiem i wciśnij 
- 2 ziarenka czarnego sezamu jako oczy (albo dorysuj je ketchupem po upiecze
- niu). Air fryer 180°C 10–12 min na papierze do pieczenia\, w dwóch tur
- ach. Dip: wymieszaj jogurt z czosnkiem i koperkiem.\n\nOBIAD – GOTUJESZ 
- (2 porcje): Dyniowy ramen miso z jajkiem i chrupiącym tofu\nGarnek + air 
- fryer\, ok. 30 min. Jajko gotuj 6\,5 min\, ostudź i zostaw w sosie sojowy
- m. Dynię gotuj w bulionie z imbirem i czosnkiem 15 min\, zmiksuj na krem\
- , rozpuść w nim miso (nie gotuj już). Tofu w kostkę\, air fryer 200°C
-  12 min. Makaron zalej wrzątkiem na 5 min. W misce: makaron\, krem dyniow
- y\, tofu\, połówki jajka\, dymka\, olej sezamowy\, sezam.\n\nApka: https
- ://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+  ciepłe z zimnym skyrem.\n• Przekąska (2 os.): Bez przekąski – tylk
+ o ciepła herbata z imbirem i cynamonem\n  1 min: zalej i pij\, kiedy masz
+  chwilę.\n• Kolacja (2 os.): Halloween: duszki pigs in blankets\, piecz
+ one warzywa i dip\n  Air fryer\, ok. 35 min. Warzywa pokrój w słupki\, w
+ ymieszaj z oliwą i rozmarynem\, air fryer 200°C 18 min\, odłóż. DUSZK
+ I: z ciasta wytnij prostokąty ok. 7×9 cm. Połóż połówkę parówki n
+ a środku\, przykryj ją ciastem jak prześcieradłem i dociśnij brzegi. 
+ Górę zaokrąglij nożem jak głowę\, dół przytnij w ząbki jak falban
+ kę ducha. Posmaruj jajkiem i wciśnij 2 ziarenka czarnego sezamu jako ocz
+ y (albo dorysuj je ketchupem po upieczeniu). Air fryer 180°C 10–12 min 
+ na papierze do pieczenia\, w dwóch turach. Dip: wymieszaj jogurt z czosnk
+ iem i koperkiem.\n\nOBIAD – GOTUJESZ (2 porcje): Szybkie bataty z air fr
+ yera z jajkiem sadzonym\, szpinakiem i dipem jogurtowym\nAir fryer + patel
+ nia\, ok. 20 min (sama robota 5 min). Bataty bez obierania pokrój w kostk
+ ę\, wymieszaj z oliwą i przyprawami\, air fryer 200°C 15–18 min\, pot
+ rząśnij w połowie. Pod koniec na patelni podduś szpinak 1 min i usmaż
+  jajka sadzone. Dip: jogurt z czosnkiem i szczyptą soli. Na talerz bataty
+ \, szpinak\, jajka\, dip i pestki.\n\nApka: https://claude.ai/artifact/CSR
+ 4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Dyniowy ramen miso z jajkiem i chrupiącym tofu
-  (2 porcje)\; kolacja: Halloween: duszki pigs in blankets\, pieczone warzy
- wa i dip
+DESCRIPTION:Kuchnia: ugotuj Szybkie bataty z air fryera z jajkiem sadzonym\
+ , szpinakiem i dipem jogurtowym (2 porcje)\; kolacja: Halloween: duszki pi
+ gs in blankets\, pieczone warzywa i dip
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-weekend-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261101T093000
 DTEND:20261101T100000
 SUMMARY:Śniadanie we dwoje: Dyniowe pancakes z cynamonem i karmelizowanym 
@@ -373,7 +370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261101T173000
 DTEND:20261101T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z kasztanami\, gruszką i tymiankiem + pure
@@ -418,7 +415,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261102T173000
 DTEND:20261102T181500
 SUMMARY:Kuchnia: ugotuj Chrupiące tofu teriyaki z air fryera z ryżem i wa
@@ -449,7 +446,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261102T070000
 DTEND:20261102T071000
 SUMMARY:Spakuj do pracy: słoik z owsianką + słoiczek z przyprawami (+ dy
@@ -472,7 +469,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261103T173000
 DTEND:20261103T181500
 SUMMARY:Kuchnia: ugotuj Kurczak imbirowy stir-fry z makaronem ryżowym i fa
@@ -505,7 +502,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261103T070000
 DTEND:20261103T071000
 SUMMARY:Spakuj do pracy: pudełko z frittatą + 1 kromka chleba + 1 jabłko
@@ -526,7 +523,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261104T173000
 DTEND:20261104T181500
 SUMMARY:Kuchnia: odgrzej Kurczak imbirowy stir-fry z makaronem ryżowym i f
@@ -549,7 +546,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261104T070000
 DTEND:20261104T071000
 SUMMARY:Spakuj do pracy: słoik z jaglanką + skyr w małym pudełku + sło
@@ -568,7 +565,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261105T173000
 DTEND:20261105T181500
 SUMMARY:Kuchnia: ugotuj Ciepły bowl z tuńczykiem po japońsku (2 porcje)\
@@ -577,12 +574,12 @@ DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Ciepły bowl z tuńczykiem po ja
  pońsku\nGarnek i patelnia\, ok. 20 min. Ugotuj ryż\, jajko na twardo i m
  archewkę. Cukinię w plasterkach podduś na patelni z sosem sojowym 5 min
  . Ułóż w misce ryż\, tuńczyka\, warzywa i jajko\, polej sosem jogurto
- wo-miso i olejem sezamowym.\n\nNA JUTRO DO PRACY:\n• Owsiany mug cake ba
- nanowy z mikrofali\n  Składniki: 5 łyżek płatków owsianych\, 1 jajko\
- , ½ banana\, ⅔ kubeczka skyru (ok. 4 łyżki)\, 3 łyżki mleka\, cynam
- on\n  Jak: w dużym kubku albo słoiku rozgnieć banana\, wymieszaj z jajk
- iem\, płatkami\, 2 łyżkami skyru\, mlekiem i cynamonem.\n\nApka: https:
- //claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ wym i olejem sezamowym.\n\nNA JUTRO DO PRACY:\n• Owsiany mug cake banano
+ wy z mikrofali\n  Składniki: 5 łyżek płatków owsianych\, 1 jajko\, ½
+  banana\, ⅔ kubeczka skyru (ok. 4 łyżki)\, 3 łyżki mleka\, cynamon\n
+   Jak: w dużym kubku albo słoiku rozgnieć banana\, wymieszaj z jajkiem\
+ , płatkami\, 2 łyżkami skyru\, mlekiem i cynamonem.\n\nApka: https://cl
+ aude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -593,7 +590,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261105T070000
 DTEND:20261105T071000
 SUMMARY:Spakuj do pracy: pudełko (serek\, szpinak\, jajko) + chleb albo 3 
@@ -617,7 +614,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261106T173000
 DTEND:20261106T181500
 SUMMARY:Kuchnia: odgrzej Ciepły bowl z tuńczykiem po japońsku\; na jutro
@@ -641,7 +638,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261106T070000
 DTEND:20261106T071000
 SUMMARY:Spakuj do pracy: kubek z masą na mug cake + skyr w małym pudełku
@@ -664,7 +661,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261107T173000
 DTEND:20261107T181500
 SUMMARY:Kuchnia: ugotuj Krem z dyni i marchwi z imbirem + pieczona ciecierz
@@ -696,7 +693,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261107T070000
 DTEND:20261107T071000
 SUMMARY:Spakuj do pracy: pudełko z placuszkami + słoik ze skyrem i truska
@@ -717,7 +714,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-kuchnia@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261108T173000
 DTEND:20261108T181500
 SUMMARY:Kuchnia: odgrzej Krem z dyni i marchwi z imbirem + pieczona ciecier
@@ -736,7 +733,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-rano@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261108T070000
 DTEND:20261108T071000
 SUMMARY:Spakuj do pracy: słoik z congee + jajko + dymka + słoik ze skyrem
@@ -754,7 +751,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-zakupy@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261025T110000
 DTEND:20261025T120000
 SUMMARY:Zakupy na tydzień 1 (lista w notatce)
@@ -779,24 +776,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-zakupy@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261030T110000
 DTEND:20261030T120000
 SUMMARY:Zakupy na weekend we dwoje (lista w notatce)
-DESCRIPTION:☐ Bulion warzywny – 1240 ml\n☐ Ciasto francuskie (rolka) 
- – 1 szt\n☐ Croissant maślany (piekarnia) – 2 szt\n☐ Dymka (pęcze
- k) – 1 szt\n☐ Dynia – 1060 g\n☐ Fasolka szparagowa (mrożona) – 
- 160 g\n☐ Gruszka – 5 szt\n☐ Imbir świeży – 10 g\n☐ Jabłko –
-  5 szt\n☐ Jajka – 5 szt\n☐ Jogurt grecki – 150 g\n☐ Kasztany jad
- alne – 200 g\n☐ Makaron ryżowy – 100 g\n☐ Marchew – 2 szt\n☐ 
- Masło – 20 g\n☐ Mleko 2% – 500 ml\n☐ Musztarda Dijon – 30 g\n
- ☐ Olej rzepakowy – 10 ml\n☐ Olej sezamowy – 10 ml\n☐ Oliwa – 3
- 0 ml\n☐ Parówki wysokomięsne – 3 szt\n☐ Pasta miso – 30 g\n☐ P
- estki dyni – 20 g\n☐ Pestki słonecznika – 10 g\n☐ Pierś z kurcza
- ka – 480 g\n☐ Pietruszka (korzeń) – 2 szt\n☐ Płatki owsiane – 
- 180 g\n☐ Skyr naturalny – 800 g\n☐ Skyr waniliowy – 80 g\n☐ Szal
- otka – 1 szt\n☐ Tofu naturalne – 120 g\n☐ Ziemniaki – 800 g\n\nO
- dhaczaj w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Batat – 2 szt\n☐ Bulion warzywny – 240 ml\n☐ Ciasto
+  francuskie (rolka) – 1 szt\n☐ Croissant maślany (piekarnia) – 2 sz
+ t\n☐ Dynia – 760 g\n☐ Fasolka szparagowa (mrożona) – 160 g\n☐ G
+ ruszka – 3 szt\n☐ Jabłko – 5 szt\n☐ Jajka – 7 szt\n☐ Jogurt g
+ recki – 210 g\n☐ Kasztany jadalne – 200 g\n☐ Marchew – 2 szt\n
+ ☐ Masło – 20 g\n☐ Mleko 2% – 500 ml\n☐ Musztarda Dijon – 30 g
+ \n☐ Olej rzepakowy – 10 ml\n☐ Oliwa – 40 ml\n☐ Parówki wysokomi
+ ęsne – 3 szt\n☐ Pestki dyni – 40 g\n☐ Pierś z kurczaka – 480 g
+ \n☐ Pietruszka (korzeń) – 2 szt\n☐ Płatki owsiane – 180 g\n☐ S
+ kyr naturalny – 600 g\n☐ Skyr waniliowy – 80 g\n☐ Szalotka – 1 s
+ zt\n☐ Szpinak – 50 g\n☐ Ziemniaki – 800 g\n\nOdhaczaj w apce: http
+ s://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -806,7 +801,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-zakupy@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261101T110000
 DTEND:20261101T120000
 SUMMARY:Zakupy na tydzień 2 (lista w notatce)
@@ -815,16 +810,16 @@ DESCRIPTION:☐ Banan – 2 szt\n☐ Bulion warzywny – 1500 ml\n☐ Cebul
  zyca (puszka) – 140 g\n☐ Cukinia – 2 szt\n☐ Dymka (pęczek) – 1 
  szt\n☐ Dynia – 660 g\n☐ Gruszka – 3 szt\n☐ Imbir świeży – 30
   g\n☐ Jabłko – 4 szt\n☐ Jajka – 8 szt\n☐ Kasza jaglana – 50 g
- \n☐ Marchew – 9 szt\n☐ Mleczko kokosowe light – 100 ml\n☐ Mleko 
- 2% – 1080 ml\n☐ Olej rzepakowy – 10 ml\n☐ Olej sezamowy – 30 ml\
- n☐ Oliwa – 20 ml\n☐ Pestki dyni – 50 g\n☐ Pestki słonecznika 
- – 10 g\n☐ Pierś z kurczaka – 240 g\n☐ Płatki owsiane – 120 g\n
- ☐ Ryż basmati – 180 g\n☐ Serek wiejski light – 400 g\n☐ Skyr na
- turalny – 800 g\n☐ Szpinak – 100 g\n☐ Tofu naturalne – 60 g\n☐
-  Truskawki mrożone – 240 g\n☐ Tuńczyk w sosie własnym (puszka) – 
- 2 szt\n☐ Twaróg półtłusty – 150 g\n☐ Wafle ryżowe – 3 szt\n
- ☐ Ziemniaki – 200 g\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR
- 4sfUNkmKzgj5wN3XYnq
+ \n☐ Makaron ryżowy – 100 g\n☐ Marchew – 9 szt\n☐ Mleczko kokoso
+ we light – 100 ml\n☐ Mleko 2% – 1080 ml\n☐ Olej rzepakowy – 10 m
+ l\n☐ Olej sezamowy – 30 ml\n☐ Oliwa – 20 ml\n☐ Pestki dyni – 5
+ 0 g\n☐ Pestki słonecznika – 10 g\n☐ Pierś z kurczaka – 240 g\n
+ ☐ Płatki owsiane – 120 g\n☐ Ryż basmati – 180 g\n☐ Serek wiejs
+ ki light – 400 g\n☐ Skyr naturalny – 800 g\n☐ Szpinak – 100 g\n
+ ☐ Tofu naturalne – 60 g\n☐ Truskawki mrożone – 240 g\n☐ Tuńczy
+ k w sosie własnym (puszka) – 2 szt\n☐ Twaróg półtłusty – 150 g\
+ n☐ Wafle ryżowe – 3 szt\n☐ Ziemniaki – 200 g\n\nOdhaczaj w apce: 
+ https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -834,7 +829,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ochota@jadlospis-eru
-DTSTAMP:20261029T165759Z
+DTSTAMP:20261029T165916Z
 DTSTART:20261106T180000
 DTEND:20261106T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
