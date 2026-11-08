@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-11-02-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261102T173000
 DTEND:20261102T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z warzywami w gochujangu (2 porcje)
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261102T070000
 DTEND:20261102T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261103T173000
 DTEND:20261103T181500
 SUMMARY:Kuchnia: odgrzej Kurczak z warzywami w gochujangu
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261103T070000
 DTEND:20261103T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261104T173000
 DTEND:20261104T181500
 SUMMARY:Kuchnia: ugotuj Tofu z fasolką i lao gan ma na jaglance (2 porcje)
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261104T070000
 DTEND:20261104T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261105T173000
 DTEND:20261105T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z warzywami w gochujangu (2 porcje)
@@ -133,7 +133,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261105T070000
 DTEND:20261105T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -149,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261106T173000
 DTEND:20261106T181500
 SUMMARY:Kuchnia: ugotuj Tofu z fasolką i lao gan ma na jaglance (2 porcje)
@@ -169,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261106T070000
 DTEND:20261106T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -185,7 +185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261107T173000
 DTEND:20261107T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z warzywami w gochujangu (2 porcje)
@@ -205,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261108T173000
 DTEND:20261108T181500
 SUMMARY:Kuchnia: ugotuj Dynia z ciecierzycą w gochujangu i twarożek (2 po
@@ -226,7 +226,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261109T173000
 DTEND:20261109T181500
 SUMMARY:Kuchnia: ugotuj Kurczak z marchewką i cebulką po japońsku + onig
@@ -248,7 +248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261109T070000
 DTEND:20261109T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -264,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261110T173000
 DTEND:20261110T181500
 SUMMARY:Kuchnia: odgrzej Kurczak z marchewką i cebulką po japońsku + oni
@@ -283,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261110T070000
 DTEND:20261110T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -299,29 +299,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261111T173000
 DTEND:20261111T181500
 SUMMARY:Kuchnia: ugotuj Salmon bowl: łosoś z air fryera\, ryż\, brokuł\
- , ogórek\, awokado i sos sriracha-jogurt (2 porcje)
+ , ogórek i sos sriracha-skyr (2 porcje)
 DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Salmon bowl: łosoś z air fryer
- a\, ryż\, brokuł\, ogórek\, awokado i sos sriracha-jogurt\nAir fryer + 
- garnek\, ok. 25 min. Ugotuj ryż. Łososia w kostkę skrop sosem sojowym\,
-  air fryer 200°C 8–10 min. Brokuł gotuj 5 min. Sos: jogurt wymieszaj z
- e srirachą. W misce: ryż\, łosoś\, brokuł\, ogórek i awokado w kostk
- ę\, polej sosem\, posyp siemieniem.\n\nApka: https://claude.ai/artifact/C
- SR4sfUNkmKzgj5wN3XYnq
+ a\, ryż\, brokuł\, ogórek i sos sriracha-skyr\nAir fryer + garnek\, ok.
+  25 min. Ugotuj ryż. Łososia w kostkę skrop sosem sojowym\, air fryer 2
+ 00°C 8–10 min. Brokuł gotuj 5 min. Sos: skyr wymieszaj ze srirachą. W
+  misce: ryż\, łosoś\, brokuł\, ogórek i awokado w kostkę\, polej sos
+ em\, posyp siemieniem.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5
+ wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kuchnia: ugotuj Salmon bowl: łosoś z air fryera\, ryż\, brok
- uł\, ogórek\, awokado i sos sriracha-jogurt (2 porcje)
+ uł\, ogórek i sos sriracha-skyr (2 porcje)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261111T070000
 DTEND:20261111T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -337,26 +337,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261112T173000
 DTEND:20261112T181500
 SUMMARY:Kuchnia: odgrzej Salmon bowl: łosoś z air fryera\, ryż\, brokuł
- \, ogórek\, awokado i sos sriracha-jogurt
+ \, ogórek i sos sriracha-skyr
 DESCRIPTION:OBIAD – ODGRZEWASZ: Salmon bowl: łosoś z air fryera\, ryż\
- , brokuł\, ogórek\, awokado i sos sriracha-jogurt\nRyż\, łososia i bro
- kuł w mikrofali 1\,5 min\; ogórek\, awokado (świeże) i sos dodaj zimne
- .\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+ , brokuł\, ogórek i sos sriracha-skyr\nRyż\, łososia i brokuł w mikro
+ fali 1\,5 min\; ogórek\, awokado (świeże) i sos dodaj zimne.\n\nApka: h
+ ttps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kuchnia: odgrzej Salmon bowl: łosoś z air fryera\, ryż\, bro
- kuł\, ogórek\, awokado i sos sriracha-jogurt
+ kuł\, ogórek i sos sriracha-skyr
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261112T070000
 DTEND:20261112T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -372,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261113T173000
 DTEND:20261113T181500
 SUMMARY:Kuchnia: ugotuj Gulasz z batata i kurczaka z warzywami po chińsku 
@@ -394,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261113T070000
 DTEND:20261113T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -410,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261114T173000
 DTEND:20261114T181500
 SUMMARY:Kuchnia: odgrzej Gulasz z batata i kurczaka z warzywami po chińsku
@@ -428,47 +428,46 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261115T173000
 DTEND:20261115T181500
-SUMMARY:Kuchnia: ugotuj Łosoś z air fryera z ziemniaczkami\, fasolką i c
- ytryną (2 porcje)
-DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Łosoś z air fryera z ziemniacz
- kami\, fasolką i cytryną\nAir fryer + garnek\, ok. 25 min. Ziemniaki prz
- ekrój\, wymieszaj z oliwą i ziołami\, air fryer 200°C 18–20 min. Na 
- ostatnie 9 min dołóż łososia oprószonego ziołami i czosnkiem. Fasolk
- ę gotuj 6 min. Podaj z plastrem cytryny.\n\nApka: https://claude.ai/artif
- act/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Oyakodon z kurczakiem i cebulką (wersja bez jajek)
+  (2 porcje)
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Oyakodon z kurczakiem i cebulką
+  (wersja bez jajek)\nPatelnia + garnek\, ok. 25 min. Ugotuj ryż. Na patel
+ ni zagotuj sos\, wrzuć cebulę i duś 4 min. Dodaj kurczaka w cienkich ka
+ wałkach\, duś pod przykryciem 7–8 min\, aż będzie miękki\, a sos le
+ kko się zredukuje. Wyłóż na ryż razem z sosem\, posyp szczypiorkiem.\
+ n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Łosoś z air fryera z ziemniaczkami\, fasolką
-  i cytryną (2 porcje)
+DESCRIPTION:Kuchnia: ugotuj Oyakodon z kurczakiem i cebulką (wersja bez ja
+ jek) (2 porcje)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261116T173000
 DTEND:20261116T181500
-SUMMARY:Kuchnia: odgrzej Łosoś z air fryera z ziemniaczkami\, fasolką i 
- cytryną
-DESCRIPTION:OBIAD – ODGRZEWASZ: Łosoś z air fryera z ziemniaczkami\, fa
- solką i cytryną\nŁososia i ziemniaki odśwież 3–4 min w air fryerze 
- na 170°C\, fasolkę w mikrofali.\n\nApka: https://claude.ai/artifact/CSR4
- sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: odgrzej Oyakodon z kurczakiem i cebulką (wersja bez jajek
+ )
+DESCRIPTION:OBIAD – ODGRZEWASZ: Oyakodon z kurczakiem i cebulką (wersja 
+ bez jajek)\nMikrofala 2 min – sos zrobi się znów soczysty.\n\nApka: ht
+ tps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Łosoś z air fryera z ziemniaczkami\, fasolk
- ą i cytryną
+DESCRIPTION:Kuchnia: odgrzej Oyakodon z kurczakiem i cebulką (wersja bez j
+ ajek)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261116T070000
 DTEND:20261116T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -484,7 +483,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261117T173000
 DTEND:20261117T181500
 SUMMARY:Kuchnia: ugotuj Egg roll in a bowl: indyk z kapustą\, marchewką i
@@ -505,7 +504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261117T070000
 DTEND:20261117T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -521,7 +520,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261118T173000
 DTEND:20261118T181500
 SUMMARY:Kuchnia: odgrzej Egg roll in a bowl: indyk z kapustą\, marchewką 
@@ -539,7 +538,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261118T070000
 DTEND:20261118T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -555,28 +554,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261119T173000
 DTEND:20261119T181500
-SUMMARY:Kuchnia: ugotuj Oyakodon z kurczakiem i cebulką (wersja bez jajek)
-  (2 porcje)
-DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Oyakodon z kurczakiem i cebulką
-  (wersja bez jajek)\nPatelnia + garnek\, ok. 25 min. Ugotuj ryż. Na patel
- ni zagotuj sos\, wrzuć cebulę i duś 4 min. Dodaj kurczaka w cienkich ka
- wałkach\, duś pod przykryciem 7–8 min\, aż będzie miękki\, a sos le
- kko się zredukuje. Wyłóż na ryż razem z sosem\, posyp szczypiorkiem.\
- n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Dyniowy udon z mielonym indykiem (z TikToka) (2 por
+ cje)
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dyniowy udon z mielonym indykiem
+  (z TikToka)\nAir fryer + garnek + patelnia\, ok. 25 min. Dynię wrzuć do
+  air fryera 200°C 15 min. Ugotuj udon\, odlej szklankę wody z gotowania.
+  Dynię rozgnieć z sosem sojowym\, masłem orzechowym\, chili i ok. ¾ sz
+ klanki wody z makaronu na kremowy sos. Indyka podsmaż na oleju sezamowym 
+ 5–6 min z imbirem. Wymieszaj makaron z sosem\, indyk na wierzch\, szczyp
+ iorek.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Oyakodon z kurczakiem i cebulką (wersja bez ja
- jek) (2 porcje)
+DESCRIPTION:Kuchnia: ugotuj Dyniowy udon z mielonym indykiem (z TikToka) (2
+  porcje)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261119T070000
 DTEND:20261119T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -592,25 +592,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261120T173000
 DTEND:20261120T181500
-SUMMARY:Kuchnia: odgrzej Oyakodon z kurczakiem i cebulką (wersja bez jajek
- )
-DESCRIPTION:OBIAD – ODGRZEWASZ: Oyakodon z kurczakiem i cebulką (wersja 
- bez jajek)\nMikrofala 2 min – sos zrobi się znów soczysty.\n\nApka: ht
- tps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: odgrzej Dyniowy udon z mielonym indykiem (z TikToka)
+DESCRIPTION:OBIAD – ODGRZEWASZ: Dyniowy udon z mielonym indykiem (z TikTo
+ ka)\nMikrofala 2 min\, dolej 2 łyżki wody\, żeby sos znów był kremowy
+ .\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Oyakodon z kurczakiem i cebulką (wersja bez j
- ajek)
+DESCRIPTION:Kuchnia: odgrzej Dyniowy udon z mielonym indykiem (z TikToka)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261120T070000
 DTEND:20261120T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -626,7 +624,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261121T173000
 DTEND:20261121T181500
 SUMMARY:Kuchnia: ugotuj Stir-fry z kurczakiem\, pieczarkami i pak choi z ma
@@ -647,7 +645,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261122T173000
 DTEND:20261122T181500
 SUMMARY:Kuchnia: odgrzej Stir-fry z kurczakiem\, pieczarkami i pak choi z m
@@ -665,7 +663,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261123T173000
 DTEND:20261123T181500
 SUMMARY:Kuchnia: ugotuj Japońskie curry (kare) z kurczakiem\, dynią i mar
@@ -686,7 +684,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261123T070000
 DTEND:20261123T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -702,7 +700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261124T173000
 DTEND:20261124T181500
 SUMMARY:Kuchnia: odgrzej Japońskie curry (kare) z kurczakiem\, dynią i ma
@@ -720,7 +718,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261124T070000
 DTEND:20261124T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -736,80 +734,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261125T173000
 DTEND:20261125T181500
-SUMMARY:Kuchnia: ugotuj Shogayaki: indyk w sosie imbirowym z duszoną kapus
- tą pekińską i ryżem (2 porcje)
-DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Shogayaki: indyk w sosie imbirow
- ym z duszoną kapustą pekińską i ryżem\nPatelnia + garnek\, ok. 20 min
- . Ugotuj ryż. Indyka smaż na oleju 2 min z każdej strony\, wlej sos i g
- otuj 2 min\, aż oblepi mięso. Zdejmij\, na tę samą patelnię kapustę 
- pekińską w paskach z 3 łyżkami wody na 4 min. Podaj z ryżem\, posyp s
- ezamem.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
-URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Shogayaki: indyk w sosie imbirowym z duszoną k
- apustą pekińską i ryżem (2 porcje)
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-25-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
-DTSTART:20261125T070000
-DTEND:20261125T071000
-SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
-DESCRIPTION:• posiłki do pracy z rozpiski od lekarza\n  W pracy (Posiłk
- i z pracy): zgodnie z rozpiską od lekarza\n\nApka: https://claude.ai/arti
- fact/CSR4sfUNkmKzgj5wN3XYnq
-URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-26-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
-DTSTART:20261126T173000
-DTEND:20261126T181500
-SUMMARY:Kuchnia: odgrzej Shogayaki: indyk w sosie imbirowym z duszoną kapu
- stą pekińską i ryżem
-DESCRIPTION:OBIAD – ODGRZEWASZ: Shogayaki: indyk w sosie imbirowym z dusz
- oną kapustą pekińską i ryżem\nMikrofala 2 min.\n\nApka: https://claud
- e.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
-URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Shogayaki: indyk w sosie imbirowym z duszoną 
- kapustą pekińską i ryżem
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-26-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
-DTSTART:20261126T070000
-DTEND:20261126T071000
-SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
-DESCRIPTION:• posiłki do pracy z rozpiski od lekarza\n  W pracy (Posiłk
- i z pracy): zgodnie z rozpiską od lekarza\n\nApka: https://claude.ai/arti
- fact/CSR4sfUNkmKzgj5wN3XYnq
-URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
-TRIGGER:PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-27-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
-DTSTART:20261127T173000
-DTEND:20261127T181500
 SUMMARY:Kuchnia: ugotuj Dorsz miso z air fryera\, ryż z wakame i brokuł (
  2 porcje)
 DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dorsz miso z air fryera\, ryż z
@@ -827,8 +754,78 @@ TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-rano@jadlospis-eru
+DTSTAMP:20261108T151345Z
+DTSTART:20261125T070000
+DTEND:20261125T071000
+SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
+DESCRIPTION:• posiłki do pracy z rozpiski od lekarza\n  W pracy (Posiłk
+ i z pracy): zgodnie z rozpiską od lekarza\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-kuchnia@jadlospis-eru
+DTSTAMP:20261108T151345Z
+DTSTART:20261126T173000
+DTEND:20261126T181500
+SUMMARY:Kuchnia: odgrzej Dorsz miso z air fryera\, ryż z wakame i brokuł
+DESCRIPTION:OBIAD – ODGRZEWASZ: Dorsz miso z air fryera\, ryż z wakame i
+  brokuł\nDorsza odśwież 3 min w air fryerze na 160°C\, ryż w mikrofal
+ i.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kuchnia: odgrzej Dorsz miso z air fryera\, ryż z wakame i brok
+ uł
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-rano@jadlospis-eru
+DTSTAMP:20261108T151345Z
+DTSTART:20261126T070000
+DTEND:20261126T071000
+SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
+DESCRIPTION:• posiłki do pracy z rozpiski od lekarza\n  W pracy (Posiłk
+ i z pracy): zgodnie z rozpiską od lekarza\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-kuchnia@jadlospis-eru
+DTSTAMP:20261108T151345Z
+DTSTART:20261127T173000
+DTEND:20261127T181500
+SUMMARY:Kuchnia: ugotuj Duża zupa miso z udonem\, tofu\, grzybami\, wakame
+  i edamame (2 porcje)
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Duża zupa miso z udonem\, tofu\
+ , grzybami\, wakame i edamame\nGarnek\, ok. 15 min. Zagotuj bulion\, wrzu
+ ć pieczarki w plastrach i edamame na 4 min\, potem udon i tofu w kostce n
+ a 2 min\, wakame na 1 min. Zdejmij z ognia i dopiero wtedy rozmieszaj miso
+  (nie gotuj go). Szczypiorek na wierzch.\n\nApka: https://claude.ai/artifa
+ ct/CSR4sfUNkmKzgj5wN3XYnq
+URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kuchnia: ugotuj Duża zupa miso z udonem\, tofu\, grzybami\, wa
+ kame i edamame (2 porcje)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261127T070000
 DTEND:20261127T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -844,62 +841,64 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261128T173000
 DTEND:20261128T181500
-SUMMARY:Kuchnia: odgrzej Dorsz miso z air fryera\, ryż z wakame i brokuł
-DESCRIPTION:OBIAD – ODGRZEWASZ: Dorsz miso z air fryera\, ryż z wakame i
-  brokuł\nDorsza odśwież 3 min w air fryerze na 160°C\, ryż w mikrofal
- i.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: odgrzej Duża zupa miso z udonem\, tofu\, grzybami\, wakam
+ e i edamame
+DESCRIPTION:OBIAD – ODGRZEWASZ: Duża zupa miso z udonem\, tofu\, grzybam
+ i\, wakame i edamame\nOdgrzej w mikrofali.\n\nApka: https://claude.ai/arti
+ fact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Dorsz miso z air fryera\, ryż z wakame i brok
- uł
+DESCRIPTION:Kuchnia: odgrzej Duża zupa miso z udonem\, tofu\, grzybami\, w
+ akame i edamame
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261129T173000
 DTEND:20261129T181500
-SUMMARY:Kuchnia: ugotuj Dyniowy udon z mielonym indykiem (z TikToka) (2 por
- cje)
-DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Dyniowy udon z mielonym indykiem
-  (z TikToka)\nAir fryer + garnek + patelnia\, ok. 25 min. Dynię wrzuć do
-  air fryera 200°C 15 min. Ugotuj udon\, odlej szklankę wody z gotowania.
-  Dynię rozgnieć z sosem sojowym\, masłem orzechowym\, chili i ok. ¾ sz
- klanki wody z makaronu na kremowy sos. Indyka podsmaż na oleju sezamowym 
- 5–6 min z imbirem. Wymieszaj makaron z sosem\, indyk na wierzch\, szczyp
- iorek.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Shogayaki: kurczak w sosie imbirowym z duszoną kap
+ ustą pekińską i ryżem (2 porcje)
+DESCRIPTION:OBIAD – GOTUJESZ (2 porcje): Shogayaki: kurczak w sosie imbir
+ owym z duszoną kapustą pekińską i ryżem\nPatelnia + garnek\, ok. 20 m
+ in. Ugotuj ryż. kurczak smaż na oleju 2 min z każdej strony\, wlej sos 
+ i gotuj 2 min\, aż oblepi mięso. Zdejmij\, na tę samą patelnię kapust
+ ę pekińską w paskach z 3 łyżkami wody na 4 min. Podaj z ryżem\, posy
+ p sezamem.\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Dyniowy udon z mielonym indykiem (z TikToka) (2
-  porcje)
+DESCRIPTION:Kuchnia: ugotuj Shogayaki: kurczak w sosie imbirowym z duszoną
+  kapustą pekińską i ryżem (2 porcje)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261130T173000
 DTEND:20261130T181500
-SUMMARY:Kuchnia: odgrzej Dyniowy udon z mielonym indykiem (z TikToka)
-DESCRIPTION:OBIAD – ODGRZEWASZ: Dyniowy udon z mielonym indykiem (z TikTo
- ka)\nMikrofala 2 min\, dolej 2 łyżki wody\, żeby sos znów był kremowy
- .\n\nApka: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: odgrzej Shogayaki: kurczak w sosie imbirowym z duszoną ka
+ pustą pekińską i ryżem
+DESCRIPTION:OBIAD – ODGRZEWASZ: Shogayaki: kurczak w sosie imbirowym z du
+ szoną kapustą pekińską i ryżem\nMikrofala 2 min.\n\nApka: https://cla
+ ude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: odgrzej Dyniowy udon z mielonym indykiem (z TikToka)
+DESCRIPTION:Kuchnia: odgrzej Shogayaki: kurczak w sosie imbirowym z duszon
+ ą kapustą pekińską i ryżem
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261130T070000
 DTEND:20261130T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -915,28 +914,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-kuchnia@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261201T173000
 DTEND:20261201T181500
-SUMMARY:Kuchnia: ugotuj Duża zupa miso z udonem\, tofu\, grzybami\, wakame
-  i edamame (1 porcja)
-DESCRIPTION:OBIAD – GOTUJESZ (1 porcja): Duża zupa miso z udonem\, tofu\
- , grzybami\, wakame i edamame\nGarnek\, ok. 15 min. Zagotuj bulion\, wrzu
- ć pieczarki w plastrach i edamame na 4 min\, potem udon i tofu w kostce n
- a 2 min\, wakame na 1 min. Zdejmij z ognia i dopiero wtedy rozmieszaj miso
-  (nie gotuj go). Szczypiorek na wierzch.\n\nApka: https://claude.ai/artifa
- ct/CSR4sfUNkmKzgj5wN3XYnq
+SUMMARY:Kuchnia: ugotuj Kurczak teriyaki z air fryera z bulgurem i brokułe
+ m (1 porcja)
+DESCRIPTION:OBIAD – GOTUJESZ (1 porcja): Kurczak teriyaki z air fryera z 
+ bulgurem i brokułem\nAir fryer + garnek\, ok. 25 min. Kurczaka w kostce w
+ ymieszaj z łyżką sosu\, air fryer 190°C 12–14 min. Bulgur zalej wrz
+ ątkiem (2× tyle wody)\, przykryj na 10 min. Brokuł gotuj 5 min. Na pate
+ lni zagotuj resztę sosu\, wrzuć kurczaka na 1 min.\n\nApka: https://clau
+ de.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kuchnia: ugotuj Duża zupa miso z udonem\, tofu\, grzybami\, wa
- kame i edamame (1 porcja)
+DESCRIPTION:Kuchnia: ugotuj Kurczak teriyaki z air fryera z bulgurem i brok
+ ułem (1 porcja)
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-rano@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261201T070000
 DTEND:20261201T071000
 SUMMARY:Spakuj do pracy: posiłki do pracy z rozpiski od lekarza
@@ -952,20 +951,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261108T110000
 DTEND:20261108T120000
 SUMMARY:Zakupy: Tydz. 2 · pn–czw (lista w notatce)
-DESCRIPTION:☐ Awokado – 1 szt\n☐ Brokuł (mrożony) – 1 × torebka 
- 450 g\n☐ Cebula – 1 szt\n☐ Jabłko – 1 szt\n☐ Jogurt grecki – 
- 1 × kubek 400 g\n☐ Łosoś (filet) – 1 × opak. ok. 250 g\n☐ Marche
- w – 2 szt\n☐ Mleko 2% – 1 × karton 1 l\n☐ Ogórek – 2 szt\n☐ 
- Płatki owsiane – 1 × paczka 500 g\n☐ Pomidor – 1 szt\n☐ Ryż ja
- śminowy – 1 × paczka 1 kg\n☐ Ser żółty light (plastry) – 1 × o
- pak. 10 plastrów\n☐ Skyr naturalny – 1 × kubek 450 g\n☐ Skyr wanil
- iowy – 2 × kubeczek\n☐ Szynka z indyka (plastry) – 1 × opak. ok. 1
- 0 plastrów\n☐ Tortilla pełnoziarnista – 1 × opak. 6 szt\n\nOdhaczaj
-  w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Brokuł (mrożony) – 1 × torebka 450 g\n☐ Cebula – 1
+  szt\n☐ Jabłko – 1 szt\n☐ Łosoś (filet) – 1 × opak. ok. 250 g\
+ n☐ Marchew – 2 szt\n☐ Mleko 2% – 1 × karton 1 l (UHT)\n☐ Ogóre
+ k – 2 szt\n☐ Płatki owsiane – 1 × paczka 500 g\n☐ Pomidor – 1 
+ szt\n☐ Ryż jaśminowy – 1 × paczka 1 kg\n☐ Ser żółty light (pla
+ stry) – 1 × opak. 10 plastrów\n☐ Skyr naturalny – 1 × kubek 450 g
+ \n☐ Skyr waniliowy – 2 × kubeczek\n☐ Tortilla pełnoziarnista – 1
+  × opak. 6 szt (resztę zamroź)\n☐ Tuńczyk w sosie własnym (puszka) 
+ – 1 × puszka\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR4sfUNkmK
+ zgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -975,23 +974,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261112T170000
 DTEND:20261112T180000
 SUMMARY:Zakupy: Tydz. 2 · pt–nd (lista w notatce)
-DESCRIPTION:☐ Awokado – 1 szt\n☐ Cebula – 1 szt\n☐ Chleb żytni 
- – 1 × bochenek 500 g (mroź kromki)\n☐ Cytryna – 1 szt\n☐ Dynia 
- – 1 × cała hokkaido\n☐ Fasolka szparagowa (mrożona) – 1 × torebk
- a 450 g\n☐ Kasza jaglana – 1 × paczka 4×100 g\n☐ Kefir – 1 × bu
- telka 400 ml\n☐ Łosoś (filet) – 1 × opak. ok. 250 g\n☐ Mieszanka 
- chińska (mrożona) – 1 × torebka 450 g\n☐ Ogórek – 1 szt\n☐ Orz
- echy włoskie – 1 × paczka 100 g\n☐ Pieczarki – 1 × opak. 250 g\n
- ☐ Pierś z kurczaka – 1 × opak. ok. 500 g\n☐ Pomidor – 1 szt\n☐
-  Pomidorki koktajlowe – 1 × opak. 250 g\n☐ Szpinak – 1 × opak. 150
-  g\n☐ Tofu naturalne – 1 × kostka 180 g\n☐ Tuńczyk w sosie własny
- m (puszka) – 1 × puszka\n☐ Wakame suszone – 1 × paczka 50 g\n☐ Z
- iemniaki – 1 × siatka 1 kg\n\nOdhaczaj w apce: https://claude.ai/artifa
- ct/CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Cebula – 2 szt\n☐ Chleb żytni – 1 × bochenek 500 g 
+ (mroź kromki)\n☐ Cytryna – 1 szt\n☐ Dynia – 1 × cała hokkaido\n
+ ☐ Kasza jaglana – 1 × paczka 4×100 g\n☐ Kefir – 1 × butelka 400
+  ml\n☐ Mieszanka chińska (mrożona) – 1 × torebka 450 g\n☐ Mirin 
+ – 1 × butelka 150 ml\n☐ Ogórek – 1 szt\n☐ Pieczarki – 1 × opa
+ k. 250 g\n☐ Pierś z kurczaka – 1 × opak. ok. 500 g (połowę od razu
+  zamroź)\n☐ Pomidor – 1 szt\n☐ Szczypiorek (pęczek) – 1 × pęcz
+ ek\n☐ Tofu naturalne – 1 × kostka 180 g\n☐ Tuńczyk w sosie własny
+ m (puszka) – 2 × puszka\n☐ Wafle ryżowe – 1 × paczka ok. 12 szt\n
+ ☐ Wakame suszone – 1 × paczka 50 g\n\nOdhaczaj w apce: https://claude
+ .ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1001,21 +998,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261115T110000
 DTEND:20261115T120000
 SUMMARY:Zakupy: Tydz. 3 · pn–czw (lista w notatce)
-DESCRIPTION:☐ Awokado – 1 szt\n☐ Cebula – 1 szt\n☐ Imbir świeży
-  – 1 × kawałek korzenia\n☐ Indyk mielony – 1 × opak. 400 g\n☐ J
- abłko – 1 szt\n☐ Jogurt grecki – 1 × kubek 400 g\n☐ Kapusta bia
- ła – 1 × główka (albo połówka)\n☐ Kefir – 1 × butelka 400 ml\
- n☐ Kukurydza (puszka) – 1 × puszka\n☐ Marchew – 2 szt\n☐ Mirin 
- – 1 × butelka 150 ml\n☐ Mleko 2% – 1 × karton 1 l\n☐ Pomidor –
-  1 szt\n☐ Sałata rzymska – 1 × główka\n☐ Serek wiejski light –
-  1 × kubeczek 200 g\n☐ Skyr waniliowy – 1 × kubeczek\n☐ Szczypiore
- k (pęczek) – 1 × pęczek\n☐ Szynka z indyka (plastry) – 1 × opak.
-  ok. 10 plastrów\n☐ Wafle ryżowe – 1 × paczka ok. 12 szt\n\nOdhacza
- j w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Imbir świeży – 1 × kawałek korzenia\n☐ Indyk mielon
+ y – 1 × opak. 500 g (połowę od razu zamroź)\n☐ Jabłko – 3 szt\n
+ ☐ Kapusta biała – 1 × główka (albo połówka)\n☐ Makaron udon 
+ – 1 × opak. 2×200 g\n☐ Marchew – 2 szt\n☐ Masło orzechowe – 1
+  × słoik 350 g\n☐ Pomidor – 2 szt\n☐ Serek wiejski light – 1 × 
+ kubeczek 200 g\n☐ Skyr waniliowy – 1 × kubeczek\n☐ Szczypiorek (pę
+ czek) – 1 × pęczek\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR4
+ sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1025,17 +1019,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261119T170000
 DTEND:20261119T180000
 SUMMARY:Zakupy: Tydz. 3 · pt–nd (lista w notatce)
-DESCRIPTION:☐ Jabłko – 2 szt\n☐ Kefir – 1 × butelka 400 ml\n☐ M
- akaron ryżowy – 1 × paczka 200 g\n☐ Ogórek – 1 szt\n☐ Pak choi 
- – 2 szt\n☐ Pieczarki – 2 × opak. 250 g\n☐ Pierś z kurczaka – 1
-  × opak. ok. 500 g\n☐ Skyr naturalny – 1 × kubek 450 g\n☐ Skyr wan
- iliowy – 1 × kubeczek\n☐ Tuńczyk w sosie własnym (puszka) – 1 × 
- puszka\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XY
- nq
+DESCRIPTION:☐ Jabłko – 3 szt\n☐ Makaron ryżowy – 1 × paczka 200 
+ g\n☐ Mleko 2% – 1 × karton 1 l (UHT)\n☐ Ogórek – 1 szt\n☐ Pak 
+ choi – 2 szt\n☐ Pieczarki – 1 × opak. 250 g\n☐ Pierś z kurczaka 
+ – 1 × opak. ok. 500 g (połowę od razu zamroź)\n☐ Serek wiejski lig
+ ht – 1 × kubeczek 200 g\n☐ Skyr naturalny – 1 × kubek 450 g\n☐ S
+ kyr waniliowy – 1 × kubeczek\n☐ Tuńczyk w sosie własnym (puszka) 
+ – 1 × puszka\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR4sfUNkmK
+ zgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1045,20 +1040,19 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261122T110000
 DTEND:20261122T120000
 SUMMARY:Zakupy: Tydz. 4 · pn–czw (lista w notatce)
-DESCRIPTION:☐ Awokado – 1 szt\n☐ Bulion warzywny – 1 × karton 500 
- ml (albo kostka)\n☐ Cebula – 1 szt\n☐ Filet z indyka – 1 × opak. 
- ok. 500 g\n☐ Jabłko – 2 szt\n☐ Jogurt grecki – 1 × kubek 400 g\n
- ☐ Kapusta pekińska – 1 × główka\n☐ Kefir – 1 × butelka 400 ml
- \n☐ Kukurydza (puszka) – 1 × puszka\n☐ Marchew – 1 szt\n☐ Mleko
-  2% – 1 × karton 1 l\n☐ Pomidor – 1 szt\n☐ Sałata rzymska – 1 
- × główka\n☐ Ser żółty light (plastry) – 1 × opak. 10 plastrów\
- n☐ Skyr waniliowy – 2 × kubeczek\n☐ Szynka z indyka (plastry) – 1
-  × opak. ok. 10 plastrów\n\nOdhaczaj w apce: https://claude.ai/artifact/
- CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Brokuł (mrożony) – 1 × torebka 450 g\n☐ Bulion warzy
+ wny – 1 × karton 500 ml (albo kostka)\n☐ Cebula – 1 szt\n☐ Dorsz 
+ (mrożony filet) – 1 × opak. 400 g\n☐ Jabłko – 1 szt\n☐ Marchew 
+ – 1 szt\n☐ Ogórek – 1 szt\n☐ Orzechy włoskie – 1 × paczka 100
+  g\n☐ Pasta miso – 1 × opak. 300 g\n☐ Pieczarki – 1 × opak. 250 
+ g\n☐ Pomidor – 2 szt\n☐ Sałata rzymska – 1 × główka\n☐ Skyr 
+ waniliowy – 2 × kubeczek\n☐ Tofu naturalne – 1 × kostka 180 g\n☐
+  Tuńczyk w sosie własnym (puszka) – 3 × puszka\n\nOdhaczaj w apce: ht
+ tps://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1068,22 +1062,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261126T170000
 DTEND:20261126T180000
 SUMMARY:Zakupy: Tydz. 4 · pt–nd (lista w notatce)
-DESCRIPTION:☐ Brokuł (mrożony) – 1 × torebka 450 g\n☐ Dorsz (mroż
- ony filet) – 1 × opak. 400 g\n☐ Indyk mielony – 1 × opak. 400 g\n
- ☐ Jabłko – 1 szt\n☐ Kukurydza (puszka) – 1 × puszka\n☐ Makaron
-  udon – 1 × opak. 2×200 g\n☐ Masło orzechowe – 1 × słoik 350 g\
- n☐ Ogórek – 1 szt\n☐ Pasta miso – 1 × opak. 300 g\n☐ Pieczarki
-  – 1 × opak. 250 g\n☐ Pomidorki koktajlowe – 1 × opak. 250 g\n☐ 
- Ryż jaśminowy – 1 × paczka 1 kg\n☐ Serek wiejski light – 1 × kub
- eczek 200 g\n☐ Skyr naturalny – 1 × kubek 450 g\n☐ Skyr waniliowy 
- – 1 × kubeczek\n☐ Szczypiorek (pęczek) – 1 × pęczek\n☐ Szpinak
-  – 1 × opak. 150 g\n☐ Tofu naturalne – 1 × kostka 180 g\n☐ Tuńc
- zyk w sosie własnym (puszka) – 1 × puszka\n\nOdhaczaj w apce: https://
- claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Bulion warzywny – 2 × karton 500 ml (albo kostka)\n☐ E
+ damame (mrożone) – 1 × torebka 400 g\n☐ Jabłko – 1 szt\n☐ Kapus
+ ta pekińska – 1 × główka\n☐ Kefir – 2 × butelka 400 ml\n☐ Mak
+ aron udon – 1 × opak. 2×200 g\n☐ Mleko 2% – 1 × karton 1 l (UHT)\
+ n☐ Ogórek – 1 szt\n☐ Pierś z kurczaka – 1 × opak. ok. 500 g (po
+ łowę od razu zamroź)\n☐ Ryż jaśminowy – 1 × paczka 1 kg\n☐ Sky
+ r naturalny – 1 × kubek 450 g\n☐ Skyr waniliowy – 1 × kubeczek\n
+ ☐ Tofu naturalne – 1 × kostka 180 g\n☐ Tuńczyk w sosie własnym (p
+ uszka) – 2 × puszka\n\nOdhaczaj w apce: https://claude.ai/artifact/CSR4
+ sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1093,15 +1085,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zakupy@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261129T110000
 DTEND:20261129T120000
 SUMMARY:Zakupy: Tydz. 5 · pn–czw (lista w notatce)
-DESCRIPTION:☐ Bulion warzywny – 1 × karton 500 ml (albo kostka)\n☐ E
- damame (mrożone) – 1 × torebka 400 g\n☐ Jabłko – 1 szt\n☐ Makar
- on udon – 1 × opak. 2×200 g\n☐ Mleko 2% – 1 × karton 1 l\n☐ Og
- órek – 1 szt\n☐ Tuńczyk w sosie własnym (puszka) – 1 × puszka\n\
- nOdhaczaj w apce: https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
+DESCRIPTION:☐ Bulgur – 1 × paczka 400 g\n☐ Ogórek – 1 szt\n☐ Ol
+ ej sezamowy – 1 × butelka 250 ml\n☐ Serek wiejski light – 1 × kube
+ czek 200 g\n☐ Skyr waniliowy – 1 × kubeczek\n\nOdhaczaj w apce: https
+ ://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 URL:https://claude.ai/artifact/CSR4sfUNkmKzgj5wN3XYnq
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1111,7 +1102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-ochota@jadlospis-eru
-DTSTAMP:20261108T151135Z
+DTSTAMP:20261108T151345Z
 DTSTART:20261129T180000
 DTEND:20261129T181500
 SUMMARY:Na co masz ochotę? Wpisz zachcianki na nowy plan
